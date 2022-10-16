@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+
+    <meta name="robots" content="all" />
+    <meta name="author" content="Tencent-ISRD" />
+    <meta name="Copyright" content="Tencent" />
+    <title>赠送信息 - QQ秀 QQShow</title>
+    <link rel="stylesheet" rev="stylesheet" href="./css/mail_send.css" type="text/css" media="screen" />
+    <link rel="Shortcut Icon" href="./favicon.ico" type="image/x-icon" />
+
+    <script type="text/javascript" charset="gb2312" src="./js/core.js"></script>
+
+</head>
+
+<body class="mail_send mail_send_flower">
+    <p class="mail_description" id="tips"></p>
+    <div class="wrap">
+        <div class="flower">
+            <span class="flower_pic"><img id="item" src="https://qqshow2-item.qq.com/NaN/00/00/cache.gif" /></span>
+            <ul>
+                <li class="charm">
+                    您的QQ秀魅力值<strong class="important" id="charm"></strong>
+                </li>
+            </ul>
+        </div>
+        <div class="content">
+            <p class="from">留言：</p>
+            <p class="reply_content" id="msg"></p>
+            <p class="to" id="sender"></p>
+            <p class="more">
+                <a href="https://show.qq.com/community/flower/index.html" target="_blank" class="em">我也要给好友送花</a>
+            </p>
+            <p class="tips">请勿轻信汇款、中奖消息，勿轻易拨打陌生人电话。</p>
+        </div>
+    </div>
+    <script type="text/javascript">
+
+        (function () {
+
+            document.getElementById("tips").innerHTML = "hi~送" + QSFL.excore.getURLParam("name").escHtml() +
+                "给你~鲜花不仅可以成为浪漫的记忆，还可以装扮你的QQ秀形象，同时显示在聊天窗口！";
+
+            document.getElementById("item").src = "./flower/" +
+                parseInt(QSFL.excore.getURLParam("item").escHtml(), 10) + ".gif";
+            // document.getElementById("item").src = "https://qqshow2-item.qq.com/" +
+            //     parseInt(QSFL.excore.getURLParam("item").escHtml(), 10) + "/00/00/cache.gif";
+
+            document.getElementById("charm").innerHTML = "+" + parseInt(QSFL.excore.getURLParam("charm").escHtml(), 10) / 10;
+
+            document.getElementById("msg").innerHTML = QSFL.excore.getURLParam("msg").escHtml();
+
+            document.getElementById("sender").innerHTML = "签名：" + QSFL.excore.getURLParam("from").escHtml();
+        })();
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,333 @@
+@charset "utf-8";
+@import url("./global.css");
+body {
+    background: #FFF;
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* flower */
+
+.input_select_box {
+    position: relative;
+    height: 30px;
+    border: 1px solid #333;
+    background: #ffffff;
+}
+
+.input_select_box .input {
+    float: left;
+    width: 200px;
+    margin-right: -100%;
+    padding: 2px 0 0 3px;
+    border: 0;
+    background: #ffffff;
+}
+
+.input_select_box .arrow {
+    position: relative;
+    display: block;
+    float: right;
+    margin: 1px;
+    _margin-right: 0;
+    width: 15px;
+    height: 15px;
+    line-height: 16px;
+    text-align: center;
+    font-size: 9px;
+    cursor: pointer;
+    background-color: #E5E5E5;
+    border: 1px solid #D6D6D6;
+}
+
+.input_select_box .options {
+    float: left;
+    display: inline;
+    margin: 1px 0 0 -1px;
+    padding: 0;
+    width: 100%;
+    border: 1px solid #333;
+}
+
+.input_select_box .option {
+    float: left;
+    list-style: none;
+    background: #ffffff;
+    width: 100%;
+}
+
+.input_select_box .option:hover, .test1 .selected {
+    display: block;
+    cursor: pointer;
+    background: #f2f2f2;
+}
+
+/* hack for ie */
+
+.input_select_box .input {
+    width: 200px;
+}
+
+.input_select_box .options {
+    _position: absolute;
+    _top: 30px;
+}
+
+.wrap {
+    position: relative;
+    width: 630px;
+    overflow: hidden;
+    margin-left: 35px;
+    background: url(./bg_get_flower_3.gif) no-repeat 240px 90px;
+    border: 2px solid #7ac400;
+}
+
+.flower {
+    float: left;
+    width: 180px;
+    display: inline;
+    height: 290px;
+    padding: 20px 10px 0;
+    text-align: center;
+    border-right: 1px solid #9bcf46;
+}
+
+.flower .flower_pic {
+    margin: 0 auto;
+}
+
+.flower .name strong {
+    display: block;
+    text-align: center;
+    margin: 5px 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: #100f0e;
+}
+
+.flower .charm {
+    line-height: 30px;
+    text-align: center;
+}
+
+.flower .important {
+    color: red;
+    font-weight: bold;
+}
+
+.content {
+    float: left;
+    width: 340px;
+    display: inline;
+    margin: 82px 35px 0;
+}
+
+.normal {
+    margin-top: 22px;
+    margin-left: 40px;
+    width: 300px;
+    line-height: 1.6em;
+}
+
+.from {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.reply_content {
+    margin-top: 5px;
+    margin-left: 55px;
+    margin-right: 35px;
+    color: #639200;
+    line-height: 2.3em;
+    word-break: break-all;
+    word-wrap: break-word;
+    height: 80px;
+    overflow: hidden;
+}
+
+.to {
+    float: right;
+    display: inline;
+    margin-top: 6px;
+    margin-right: 28px;
+    line-height: 2em;
+}
+
+.more {
+    position: absolute;
+    bottom: 25px;
+    right: 5px;
+}
+
+.tips {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    text-indent: 15px;
+    padding: 3px 0;
+    background: url(./icon-help.gif) no-repeat left 2px;
+    color: blue;
+}
+
+.content form {
+    position: absolute;
+    z-index: 2;
+    top: 215px;
+    left: 220px;
+    width: 100%;
+}
+
+.content form select {
+    width: 230px;
+    border: 1px solid #f5742e;
+}
+
+.content form option {
+    width: 230px;
+}
+
+.content form p {
+    width: 230px;
+    text-align: left;
+    display: -moz-inline-box;
+    display: inline-block;
+}
+
+.content form .important {
+    color: red;
+}
+
+.content form button {
+    display: block;
+    width: 75px;
+    height: 21px;
+    line-height: 21px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    left: 243px;
+    top: 0;
+    background: url(./btn_confirm.gif) no-repeat;
+}
+
+.btns {
+    position: absolute;
+    z-index: 1;
+    top: 360px;
+    left: 160px;
+    width: 100%;
+}
+
+.btns a {
+    display: -moz-inline-box;
+    display: inline-block;
+    -moz-box-align: center;
+    -moz-box-pack: center;
+}
+
+#selectbox1 {
+    width: 228px;
+    height: 19px;
+    border: 1px solid #a5acb2;
+}
+
+#selectbox1 .options {
+    margin-top: 0;
+    border: 1px solid #a5acb2;
+}
+
+#selectbox1 .options {
+    _top: 19px;
+    *left: 0;
+}
+
+/* mail_description */
+
+.mail_description {
+    margin: 20px 10px;
+}
+
+.send_item {
+    float: left;
+    width: 190px;
+    height: 380px;
+    padding: 0 10px;
+    border-right: 1px solid #9bcf46;
+}
+
+.send_item h2 {
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    clear: both;
+    margin: 5px 0;
+}
+
+.send_item .item {
+    float: left;
+    clear: both;
+    width: 100%;
+}
+
+.send_item .item .itemPic {
+    float: left;
+    width: 90px;
+}
+
+.send_item .item p {
+    float: left;
+    width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    line-height: 18px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -icab-text-overflow: ellipsis;
+    -khtml-text-overflow: ellipsis;
+    -moz-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+}
+
+.mail_send_flower .wrap {
+    background-position: 240px 40px;
+}
+
+.mail_send_flower .content {
+    margin-top: 33px;
+}
+
+.send_set_item {
+    float: left;
+    width: 190px;
+    height: 380px;
+    padding: 0 10px;
+    border-right: 1px solid #9bcf46;
+}
+
+.send_set_item .global_show_img {
+    margin: 15px auto;
+}
+
+.send_set_item .note {
+    line-height: 18px;
+    margin-left: 27px;
+}
+
+.mail_send_set .wrap {
+    background-position: 240px 70px;
+}
+
+.mail_send_set .content {
+    margin-top: 63px;
+}
+
+/*  |xGv00|e5d9456eb88d2f16e14a334c2c85d28a */
