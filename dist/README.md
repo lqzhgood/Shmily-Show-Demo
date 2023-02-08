@@ -8,5 +8,5 @@ Demo 地址 http://demo.shmily.lqzh.me/
 
 
 
-[query](./screenshots/query.png)
-[statistic](./screenshots/statistic.png)
+![query](./screenshots/query.png)
+![statistic](./screenshots/statistic.png)
