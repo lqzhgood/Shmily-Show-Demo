@@ -1,0 +1,41 @@
+[
+    {
+        "type": "all",
+        "count": 69921,
+        "all": {
+            "total": 251534,
+            "percent": "27.8"
+        },
+        "part": {
+            "total": 228231,
+            "percent": "30.6"
+        },
+        "allPercent": "27.8"
+    },
+    {
+        "type": "come",
+        "count": 47518,
+        "all": {
+            "total": 163789,
+            "percent": "29.0"
+        },
+        "part": {
+            "total": 150479,
+            "percent": "31.6"
+        },
+        "allPercent": "18.9"
+    },
+    {
+        "type": "go",
+        "count": 22403,
+        "all": {
+            "total": 87745,
+            "percent": "25.5"
+        },
+        "part": {
+            "total": 77752,
+            "percent": "28.8"
+        },
+        "allPercent": "8.9"
+    }
+]

@@ -1,0 +1,775 @@
+{
+    "label": "全部",
+    "count": 87745,
+    "direction": {
+        "go": 87745,
+        "come": 0,
+        "goP": "100",
+        "comeP": "0"
+    },
+    "children": [
+        {
+            "label": "CallLog",
+            "count": 2432,
+            "icon": "/static/icon/source/CallLog.png",
+            "direction": {
+                "go": 2432,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "children": [
+                {
+                    "label": "呼出已接",
+                    "count": 1966,
+                    "icon": "/static/icon/type/CallLog-呼出已接.png",
+                    "direction": {
+                        "go": 1966,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.8083881578947368,
+                    "index": 0,
+                    "level": "5-1",
+                    "id": "id_5-1"
+                },
+                {
+                    "label": "呼出未接",
+                    "count": 466,
+                    "icon": "/static/icon/type/CallLog-呼出未接.png",
+                    "direction": {
+                        "go": 466,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.19473464270789803,
+                    "index": 1,
+                    "level": "5-2",
+                    "id": "id_5-2"
+                }
+            ],
+            "index": 4,
+            "level": 5,
+            "percent": 0.027716679013049177,
+            "id": "id_5"
+        },
+        {
+            "label": "Email",
+            "count": 37,
+            "icon": "/static/icon/source/Email.png",
+            "direction": {
+                "go": 37,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "children": [
+                {
+                    "label": "附件",
+                    "count": 26,
+                    "icon": "/static/icon/type/Email-附件.png",
+                    "direction": {
+                        "go": 26,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.7027027027027027,
+                    "index": 0,
+                    "level": "1-1",
+                    "id": "id_1-1"
+                },
+                {
+                    "label": "邮件",
+                    "count": 11,
+                    "icon": "/static/icon/type/Email-邮件.png",
+                    "direction": {
+                        "go": 11,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.44,
+                    "index": 1,
+                    "level": "1-2",
+                    "id": "id_1-2"
+                }
+            ],
+            "index": 0,
+            "level": 1,
+            "percent": 0.00042167644880050143,
+            "id": "id_1"
+        },
+        {
+            "label": "MobileQQ",
+            "count": 34589,
+            "icon": "/static/icon/source/MobileQQ.png",
+            "direction": {
+                "go": 34589,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "children": [
+                {
+                    "label": "消息",
+                    "count": 33672,
+                    "icon": "/static/icon/type/MobileQQ-消息.png",
+                    "direction": {
+                        "go": 33672,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.9734886813726907,
+                    "index": 0,
+                    "level": "2-1",
+                    "id": "id_2-1"
+                },
+                {
+                    "label": "忙",
+                    "count": 364,
+                    "icon": "/static/icon/type/MobileQQ-忙.png",
+                    "direction": {
+                        "go": 364,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.014272271016311167,
+                    "index": 1,
+                    "level": "2-2",
+                    "id": "id_2-2"
+                },
+                {
+                    "label": "文件",
+                    "count": 296,
+                    "icon": "/static/icon/type/MobileQQ-文件.png",
+                    "direction": {
+                        "go": 296,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.00936086777774264,
+                    "index": 2,
+                    "level": "2-3",
+                    "id": "id_2-3"
+                },
+                {
+                    "label": "图片",
+                    "count": 144,
+                    "icon": "/static/icon/type/MobileQQ-图片.png",
+                    "direction": {
+                        "go": 144,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.004164859002169197,
+                    "index": 3,
+                    "level": "2-4",
+                    "id": "id_2-4"
+                },
+                {
+                    "label": "自定义表情",
+                    "count": 86,
+                    "icon": "/static/icon/type/MobileQQ-自定义表情.png",
+                    "direction": {
+                        "go": 86,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.002491453734283562,
+                    "index": 4,
+                    "level": "2-5",
+                    "id": "id_2-5"
+                },
+                {
+                    "label": "视频通话",
+                    "count": 15,
+                    "icon": "/static/icon/type/MobileQQ-视频通话.png",
+                    "direction": {
+                        "go": 15,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.0004412803012473523,
+                    "index": 5,
+                    "level": "2-6",
+                    "id": "id_2-6"
+                },
+                {
+                    "label": "撤回",
+                    "count": 6,
+                    "icon": "/static/icon/type/MobileQQ-撤回.png",
+                    "direction": {
+                        "go": 6,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.0001740846051180874,
+                    "index": 6,
+                    "level": "2-7",
+                    "id": "id_2-7"
+                },
+                {
+                    "label": "分享",
+                    "count": 2,
+                    "icon": "/static/icon/type/MobileQQ-分享.png",
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.00006487398228940284,
+                    "index": 7,
+                    "level": "2-8",
+                    "id": "id_2-8"
+                },
+                {
+                    "label": "系统消息",
+                    "count": 4,
+                    "icon": "/static/icon/type/MobileQQ-系统消息.png",
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.00011787240312361869,
+                    "index": 8,
+                    "level": "2-9",
+                    "id": "id_2-9"
+                }
+            ],
+            "index": 1,
+            "level": 2,
+            "percent": 0.3941990996637985,
+            "id": "id_2"
+        },
+        {
+            "label": "QQ",
+            "count": 43078,
+            "icon": "/static/icon/source/QQ.png",
+            "direction": {
+                "go": 43078,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "children": [
+                {
+                    "label": "消息",
+                    "count": 40660,
+                    "icon": "/static/icon/type/QQ-消息.png",
+                    "direction": {
+                        "go": 40660,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.9438692604113469,
+                    "index": 0,
+                    "level": "6-1",
+                    "id": "id_6-1"
+                },
+                {
+                    "label": "图片",
+                    "count": 410,
+                    "icon": "/static/icon/type/QQ-图片.png",
+                    "direction": {
+                        "go": 410,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.009587727708533078,
+                    "index": 1,
+                    "level": "6-2",
+                    "id": "id_6-2"
+                },
+                {
+                    "label": "文件",
+                    "count": 324,
+                    "icon": "/static/icon/type/QQ-文件.png",
+                    "direction": {
+                        "go": 324,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.00769322094265701,
+                    "index": 2,
+                    "level": "6-3",
+                    "id": "id_6-3"
+                },
+                {
+                    "label": "视频通话",
+                    "count": 56,
+                    "icon": "/static/icon/type/QQ-视频通话.png",
+                    "direction": {
+                        "go": 56,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.0013484228268721406,
+                    "index": 3,
+                    "level": "6-4",
+                    "id": "id_6-4"
+                },
+                {
+                    "label": "忙",
+                    "count": 1625,
+                    "icon": "/static/icon/type/QQ-忙.png",
+                    "direction": {
+                        "go": 1625,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.03782940683490083,
+                    "index": 4,
+                    "level": "6-5",
+                    "id": "id_6-5"
+                },
+                {
+                    "label": "语音",
+                    "count": 2,
+                    "icon": "/static/icon/type/QQ-语音.png",
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.00005437146585471944,
+                    "index": 5,
+                    "level": "6-6",
+                    "id": "id_6-6"
+                },
+                {
+                    "label": "视频",
+                    "count": 1,
+                    "icon": "/static/icon/type/QQ-视频.png",
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.000026907036189963676,
+                    "index": 6,
+                    "level": "6-7",
+                    "id": "id_6-7"
+                }
+            ],
+            "index": 5,
+            "level": 6,
+            "percent": 0.4909453530115676,
+            "id": "id_6"
+        },
+        {
+            "label": "SMS",
+            "count": 264,
+            "icon": "/static/icon/source/SMS.png",
+            "direction": {
+                "go": 264,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "children": [
+                {
+                    "label": "短信",
+                    "count": 220,
+                    "icon": "/static/icon/type/SMS-短信.png",
+                    "direction": {
+                        "go": 220,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.8333333333333334,
+                    "index": 0,
+                    "level": "4-1",
+                    "id": "id_4-1"
+                },
+                {
+                    "label": "飞信",
+                    "count": 41,
+                    "icon": "/static/icon/type/SMS-飞信.png",
+                    "direction": {
+                        "go": 41,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.2,
+                    "index": 1,
+                    "level": "4-2",
+                    "id": "id_4-2"
+                },
+                {
+                    "label": "彩信",
+                    "count": 3,
+                    "icon": "/static/icon/type/SMS-彩信.png",
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.023255813953488372,
+                    "index": 2,
+                    "level": "4-3",
+                    "id": "id_4-3"
+                }
+            ],
+            "index": 3,
+            "level": 4,
+            "percent": 0.00300871844549547,
+            "id": "id_4"
+        },
+        {
+            "label": "Wechat",
+            "count": 4227,
+            "icon": "/static/icon/source/Wechat.png",
+            "direction": {
+                "go": 4227,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "children": [
+                {
+                    "label": "图片",
+                    "count": 459,
+                    "icon": "/static/icon/type/Wechat-图片.png",
+                    "direction": {
+                        "go": 459,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.10858765081618169,
+                    "index": 0,
+                    "level": "7-1",
+                    "id": "id_7-1"
+                },
+                {
+                    "label": "消息",
+                    "count": 3411,
+                    "icon": "/static/icon/type/Wechat-消息.png",
+                    "direction": {
+                        "go": 3411,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.8079109426811938,
+                    "index": 1,
+                    "level": "7-2",
+                    "id": "id_7-2"
+                },
+                {
+                    "label": "分享",
+                    "count": 141,
+                    "icon": "/static/icon/type/Wechat-分享.png",
+                    "direction": {
+                        "go": 141,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.033412322274881515,
+                    "index": 2,
+                    "level": "7-3",
+                    "id": "id_7-3"
+                },
+                {
+                    "label": "系统消息",
+                    "count": 32,
+                    "icon": "/static/icon/type/Wechat-系统消息.png",
+                    "direction": {
+                        "go": 32,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.008535609495865563,
+                    "index": 3,
+                    "level": "7-4",
+                    "id": "id_7-4"
+                },
+                {
+                    "label": "视频通话",
+                    "count": 34,
+                    "icon": "/static/icon/type/Wechat-视频通话.png",
+                    "direction": {
+                        "go": 34,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.008874967371443488,
+                    "index": 4,
+                    "level": "7-5",
+                    "id": "id_7-5"
+                },
+                {
+                    "label": "转账",
+                    "count": 7,
+                    "icon": "/static/icon/type/Wechat-转账.png",
+                    "direction": {
+                        "go": 7,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.0036063884595569293,
+                    "index": 5,
+                    "level": "7-6",
+                    "id": "id_7-6"
+                },
+                {
+                    "label": "红包",
+                    "count": 33,
+                    "icon": "/static/icon/type/Wechat-红包.png",
+                    "direction": {
+                        "go": 33,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.00801944106925881,
+                    "index": 6,
+                    "level": "7-7",
+                    "id": "id_7-7"
+                },
+                {
+                    "label": "位置",
+                    "count": 5,
+                    "icon": "/static/icon/type/Wechat-位置.png",
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.0022371364653243847,
+                    "index": 7,
+                    "level": "7-8",
+                    "id": "id_7-8"
+                },
+                {
+                    "label": "位置共享",
+                    "count": 1,
+                    "icon": "/static/icon/type/Wechat-位置共享.png",
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.0015455950540958269,
+                    "index": 8,
+                    "level": "7-9",
+                    "id": "id_7-9"
+                },
+                {
+                    "label": "视频",
+                    "count": 17,
+                    "icon": "/static/icon/type/Wechat-视频.png",
+                    "direction": {
+                        "go": 17,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.004503311258278146,
+                    "index": 9,
+                    "level": "7-10",
+                    "id": "id_7-10"
+                },
+                {
+                    "label": "名片",
+                    "count": 5,
+                    "icon": "/static/icon/type/Wechat-名片.png",
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.001245019920318725,
+                    "index": 10,
+                    "level": "7-11",
+                    "id": "id_7-11"
+                },
+                {
+                    "label": "自定义表情",
+                    "count": 57,
+                    "icon": "/static/icon/type/Wechat-自定义表情.png",
+                    "direction": {
+                        "go": 57,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.013487931850449598,
+                    "index": 11,
+                    "level": "7-12",
+                    "id": "id_7-12"
+                },
+                {
+                    "label": "语音",
+                    "count": 2,
+                    "icon": "/static/icon/type/Wechat-语音.png",
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.0011961722488038277,
+                    "index": 12,
+                    "level": "7-13",
+                    "id": "id_7-13"
+                },
+                {
+                    "label": "文件",
+                    "count": 5,
+                    "icon": "/static/icon/type/Wechat-文件.png",
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.0013646288209606986,
+                    "index": 13,
+                    "level": "7-14",
+                    "id": "id_7-14"
+                },
+                {
+                    "label": "小程序",
+                    "count": 18,
+                    "icon": "/static/icon/type/Wechat-小程序.png",
+                    "direction": {
+                        "go": 18,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.004723169771713461,
+                    "index": 14,
+                    "level": "7-15",
+                    "id": "id_7-15"
+                }
+            ],
+            "index": 6,
+            "level": 7,
+            "percent": 0.048173685110262696,
+            "id": "id_7"
+        },
+        {
+            "label": "Camera",
+            "count": 3118,
+            "icon": "/static/icon/source/Camera.png",
+            "direction": {
+                "go": 3118,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "children": [
+                {
+                    "label": "图",
+                    "count": 3048,
+                    "icon": "/static/icon/type/Camera-图.png",
+                    "direction": {
+                        "go": 3048,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.9775497113534317,
+                    "index": 0,
+                    "level": "3-1",
+                    "id": "id_3-1"
+                },
+                {
+                    "label": "视频",
+                    "count": 70,
+                    "icon": "/static/icon/type/Camera-视频.png",
+                    "direction": {
+                        "go": 70,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    },
+                    "children": [],
+                    "percent": 0.023411371237458192,
+                    "index": 1,
+                    "level": "3-2",
+                    "id": "id_3-2"
+                }
+            ],
+            "index": 2,
+            "level": 3,
+            "percent": 0.03553478830702604,
+            "id": "id_3"
+        }
+    ],
+    "level": "0-0",
+    "id": "0-0",
+    "index": 0,
+    "percent": 1
+}

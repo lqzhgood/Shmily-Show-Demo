@@ -1,0 +1,5732 @@
+[
+    {
+        "date": "2007-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "全部",
+        "count": 21,
+        "direction": {
+            "go": 2,
+            "come": 19,
+            "goP": "10",
+            "comeP": "90"
+        }
+    },
+    {
+        "date": "2009-10",
+        "source": "呼入已接",
+        "count": 19,
+        "direction": {
+            "go": 0,
+            "come": 19,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2009-10",
+        "source": "呼出已接",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2009-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "全部",
+        "count": 52,
+        "direction": {
+            "go": 33,
+            "come": 19,
+            "goP": "63",
+            "comeP": "37"
+        }
+    },
+    {
+        "date": "2010-07",
+        "source": "呼入已接",
+        "count": 19,
+        "direction": {
+            "go": 0,
+            "come": 19,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2010-07",
+        "source": "呼出已接",
+        "count": 33,
+        "direction": {
+            "go": 33,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-08",
+        "source": "全部",
+        "count": 25,
+        "direction": {
+            "go": 14,
+            "come": 11,
+            "goP": "56",
+            "comeP": "44"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "呼入已接",
+        "count": 11,
+        "direction": {
+            "go": 0,
+            "come": 11,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "呼出已接",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-07",
+        "source": "全部",
+        "count": 10,
+        "direction": {
+            "go": 2,
+            "come": 8,
+            "goP": "20",
+            "comeP": "80"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "呼入已接",
+        "count": 8,
+        "direction": {
+            "go": 0,
+            "come": 8,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "呼出已接",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2014-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2014-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-08",
+        "source": "全部",
+        "count": 323,
+        "direction": {
+            "go": 148,
+            "come": 175,
+            "goP": "46",
+            "comeP": "54"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "呼入已接",
+        "count": 158,
+        "direction": {
+            "go": 0,
+            "come": 158,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "呼出已接",
+        "count": 93,
+        "direction": {
+            "go": 93,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "呼出未接",
+        "count": 55,
+        "direction": {
+            "go": 55,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "呼入未接",
+        "count": 17,
+        "direction": {
+            "go": 0,
+            "come": 17,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-09",
+        "source": "全部",
+        "count": 305,
+        "direction": {
+            "go": 156,
+            "come": 149,
+            "goP": "51",
+            "comeP": "49"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "呼入已接",
+        "count": 121,
+        "direction": {
+            "go": 0,
+            "come": 121,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "呼出已接",
+        "count": 125,
+        "direction": {
+            "go": 125,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "呼出未接",
+        "count": 31,
+        "direction": {
+            "go": 31,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "呼入未接",
+        "count": 28,
+        "direction": {
+            "go": 0,
+            "come": 28,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-10",
+        "source": "全部",
+        "count": 402,
+        "direction": {
+            "go": 222,
+            "come": 180,
+            "goP": "55",
+            "comeP": "45"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "呼入已接",
+        "count": 163,
+        "direction": {
+            "go": 0,
+            "come": 163,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "呼出已接",
+        "count": 159,
+        "direction": {
+            "go": 159,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "呼出未接",
+        "count": 63,
+        "direction": {
+            "go": 63,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "呼入未接",
+        "count": 17,
+        "direction": {
+            "go": 0,
+            "come": 17,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-11",
+        "source": "全部",
+        "count": 42,
+        "direction": {
+            "go": 23,
+            "come": 19,
+            "goP": "55",
+            "comeP": "45"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "呼入已接",
+        "count": 16,
+        "direction": {
+            "go": 0,
+            "come": 16,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "呼出已接",
+        "count": 15,
+        "direction": {
+            "go": 15,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "呼出未接",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "呼入未接",
+        "count": 3,
+        "direction": {
+            "go": 0,
+            "come": 3,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2014-12",
+        "source": "全部",
+        "count": 134,
+        "direction": {
+            "go": 59,
+            "come": 75,
+            "goP": "44",
+            "comeP": "56"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "呼入已接",
+        "count": 70,
+        "direction": {
+            "go": 0,
+            "come": 70,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "呼出已接",
+        "count": 48,
+        "direction": {
+            "go": 48,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "呼出未接",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "呼入未接",
+        "count": 5,
+        "direction": {
+            "go": 0,
+            "come": 5,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-03",
+        "source": "全部",
+        "count": 14,
+        "direction": {
+            "go": 5,
+            "come": 9,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "呼入已接",
+        "count": 9,
+        "direction": {
+            "go": 0,
+            "come": 9,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "呼出已接",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "呼出未接",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2015-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-04",
+        "source": "全部",
+        "count": 319,
+        "direction": {
+            "go": 143,
+            "come": 176,
+            "goP": "45",
+            "comeP": "55"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "呼入已接",
+        "count": 161,
+        "direction": {
+            "go": 0,
+            "come": 161,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "呼出已接",
+        "count": 120,
+        "direction": {
+            "go": 120,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "呼出未接",
+        "count": 23,
+        "direction": {
+            "go": 23,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "呼入未接",
+        "count": 15,
+        "direction": {
+            "go": 0,
+            "come": 15,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-05",
+        "source": "全部",
+        "count": 130,
+        "direction": {
+            "go": 75,
+            "come": 55,
+            "goP": "58",
+            "comeP": "42"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "呼入已接",
+        "count": 53,
+        "direction": {
+            "go": 0,
+            "come": 53,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "呼出已接",
+        "count": 62,
+        "direction": {
+            "go": 62,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "呼出未接",
+        "count": 13,
+        "direction": {
+            "go": 13,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "呼入未接",
+        "count": 2,
+        "direction": {
+            "go": 0,
+            "come": 2,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-06",
+        "source": "全部",
+        "count": 41,
+        "direction": {
+            "go": 14,
+            "come": 27,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "呼入已接",
+        "count": 19,
+        "direction": {
+            "go": 0,
+            "come": 19,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "呼出已接",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2015-06",
+        "source": "呼入未接",
+        "count": 8,
+        "direction": {
+            "go": 0,
+            "come": 8,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-07",
+        "source": "全部",
+        "count": 190,
+        "direction": {
+            "go": 92,
+            "come": 98,
+            "goP": "48",
+            "comeP": "52"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "呼入已接",
+        "count": 84,
+        "direction": {
+            "go": 0,
+            "come": 84,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "呼出已接",
+        "count": 76,
+        "direction": {
+            "go": 76,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "呼出未接",
+        "count": 16,
+        "direction": {
+            "go": 16,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "呼入未接",
+        "count": 14,
+        "direction": {
+            "go": 0,
+            "come": 14,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-08",
+        "source": "全部",
+        "count": 275,
+        "direction": {
+            "go": 117,
+            "come": 158,
+            "goP": "43",
+            "comeP": "57"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "呼入已接",
+        "count": 143,
+        "direction": {
+            "go": 0,
+            "come": 143,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "呼出已接",
+        "count": 94,
+        "direction": {
+            "go": 94,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "呼出未接",
+        "count": 23,
+        "direction": {
+            "go": 23,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "呼入未接",
+        "count": 15,
+        "direction": {
+            "go": 0,
+            "come": 15,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-10",
+        "source": "全部",
+        "count": 4,
+        "direction": {
+            "go": 3,
+            "come": 1,
+            "goP": "75",
+            "comeP": "25"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "呼入已接",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "呼出已接",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "呼出未接",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2015-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-11",
+        "source": "全部",
+        "count": 298,
+        "direction": {
+            "go": 146,
+            "come": 152,
+            "goP": "49",
+            "comeP": "51"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "呼入已接",
+        "count": 144,
+        "direction": {
+            "go": 0,
+            "come": 144,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "呼出已接",
+        "count": 128,
+        "direction": {
+            "go": 128,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "呼出未接",
+        "count": 18,
+        "direction": {
+            "go": 18,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "呼入未接",
+        "count": 8,
+        "direction": {
+            "go": 0,
+            "come": 8,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2015-12",
+        "source": "全部",
+        "count": 2,
+        "direction": {
+            "go": 1,
+            "come": 1,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "呼入已接",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "呼出已接",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2015-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2015-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-01",
+        "source": "全部",
+        "count": 217,
+        "direction": {
+            "go": 102,
+            "come": 115,
+            "goP": "47",
+            "comeP": "53"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "呼入已接",
+        "count": 100,
+        "direction": {
+            "go": 0,
+            "come": 100,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "呼出已接",
+        "count": 84,
+        "direction": {
+            "go": 84,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "呼出未接",
+        "count": 18,
+        "direction": {
+            "go": 18,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "呼入未接",
+        "count": 15,
+        "direction": {
+            "go": 0,
+            "come": 15,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-02",
+        "source": "全部",
+        "count": 70,
+        "direction": {
+            "go": 32,
+            "come": 38,
+            "goP": "46",
+            "comeP": "54"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "呼入已接",
+        "count": 26,
+        "direction": {
+            "go": 0,
+            "come": 26,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "呼出已接",
+        "count": 27,
+        "direction": {
+            "go": 27,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "呼出未接",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "呼入未接",
+        "count": 12,
+        "direction": {
+            "go": 0,
+            "come": 12,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-03",
+        "source": "全部",
+        "count": 47,
+        "direction": {
+            "go": 14,
+            "come": 33,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "呼入已接",
+        "count": 25,
+        "direction": {
+            "go": 0,
+            "come": 25,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "呼出已接",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "呼出未接",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "呼入未接",
+        "count": 8,
+        "direction": {
+            "go": 0,
+            "come": 8,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-04",
+        "source": "全部",
+        "count": 201,
+        "direction": {
+            "go": 63,
+            "come": 138,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "呼入已接",
+        "count": 116,
+        "direction": {
+            "go": 0,
+            "come": 116,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "呼出已接",
+        "count": 47,
+        "direction": {
+            "go": 47,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "呼出未接",
+        "count": 16,
+        "direction": {
+            "go": 16,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "呼入未接",
+        "count": 22,
+        "direction": {
+            "go": 0,
+            "come": 22,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-05",
+        "source": "全部",
+        "count": 193,
+        "direction": {
+            "go": 45,
+            "come": 148,
+            "goP": "23",
+            "comeP": "77"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "呼入已接",
+        "count": 128,
+        "direction": {
+            "go": 0,
+            "come": 128,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "呼出已接",
+        "count": 38,
+        "direction": {
+            "go": 38,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "呼出未接",
+        "count": 7,
+        "direction": {
+            "go": 7,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "呼入未接",
+        "count": 20,
+        "direction": {
+            "go": 0,
+            "come": 20,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-06",
+        "source": "全部",
+        "count": 115,
+        "direction": {
+            "go": 21,
+            "come": 94,
+            "goP": "18",
+            "comeP": "82"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "呼入已接",
+        "count": 70,
+        "direction": {
+            "go": 0,
+            "come": 70,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "呼出已接",
+        "count": 18,
+        "direction": {
+            "go": 18,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "呼出未接",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "呼入未接",
+        "count": 24,
+        "direction": {
+            "go": 0,
+            "come": 24,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-07",
+        "source": "全部",
+        "count": 204,
+        "direction": {
+            "go": 71,
+            "come": 133,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "呼入已接",
+        "count": 107,
+        "direction": {
+            "go": 0,
+            "come": 107,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "呼出已接",
+        "count": 52,
+        "direction": {
+            "go": 52,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "呼出未接",
+        "count": 19,
+        "direction": {
+            "go": 19,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "呼入未接",
+        "count": 26,
+        "direction": {
+            "go": 0,
+            "come": 26,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-08",
+        "source": "全部",
+        "count": 39,
+        "direction": {
+            "go": 23,
+            "come": 16,
+            "goP": "59",
+            "comeP": "41"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "呼入已接",
+        "count": 15,
+        "direction": {
+            "go": 0,
+            "come": 15,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "呼出已接",
+        "count": 16,
+        "direction": {
+            "go": 16,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "呼出未接",
+        "count": 7,
+        "direction": {
+            "go": 7,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "呼入未接",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2016-12",
+        "source": "全部",
+        "count": 47,
+        "direction": {
+            "go": 17,
+            "come": 30,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "呼入已接",
+        "count": 27,
+        "direction": {
+            "go": 0,
+            "come": 27,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "呼出已接",
+        "count": 13,
+        "direction": {
+            "go": 13,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "呼出未接",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "呼入未接",
+        "count": 3,
+        "direction": {
+            "go": 0,
+            "come": 3,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2018-07",
+        "source": "全部",
+        "count": 7,
+        "direction": {
+            "go": 4,
+            "come": 3,
+            "goP": "57",
+            "comeP": "43"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "呼入已接",
+        "count": 3,
+        "direction": {
+            "go": 0,
+            "come": 3,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "呼出已接",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2018-07",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2018-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2018-08",
+        "source": "全部",
+        "count": 255,
+        "direction": {
+            "go": 123,
+            "come": 132,
+            "goP": "48",
+            "comeP": "52"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "呼入已接",
+        "count": 112,
+        "direction": {
+            "go": 0,
+            "come": 112,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "呼出已接",
+        "count": 115,
+        "direction": {
+            "go": 115,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "呼出未接",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "呼入未接",
+        "count": 15,
+        "direction": {
+            "go": 0,
+            "come": 15,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "呼入挂断",
+        "count": 5,
+        "direction": {
+            "go": 0,
+            "come": 5,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "全部",
+        "count": 186,
+        "direction": {
+            "go": 81,
+            "come": 105,
+            "goP": "44",
+            "comeP": "56"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "呼入已接",
+        "count": 93,
+        "direction": {
+            "go": 0,
+            "come": 93,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "呼出已接",
+        "count": 64,
+        "direction": {
+            "go": 64,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "呼出未接",
+        "count": 17,
+        "direction": {
+            "go": 17,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "呼入未接",
+        "count": 11,
+        "direction": {
+            "go": 0,
+            "come": 11,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "呼入挂断",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "全部",
+        "count": 205,
+        "direction": {
+            "go": 86,
+            "come": 119,
+            "goP": "42",
+            "comeP": "58"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "呼入已接",
+        "count": 110,
+        "direction": {
+            "go": 0,
+            "come": 110,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "呼出已接",
+        "count": 72,
+        "direction": {
+            "go": 72,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "呼出未接",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "呼入未接",
+        "count": 7,
+        "direction": {
+            "go": 0,
+            "come": 7,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "呼入挂断",
+        "count": 2,
+        "direction": {
+            "go": 0,
+            "come": 2,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "全部",
+        "count": 158,
+        "direction": {
+            "go": 75,
+            "come": 83,
+            "goP": "47",
+            "comeP": "53"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "呼入已接",
+        "count": 72,
+        "direction": {
+            "go": 0,
+            "come": 72,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "呼出已接",
+        "count": 61,
+        "direction": {
+            "go": 61,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "呼出未接",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "呼入未接",
+        "count": 9,
+        "direction": {
+            "go": 0,
+            "come": 9,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "呼入挂断",
+        "count": 2,
+        "direction": {
+            "go": 0,
+            "come": 2,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "全部",
+        "count": 183,
+        "direction": {
+            "go": 76,
+            "come": 107,
+            "goP": "42",
+            "comeP": "58"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "呼入已接",
+        "count": 91,
+        "direction": {
+            "go": 0,
+            "come": 91,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "呼出已接",
+        "count": 60,
+        "direction": {
+            "go": 60,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "呼出未接",
+        "count": 16,
+        "direction": {
+            "go": 16,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "呼入未接",
+        "count": 14,
+        "direction": {
+            "go": 0,
+            "come": 14,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "呼入挂断",
+        "count": 2,
+        "direction": {
+            "go": 0,
+            "come": 2,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "全部",
+        "count": 188,
+        "direction": {
+            "go": 84,
+            "come": 104,
+            "goP": "45",
+            "comeP": "55"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "呼入已接",
+        "count": 89,
+        "direction": {
+            "go": 0,
+            "come": 89,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "呼出已接",
+        "count": 66,
+        "direction": {
+            "go": 66,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "呼出未接",
+        "count": 18,
+        "direction": {
+            "go": 18,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "呼入未接",
+        "count": 14,
+        "direction": {
+            "go": 0,
+            "come": 14,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "呼入挂断",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "全部",
+        "count": 184,
+        "direction": {
+            "go": 46,
+            "come": 138,
+            "goP": "25",
+            "comeP": "75"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "呼入已接",
+        "count": 70,
+        "direction": {
+            "go": 0,
+            "come": 70,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "呼出已接",
+        "count": 34,
+        "direction": {
+            "go": 34,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "呼出未接",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "呼入未接",
+        "count": 68,
+        "direction": {
+            "go": 0,
+            "come": 68,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2019-03",
+        "source": "全部",
+        "count": 124,
+        "direction": {
+            "go": 79,
+            "come": 45,
+            "goP": "64",
+            "comeP": "36"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "呼入已接",
+        "count": 39,
+        "direction": {
+            "go": 0,
+            "come": 39,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "呼出已接",
+        "count": 74,
+        "direction": {
+            "go": 74,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "呼出未接",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "呼入未接",
+        "count": 6,
+        "direction": {
+            "go": 0,
+            "come": 6,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2019-04",
+        "source": "全部",
+        "count": 100,
+        "direction": {
+            "go": 50,
+            "come": 50,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "呼入已接",
+        "count": 34,
+        "direction": {
+            "go": 0,
+            "come": 34,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "呼出已接",
+        "count": 42,
+        "direction": {
+            "go": 42,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "呼出未接",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "呼入未接",
+        "count": 12,
+        "direction": {
+            "go": 0,
+            "come": 12,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "呼入挂断",
+        "count": 4,
+        "direction": {
+            "go": 0,
+            "come": 4,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "全部",
+        "count": 122,
+        "direction": {
+            "go": 57,
+            "come": 65,
+            "goP": "47",
+            "comeP": "53"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "呼入已接",
+        "count": 57,
+        "direction": {
+            "go": 0,
+            "come": 57,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "呼出已接",
+        "count": 49,
+        "direction": {
+            "go": 49,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "呼出未接",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "呼入未接",
+        "count": 8,
+        "direction": {
+            "go": 0,
+            "come": 8,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2019-06",
+        "source": "全部",
+        "count": 37,
+        "direction": {
+            "go": 20,
+            "come": 17,
+            "goP": "54",
+            "comeP": "46"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "呼入已接",
+        "count": 14,
+        "direction": {
+            "go": 0,
+            "come": 14,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "呼出已接",
+        "count": 20,
+        "direction": {
+            "go": 20,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2019-06",
+        "source": "呼入未接",
+        "count": 3,
+        "direction": {
+            "go": 0,
+            "come": 3,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2019-07",
+        "source": "全部",
+        "count": 16,
+        "direction": {
+            "go": 8,
+            "come": 8,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "呼入已接",
+        "count": 6,
+        "direction": {
+            "go": 0,
+            "come": 6,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "呼出已接",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2019-07",
+        "source": "呼入未接",
+        "count": 2,
+        "direction": {
+            "go": 0,
+            "come": 2,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "呼入挂断",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "呼入已接",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "呼出已接",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "呼出未接",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "呼入未接",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "呼入挂断",
+        "count": 0
+    }
+]

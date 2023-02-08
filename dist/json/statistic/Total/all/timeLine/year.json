@@ -1,0 +1,3591 @@
+[
+    {
+        "date": "2007",
+        "source": "全部",
+        "type": [],
+        "count": 10,
+        "direction": {
+            "go": 7,
+            "come": 3,
+            "goP": "70",
+            "comeP": "30"
+        }
+    },
+    {
+        "date": "2007",
+        "source": "CallLog",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "Email",
+        "type": [
+            {
+                "type": "附件",
+                "count": 6,
+                "direction": {
+                    "go": 3,
+                    "come": 3,
+                    "goP": "50",
+                    "comeP": "50"
+                }
+            },
+            {
+                "type": "邮件",
+                "count": 4,
+                "direction": {
+                    "go": 4,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 10,
+        "direction": {
+            "go": 7,
+            "come": 3,
+            "goP": "70",
+            "comeP": "30"
+        }
+    },
+    {
+        "date": "2007",
+        "source": "MobileQQ",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "QQ",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "SMS",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "Wechat",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "Camera",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "全部",
+        "type": [],
+        "count": 4,
+        "direction": {
+            "go": 2,
+            "come": 2,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2008",
+        "source": "CallLog",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "Email",
+        "type": [
+            {
+                "type": "附件",
+                "count": 3,
+                "direction": {
+                    "go": 1,
+                    "come": 2,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "邮件",
+                "count": 1,
+                "direction": {
+                    "go": 1,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 4,
+        "direction": {
+            "go": 2,
+            "come": 2,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2008",
+        "source": "MobileQQ",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "QQ",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "SMS",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "Wechat",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "Camera",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "全部",
+        "type": [],
+        "count": 3802,
+        "direction": {
+            "go": 1204,
+            "come": 2598,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "CallLog",
+        "type": [
+            {
+                "type": "呼入已接",
+                "count": 19,
+                "direction": {
+                    "go": 0,
+                    "come": 19,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼出已接",
+                "count": 2,
+                "direction": {
+                    "go": 2,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 21,
+        "direction": {
+            "go": 2,
+            "come": 19,
+            "goP": "10",
+            "comeP": "90"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "Email",
+        "type": [
+            {
+                "type": "邮件",
+                "count": 2,
+                "direction": {
+                    "go": 1,
+                    "come": 1,
+                    "goP": "50",
+                    "comeP": "50"
+                }
+            },
+            {
+                "type": "附件",
+                "count": 4,
+                "direction": {
+                    "go": 1,
+                    "come": 3,
+                    "goP": "25",
+                    "comeP": "75"
+                }
+            }
+        ],
+        "count": 6,
+        "direction": {
+            "go": 2,
+            "come": 4,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "MobileQQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 2646,
+                "direction": {
+                    "go": 978,
+                    "come": 1668,
+                    "goP": "37",
+                    "comeP": "63"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 47,
+                "direction": {
+                    "go": 34,
+                    "come": 13,
+                    "goP": "72",
+                    "comeP": "28"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 22,
+                "direction": {
+                    "go": 19,
+                    "come": 3,
+                    "goP": "86",
+                    "comeP": "14"
+                }
+            }
+        ],
+        "count": 2715,
+        "direction": {
+            "go": 1031,
+            "come": 1684,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "QQ",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 744,
+                "direction": {
+                    "go": 1,
+                    "come": 743,
+                    "goP": "0.1",
+                    "comeP": "99.9"
+                }
+            },
+            {
+                "type": "彩信",
+                "count": 41,
+                "direction": {
+                    "go": 0,
+                    "come": 41,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "飞信",
+                "count": 107,
+                "direction": {
+                    "go": 0,
+                    "come": 107,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 892,
+        "direction": {
+            "go": 1,
+            "come": 891,
+            "goP": "0.1",
+            "comeP": "99.9"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "Wechat",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 165,
+                "direction": {
+                    "go": 165,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 3,
+                "direction": {
+                    "go": 3,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 168,
+        "direction": {
+            "go": 168,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "全部",
+        "type": [],
+        "count": 46631,
+        "direction": {
+            "go": 17677,
+            "come": 28954,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "CallLog",
+        "type": [
+            {
+                "type": "呼出已接",
+                "count": 47,
+                "direction": {
+                    "go": 47,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入已接",
+                "count": 30,
+                "direction": {
+                    "go": 0,
+                    "come": 30,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 77,
+        "direction": {
+            "go": 47,
+            "come": 30,
+            "goP": "61",
+            "comeP": "39"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "Email",
+        "type": [
+            {
+                "type": "附件",
+                "count": 4,
+                "direction": {
+                    "go": 3,
+                    "come": 1,
+                    "goP": "75",
+                    "comeP": "25"
+                }
+            },
+            {
+                "type": "邮件",
+                "count": 19,
+                "direction": {
+                    "go": 3,
+                    "come": 16,
+                    "goP": "16",
+                    "comeP": "84"
+                }
+            }
+        ],
+        "count": 23,
+        "direction": {
+            "go": 6,
+            "come": 17,
+            "goP": "26",
+            "comeP": "74"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "MobileQQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 41655,
+                "direction": {
+                    "go": 15662,
+                    "come": 25993,
+                    "goP": "38",
+                    "comeP": "62"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 198,
+                "direction": {
+                    "go": 146,
+                    "come": 52,
+                    "goP": "74",
+                    "comeP": "26"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 247,
+                "direction": {
+                    "go": 191,
+                    "come": 56,
+                    "goP": "77",
+                    "comeP": "23"
+                }
+            }
+        ],
+        "count": 42100,
+        "direction": {
+            "go": 15999,
+            "come": 26101,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 2821,
+                "direction": {
+                    "go": 971,
+                    "come": 1850,
+                    "goP": "34",
+                    "comeP": "66"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 104,
+                "direction": {
+                    "go": 30,
+                    "come": 74,
+                    "goP": "29",
+                    "comeP": "71"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 43,
+                "direction": {
+                    "go": 42,
+                    "come": 1,
+                    "goP": "98",
+                    "comeP": "2"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 2,
+                "direction": {
+                    "go": 2,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 29,
+                "direction": {
+                    "go": 29,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 2999,
+        "direction": {
+            "go": 1074,
+            "come": 1925,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 594,
+                "direction": {
+                    "go": 115,
+                    "come": 479,
+                    "goP": "19",
+                    "comeP": "81"
+                }
+            },
+            {
+                "type": "飞信",
+                "count": 402,
+                "direction": {
+                    "go": 10,
+                    "come": 392,
+                    "goP": "2",
+                    "comeP": "98"
+                }
+            },
+            {
+                "type": "彩信",
+                "count": 12,
+                "direction": {
+                    "go": 2,
+                    "come": 10,
+                    "goP": "17",
+                    "comeP": "83"
+                }
+            }
+        ],
+        "count": 1008,
+        "direction": {
+            "go": 127,
+            "come": 881,
+            "goP": "13",
+            "comeP": "87"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "Wechat",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 408,
+                "direction": {
+                    "go": 408,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 16,
+                "direction": {
+                    "go": 16,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 424,
+        "direction": {
+            "go": 424,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "全部",
+        "type": [],
+        "count": 33539,
+        "direction": {
+            "go": 11744,
+            "come": 21795,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "CallLog",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011",
+        "source": "Email",
+        "type": [
+            {
+                "type": "邮件",
+                "count": 8,
+                "direction": {
+                    "go": 2,
+                    "come": 6,
+                    "goP": "25",
+                    "comeP": "75"
+                }
+            },
+            {
+                "type": "附件",
+                "count": 9,
+                "direction": {
+                    "go": 6,
+                    "come": 3,
+                    "goP": "67",
+                    "comeP": "33"
+                }
+            }
+        ],
+        "count": 17,
+        "direction": {
+            "go": 8,
+            "come": 9,
+            "goP": "47",
+            "comeP": "53"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "MobileQQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 21178,
+                "direction": {
+                    "go": 6929,
+                    "come": 14249,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 148,
+                "direction": {
+                    "go": 148,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 56,
+                "direction": {
+                    "go": 39,
+                    "come": 17,
+                    "goP": "70",
+                    "comeP": "30"
+                }
+            }
+        ],
+        "count": 21382,
+        "direction": {
+            "go": 7116,
+            "come": 14266,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 11174,
+                "direction": {
+                    "go": 4016,
+                    "come": 7158,
+                    "goP": "36",
+                    "comeP": "64"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 305,
+                "direction": {
+                    "go": 108,
+                    "come": 197,
+                    "goP": "35",
+                    "comeP": "65"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 91,
+                "direction": {
+                    "go": 91,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 104,
+                "direction": {
+                    "go": 95,
+                    "come": 9,
+                    "goP": "91",
+                    "comeP": "9"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 5,
+                "direction": {
+                    "go": 4,
+                    "come": 1,
+                    "goP": "80",
+                    "comeP": "20"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 4,
+                "direction": {
+                    "go": 0,
+                    "come": 4,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 11683,
+        "direction": {
+            "go": 4314,
+            "come": 7369,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 158,
+                "direction": {
+                    "go": 7,
+                    "come": 151,
+                    "goP": "4",
+                    "comeP": "96"
+                }
+            },
+            {
+                "type": "彩信",
+                "count": 1,
+                "direction": {
+                    "go": 1,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 159,
+        "direction": {
+            "go": 8,
+            "come": 151,
+            "goP": "5",
+            "comeP": "95"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "Wechat",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 288,
+                "direction": {
+                    "go": 288,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 10,
+                "direction": {
+                    "go": 10,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 298,
+        "direction": {
+            "go": 298,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "全部",
+        "type": [],
+        "count": 19847,
+        "direction": {
+            "go": 7332,
+            "come": 12515,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "CallLog",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012",
+        "source": "Email",
+        "type": [
+            {
+                "type": "附件",
+                "count": 8,
+                "direction": {
+                    "go": 5,
+                    "come": 3,
+                    "goP": "63",
+                    "comeP": "38"
+                }
+            },
+            {
+                "type": "邮件",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 9,
+        "direction": {
+            "go": 5,
+            "come": 4,
+            "goP": "56",
+            "comeP": "44"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "MobileQQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 5474,
+                "direction": {
+                    "go": 1899,
+                    "come": 3575,
+                    "goP": "35",
+                    "comeP": "65"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 51,
+                "direction": {
+                    "go": 51,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 12,
+                "direction": {
+                    "go": 11,
+                    "come": 1,
+                    "goP": "92",
+                    "comeP": "8"
+                }
+            }
+        ],
+        "count": 5537,
+        "direction": {
+            "go": 1961,
+            "come": 3576,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 13256,
+                "direction": {
+                    "go": 4611,
+                    "come": 8645,
+                    "goP": "35",
+                    "comeP": "65"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 136,
+                "direction": {
+                    "go": 136,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 186,
+                "direction": {
+                    "go": 50,
+                    "come": 136,
+                    "goP": "27",
+                    "comeP": "73"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 67,
+                "direction": {
+                    "go": 65,
+                    "come": 2,
+                    "goP": "97",
+                    "comeP": "3"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 2,
+                "direction": {
+                    "go": 2,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 4,
+                "direction": {
+                    "go": 0,
+                    "come": 4,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 13651,
+        "direction": {
+            "go": 4864,
+            "come": 8787,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 59,
+                "direction": {
+                    "go": 27,
+                    "come": 32,
+                    "goP": "46",
+                    "comeP": "54"
+                }
+            },
+            {
+                "type": "飞信",
+                "count": 143,
+                "direction": {
+                    "go": 27,
+                    "come": 116,
+                    "goP": "19",
+                    "comeP": "81"
+                }
+            }
+        ],
+        "count": 202,
+        "direction": {
+            "go": 54,
+            "come": 148,
+            "goP": "27",
+            "comeP": "73"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "Wechat",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 445,
+                "direction": {
+                    "go": 445,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 3,
+                "direction": {
+                    "go": 3,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 448,
+        "direction": {
+            "go": 448,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "全部",
+        "type": [],
+        "count": 14298,
+        "direction": {
+            "go": 4928,
+            "come": 9370,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "CallLog",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "Email",
+        "type": [
+            {
+                "type": "附件",
+                "count": 5,
+                "direction": {
+                    "go": 5,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "MobileQQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 427,
+                "direction": {
+                    "go": 129,
+                    "come": 298,
+                    "goP": "30",
+                    "comeP": "70"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 5,
+                "direction": {
+                    "go": 0,
+                    "come": 5,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 432,
+        "direction": {
+            "go": 129,
+            "come": 303,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 12399,
+                "direction": {
+                    "go": 3638,
+                    "come": 8761,
+                    "goP": "29",
+                    "comeP": "71"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 175,
+                "direction": {
+                    "go": 35,
+                    "come": 140,
+                    "goP": "20",
+                    "comeP": "80"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 674,
+                "direction": {
+                    "go": 674,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 64,
+                "direction": {
+                    "go": 60,
+                    "come": 4,
+                    "goP": "94",
+                    "comeP": "6"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 13314,
+        "direction": {
+            "go": 4407,
+            "come": 8907,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 158,
+                "direction": {
+                    "go": 63,
+                    "come": 95,
+                    "goP": "40",
+                    "comeP": "60"
+                }
+            },
+            {
+                "type": "飞信",
+                "count": 69,
+                "direction": {
+                    "go": 4,
+                    "come": 65,
+                    "goP": "6",
+                    "comeP": "94"
+                }
+            }
+        ],
+        "count": 227,
+        "direction": {
+            "go": 67,
+            "come": 160,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "Wechat",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 310,
+                "direction": {
+                    "go": 310,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 10,
+                "direction": {
+                    "go": 10,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 320,
+        "direction": {
+            "go": 320,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014",
+        "source": "全部",
+        "type": [],
+        "count": 19468,
+        "direction": {
+            "go": 7272,
+            "come": 12196,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2014",
+        "source": "CallLog",
+        "type": [
+            {
+                "type": "呼出已接",
+                "count": 442,
+                "direction": {
+                    "go": 442,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入已接",
+                "count": 536,
+                "direction": {
+                    "go": 0,
+                    "come": 536,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼出未接",
+                "count": 168,
+                "direction": {
+                    "go": 168,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入未接",
+                "count": 70,
+                "direction": {
+                    "go": 0,
+                    "come": 70,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 1216,
+        "direction": {
+            "go": 610,
+            "come": 606,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2014",
+        "source": "Email",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "MobileQQ",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 16875,
+                "direction": {
+                    "go": 5770,
+                    "come": 11105,
+                    "goP": "34",
+                    "comeP": "66"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 420,
+                "direction": {
+                    "go": 33,
+                    "come": 387,
+                    "goP": "8",
+                    "comeP": "92"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 104,
+                "direction": {
+                    "go": 104,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 14,
+                "direction": {
+                    "go": 6,
+                    "come": 8,
+                    "goP": "43",
+                    "comeP": "57"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 1,
+                "direction": {
+                    "go": 1,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 17414,
+        "direction": {
+            "go": 5914,
+            "come": 11500,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2014",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 92,
+                "direction": {
+                    "go": 2,
+                    "come": 90,
+                    "goP": "2",
+                    "comeP": "98"
+                }
+            }
+        ],
+        "count": 92,
+        "direction": {
+            "go": 2,
+            "come": 90,
+            "goP": "2",
+            "comeP": "98"
+        }
+    },
+    {
+        "date": "2014",
+        "source": "Wechat",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 733,
+                "direction": {
+                    "go": 733,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 13,
+                "direction": {
+                    "go": 13,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 746,
+        "direction": {
+            "go": 746,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "全部",
+        "type": [],
+        "count": 21467,
+        "direction": {
+            "go": 7100,
+            "come": 14367,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "CallLog",
+        "type": [
+            {
+                "type": "呼出已接",
+                "count": 499,
+                "direction": {
+                    "go": 499,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入已接",
+                "count": 615,
+                "direction": {
+                    "go": 0,
+                    "come": 615,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼出未接",
+                "count": 97,
+                "direction": {
+                    "go": 97,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入未接",
+                "count": 62,
+                "direction": {
+                    "go": 0,
+                    "come": 62,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 1273,
+        "direction": {
+            "go": 596,
+            "come": 677,
+            "goP": "47",
+            "comeP": "53"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "Email",
+        "type": [
+            {
+                "type": "邮件",
+                "count": 5,
+                "direction": {
+                    "go": 0,
+                    "come": 5,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 5,
+        "direction": {
+            "go": 0,
+            "come": 5,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "MobileQQ",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 18327,
+                "direction": {
+                    "go": 5796,
+                    "come": 12531,
+                    "goP": "32",
+                    "comeP": "68"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 615,
+                "direction": {
+                    "go": 28,
+                    "come": 587,
+                    "goP": "5",
+                    "comeP": "95"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 129,
+                "direction": {
+                    "go": 129,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 20,
+                "direction": {
+                    "go": 5,
+                    "come": 15,
+                    "goP": "25",
+                    "comeP": "75"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 8,
+                "direction": {
+                    "go": 8,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 5,
+                "direction": {
+                    "go": 1,
+                    "come": 4,
+                    "goP": "20",
+                    "comeP": "80"
+                }
+            }
+        ],
+        "count": 19104,
+        "direction": {
+            "go": 5967,
+            "come": 13137,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 8,
+                "direction": {
+                    "go": 3,
+                    "come": 5,
+                    "goP": "38",
+                    "comeP": "63"
+                }
+            }
+        ],
+        "count": 8,
+        "direction": {
+            "go": 3,
+            "come": 5,
+            "goP": "38",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "Wechat",
+        "type": [
+            {
+                "type": "图片",
+                "count": 40,
+                "direction": {
+                    "go": 13,
+                    "come": 27,
+                    "goP": "33",
+                    "comeP": "68"
+                }
+            },
+            {
+                "type": "消息",
+                "count": 728,
+                "direction": {
+                    "go": 270,
+                    "come": 458,
+                    "goP": "37",
+                    "comeP": "63"
+                }
+            },
+            {
+                "type": "分享",
+                "count": 16,
+                "direction": {
+                    "go": 5,
+                    "come": 11,
+                    "goP": "31",
+                    "comeP": "69"
+                }
+            },
+            {
+                "type": "自定义表情",
+                "count": 25,
+                "direction": {
+                    "go": 0,
+                    "come": 25,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 9,
+                "direction": {
+                    "go": 0,
+                    "come": 9,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 7,
+                "direction": {
+                    "go": 0,
+                    "come": 7,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "系统消息",
+                "count": 7,
+                "direction": {
+                    "go": 7,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 4,
+                "direction": {
+                    "go": 3,
+                    "come": 1,
+                    "goP": "75",
+                    "comeP": "25"
+                }
+            },
+            {
+                "type": "红包",
+                "count": 4,
+                "direction": {
+                    "go": 0,
+                    "come": 4,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "转账",
+                "count": 2,
+                "direction": {
+                    "go": 1,
+                    "come": 1,
+                    "goP": "50",
+                    "comeP": "50"
+                }
+            }
+        ],
+        "count": 842,
+        "direction": {
+            "go": 299,
+            "come": 543,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 233,
+                "direction": {
+                    "go": 233,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 2,
+                "direction": {
+                    "go": 2,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 235,
+        "direction": {
+            "go": 235,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "全部",
+        "type": [],
+        "count": 32788,
+        "direction": {
+            "go": 11291,
+            "come": 21497,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "CallLog",
+        "type": [
+            {
+                "type": "呼出已接",
+                "count": 307,
+                "direction": {
+                    "go": 307,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入已接",
+                "count": 614,
+                "direction": {
+                    "go": 0,
+                    "come": 614,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼出未接",
+                "count": 81,
+                "direction": {
+                    "go": 81,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入未接",
+                "count": 131,
+                "direction": {
+                    "go": 0,
+                    "come": 131,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 1133,
+        "direction": {
+            "go": 388,
+            "come": 745,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "Email",
+        "type": [
+            {
+                "type": "附件",
+                "count": 2,
+                "direction": {
+                    "go": 2,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "MobileQQ",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 25937,
+                "direction": {
+                    "go": 9007,
+                    "come": 16930,
+                    "goP": "35",
+                    "comeP": "65"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 1101,
+                "direction": {
+                    "go": 60,
+                    "come": 1041,
+                    "goP": "5",
+                    "comeP": "95"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 256,
+                "direction": {
+                    "go": 256,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 44,
+                "direction": {
+                    "go": 39,
+                    "come": 5,
+                    "goP": "89",
+                    "comeP": "11"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 11,
+                "direction": {
+                    "go": 0,
+                    "come": 11,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 16,
+                "direction": {
+                    "go": 16,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 2,
+                "direction": {
+                    "go": 0,
+                    "come": 2,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 27367,
+        "direction": {
+            "go": 9378,
+            "come": 17989,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 1,
+                "direction": {
+                    "go": 1,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "Wechat",
+        "type": [
+            {
+                "type": "消息",
+                "count": 3372,
+                "direction": {
+                    "go": 1211,
+                    "come": 2161,
+                    "goP": "36",
+                    "comeP": "64"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 250,
+                "direction": {
+                    "go": 82,
+                    "come": 168,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "红包",
+                "count": 23,
+                "direction": {
+                    "go": 17,
+                    "come": 6,
+                    "goP": "74",
+                    "comeP": "26"
+                }
+            },
+            {
+                "type": "系统消息",
+                "count": 31,
+                "direction": {
+                    "go": 10,
+                    "come": 21,
+                    "goP": "32",
+                    "comeP": "68"
+                }
+            },
+            {
+                "type": "分享",
+                "count": 87,
+                "direction": {
+                    "go": 38,
+                    "come": 49,
+                    "goP": "44",
+                    "comeP": "56"
+                }
+            },
+            {
+                "type": "自定义表情",
+                "count": 245,
+                "direction": {
+                    "go": 1,
+                    "come": 244,
+                    "goP": "0.4",
+                    "comeP": "99.6"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 45,
+                "direction": {
+                    "go": 7,
+                    "come": 38,
+                    "goP": "16",
+                    "comeP": "84"
+                }
+            },
+            {
+                "type": "位置",
+                "count": 5,
+                "direction": {
+                    "go": 3,
+                    "come": 2,
+                    "goP": "60",
+                    "comeP": "40"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 34,
+                "direction": {
+                    "go": 2,
+                    "come": 32,
+                    "goP": "6",
+                    "comeP": "94"
+                }
+            },
+            {
+                "type": "位置共享",
+                "count": 2,
+                "direction": {
+                    "go": 1,
+                    "come": 1,
+                    "goP": "50",
+                    "comeP": "50"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 55,
+                "direction": {
+                    "go": 25,
+                    "come": 30,
+                    "goP": "45",
+                    "comeP": "55"
+                }
+            },
+            {
+                "type": "小程序",
+                "count": 6,
+                "direction": {
+                    "go": 0,
+                    "come": 6,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "转账",
+                "count": 8,
+                "direction": {
+                    "go": 4,
+                    "come": 4,
+                    "goP": "50",
+                    "comeP": "50"
+                }
+            },
+            {
+                "type": "名片",
+                "count": 2,
+                "direction": {
+                    "go": 1,
+                    "come": 1,
+                    "goP": "50",
+                    "comeP": "50"
+                }
+            }
+        ],
+        "count": 4165,
+        "direction": {
+            "go": 1402,
+            "come": 2763,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 117,
+                "direction": {
+                    "go": 117,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 3,
+                "direction": {
+                    "go": 3,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 120,
+        "direction": {
+            "go": 120,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "全部",
+        "type": [],
+        "count": 20898,
+        "direction": {
+            "go": 6468,
+            "come": 14430,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "CallLog",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "Email",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "MobileQQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 885,
+                "direction": {
+                    "go": 296,
+                    "come": 589,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 33,
+                "direction": {
+                    "go": 4,
+                    "come": 29,
+                    "goP": "12",
+                    "comeP": "88"
+                }
+            },
+            {
+                "type": "分享",
+                "count": 2,
+                "direction": {
+                    "go": 0,
+                    "come": 2,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "自定义表情",
+                "count": 13,
+                "direction": {
+                    "go": 5,
+                    "come": 8,
+                    "goP": "38",
+                    "comeP": "62"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 3,
+                "direction": {
+                    "go": 0,
+                    "come": 3,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 2,
+                "direction": {
+                    "go": 0,
+                    "come": 2,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 938,
+        "direction": {
+            "go": 305,
+            "come": 633,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 17452,
+                "direction": {
+                    "go": 5407,
+                    "come": 12045,
+                    "goP": "31",
+                    "comeP": "69"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 1016,
+                "direction": {
+                    "go": 45,
+                    "come": 971,
+                    "goP": "4",
+                    "comeP": "96"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 120,
+                "direction": {
+                    "go": 120,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 41,
+                "direction": {
+                    "go": 21,
+                    "come": 20,
+                    "goP": "51",
+                    "comeP": "49"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 5,
+                "direction": {
+                    "go": 5,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 2,
+                "direction": {
+                    "go": 1,
+                    "come": 1,
+                    "goP": "50",
+                    "comeP": "50"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 17,
+                "direction": {
+                    "go": 1,
+                    "come": 16,
+                    "goP": "6",
+                    "comeP": "94"
+                }
+            }
+        ],
+        "count": 18653,
+        "direction": {
+            "go": 5600,
+            "come": 13053,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "SMS",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "Wechat",
+        "type": [
+            {
+                "type": "图片",
+                "count": 141,
+                "direction": {
+                    "go": 68,
+                    "come": 73,
+                    "goP": "48",
+                    "comeP": "52"
+                }
+            },
+            {
+                "type": "消息",
+                "count": 855,
+                "direction": {
+                    "go": 315,
+                    "come": 540,
+                    "goP": "37",
+                    "comeP": "63"
+                }
+            },
+            {
+                "type": "自定义表情",
+                "count": 37,
+                "direction": {
+                    "go": 0,
+                    "come": 37,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "位置",
+                "count": 3,
+                "direction": {
+                    "go": 1,
+                    "come": 2,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "红包",
+                "count": 4,
+                "direction": {
+                    "go": 3,
+                    "come": 1,
+                    "goP": "75",
+                    "comeP": "25"
+                }
+            },
+            {
+                "type": "系统消息",
+                "count": 14,
+                "direction": {
+                    "go": 6,
+                    "come": 8,
+                    "goP": "43",
+                    "comeP": "57"
+                }
+            },
+            {
+                "type": "位置共享",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 44,
+                "direction": {
+                    "go": 3,
+                    "come": 41,
+                    "goP": "7",
+                    "comeP": "93"
+                }
+            },
+            {
+                "type": "分享",
+                "count": 45,
+                "direction": {
+                    "go": 17,
+                    "come": 28,
+                    "goP": "38",
+                    "comeP": "62"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 5,
+                "direction": {
+                    "go": 1,
+                    "come": 4,
+                    "goP": "20",
+                    "comeP": "80"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 3,
+                "direction": {
+                    "go": 2,
+                    "come": 1,
+                    "goP": "67",
+                    "comeP": "33"
+                }
+            },
+            {
+                "type": "名片",
+                "count": 3,
+                "direction": {
+                    "go": 2,
+                    "come": 1,
+                    "goP": "67",
+                    "comeP": "33"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 5,
+                "direction": {
+                    "go": 0,
+                    "come": 5,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "转账",
+                "count": 4,
+                "direction": {
+                    "go": 2,
+                    "come": 2,
+                    "goP": "50",
+                    "comeP": "50"
+                }
+            },
+            {
+                "type": "小程序",
+                "count": 2,
+                "direction": {
+                    "go": 2,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 1166,
+        "direction": {
+            "go": 422,
+            "come": 744,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 136,
+                "direction": {
+                    "go": 136,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 5,
+                "direction": {
+                    "go": 5,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 141,
+        "direction": {
+            "go": 141,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "全部",
+        "type": [],
+        "count": 24918,
+        "direction": {
+            "go": 7945,
+            "come": 16973,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "CallLog",
+        "type": [
+            {
+                "type": "呼出已接",
+                "count": 376,
+                "direction": {
+                    "go": 376,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入已接",
+                "count": 481,
+                "direction": {
+                    "go": 0,
+                    "come": 481,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼入未接",
+                "count": 56,
+                "direction": {
+                    "go": 0,
+                    "come": 56,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼入挂断",
+                "count": 12,
+                "direction": {
+                    "go": 0,
+                    "come": 12,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼出未接",
+                "count": 69,
+                "direction": {
+                    "go": 69,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 994,
+        "direction": {
+            "go": 445,
+            "come": 549,
+            "goP": "45",
+            "comeP": "55"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "Email",
+        "type": [
+            {
+                "type": "附件",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "MobileQQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 15673,
+                "direction": {
+                    "go": 4891,
+                    "come": 10782,
+                    "goP": "31",
+                    "comeP": "69"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 23,
+                "direction": {
+                    "go": 12,
+                    "come": 11,
+                    "goP": "52",
+                    "comeP": "48"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 1107,
+                "direction": {
+                    "go": 104,
+                    "come": 1003,
+                    "goP": "9",
+                    "comeP": "91"
+                }
+            },
+            {
+                "type": "自定义表情",
+                "count": 115,
+                "direction": {
+                    "go": 48,
+                    "come": 67,
+                    "goP": "42",
+                    "comeP": "58"
+                }
+            },
+            {
+                "type": "分享",
+                "count": 84,
+                "direction": {
+                    "go": 2,
+                    "come": 82,
+                    "goP": "2",
+                    "comeP": "98"
+                }
+            },
+            {
+                "type": "撤回",
+                "count": 18,
+                "direction": {
+                    "go": 2,
+                    "come": 16,
+                    "goP": "11",
+                    "comeP": "89"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 43,
+                "direction": {
+                    "go": 21,
+                    "come": 22,
+                    "goP": "49",
+                    "comeP": "51"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 4,
+                "direction": {
+                    "go": 0,
+                    "come": 4,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "位置",
+                "count": 5,
+                "direction": {
+                    "go": 0,
+                    "come": 5,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "动作",
+                "count": 3,
+                "direction": {
+                    "go": 0,
+                    "come": 3,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "系统消息",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 17076,
+        "direction": {
+            "go": 5080,
+            "come": 11996,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 2631,
+                "direction": {
+                    "go": 959,
+                    "come": 1672,
+                    "goP": "36",
+                    "comeP": "64"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 65,
+                "direction": {
+                    "go": 65,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 2,
+                "direction": {
+                    "go": 2,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 168,
+                "direction": {
+                    "go": 19,
+                    "come": 149,
+                    "goP": "11",
+                    "comeP": "89"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 15,
+                "direction": {
+                    "go": 7,
+                    "come": 8,
+                    "goP": "47",
+                    "comeP": "53"
+                }
+            }
+        ],
+        "count": 2881,
+        "direction": {
+            "go": 1052,
+            "come": 1829,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "短信",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "Wechat",
+        "type": [
+            {
+                "type": "视频通话",
+                "count": 11,
+                "direction": {
+                    "go": 3,
+                    "come": 8,
+                    "goP": "27",
+                    "comeP": "73"
+                }
+            },
+            {
+                "type": "自定义表情",
+                "count": 212,
+                "direction": {
+                    "go": 3,
+                    "come": 209,
+                    "goP": "1",
+                    "comeP": "99"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 480,
+                "direction": {
+                    "go": 198,
+                    "come": 282,
+                    "goP": "41",
+                    "comeP": "59"
+                }
+            },
+            {
+                "type": "消息",
+                "count": 2787,
+                "direction": {
+                    "go": 939,
+                    "come": 1848,
+                    "goP": "34",
+                    "comeP": "66"
+                }
+            },
+            {
+                "type": "红包",
+                "count": 7,
+                "direction": {
+                    "go": 7,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "系统消息",
+                "count": 18,
+                "direction": {
+                    "go": 5,
+                    "come": 13,
+                    "goP": "28",
+                    "comeP": "72"
+                }
+            },
+            {
+                "type": "分享",
+                "count": 167,
+                "direction": {
+                    "go": 72,
+                    "come": 95,
+                    "goP": "43",
+                    "comeP": "57"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 6,
+                "direction": {
+                    "go": 2,
+                    "come": 4,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 73,
+                "direction": {
+                    "go": 6,
+                    "come": 67,
+                    "goP": "8",
+                    "comeP": "92"
+                }
+            },
+            {
+                "type": "小程序",
+                "count": 63,
+                "direction": {
+                    "go": 11,
+                    "come": 52,
+                    "goP": "17",
+                    "comeP": "83"
+                }
+            },
+            {
+                "type": "名片",
+                "count": 3,
+                "direction": {
+                    "go": 1,
+                    "come": 2,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "位置",
+                "count": 6,
+                "direction": {
+                    "go": 1,
+                    "come": 5,
+                    "goP": "17",
+                    "comeP": "83"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 10,
+                "direction": {
+                    "go": 0,
+                    "come": 10,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "微信运动",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "聊天记录",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 3845,
+        "direction": {
+            "go": 1248,
+            "come": 2597,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 115,
+                "direction": {
+                    "go": 115,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 5,
+                "direction": {
+                    "go": 5,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 120,
+        "direction": {
+            "go": 120,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "全部",
+        "type": [],
+        "count": 13864,
+        "direction": {
+            "go": 4775,
+            "come": 9089,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "CallLog",
+        "type": [
+            {
+                "type": "呼入已接",
+                "count": 309,
+                "direction": {
+                    "go": 0,
+                    "come": 309,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼出已接",
+                "count": 293,
+                "direction": {
+                    "go": 293,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼出未接",
+                "count": 51,
+                "direction": {
+                    "go": 51,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "呼入未接",
+                "count": 113,
+                "direction": {
+                    "go": 0,
+                    "come": 113,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "呼入挂断",
+                "count": 5,
+                "direction": {
+                    "go": 0,
+                    "come": 5,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 771,
+        "direction": {
+            "go": 344,
+            "come": 427,
+            "goP": "45",
+            "comeP": "55"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "Email",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2019",
+        "source": "MobileQQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 8766,
+                "direction": {
+                    "go": 2888,
+                    "come": 5878,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 482,
+                "direction": {
+                    "go": 36,
+                    "come": 446,
+                    "goP": "7",
+                    "comeP": "93"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 7,
+                "direction": {
+                    "go": 3,
+                    "come": 4,
+                    "goP": "43",
+                    "comeP": "57"
+                }
+            },
+            {
+                "type": "撤回",
+                "count": 12,
+                "direction": {
+                    "go": 4,
+                    "come": 8,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 7,
+                "direction": {
+                    "go": 0,
+                    "come": 7,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "自定义表情",
+                "count": 91,
+                "direction": {
+                    "go": 33,
+                    "come": 58,
+                    "goP": "36",
+                    "comeP": "64"
+                }
+            },
+            {
+                "type": "分享",
+                "count": 31,
+                "direction": {
+                    "go": 0,
+                    "come": 31,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "系统消息",
+                "count": 6,
+                "direction": {
+                    "go": 4,
+                    "come": 2,
+                    "goP": "67",
+                    "comeP": "33"
+                }
+            },
+            {
+                "type": "位置",
+                "count": 3,
+                "direction": {
+                    "go": 0,
+                    "come": 3,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 9405,
+        "direction": {
+            "go": 2968,
+            "come": 6437,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "QQ",
+        "type": [
+            {
+                "type": "消息",
+                "count": 1335,
+                "direction": {
+                    "go": 485,
+                    "come": 850,
+                    "goP": "36",
+                    "comeP": "64"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 66,
+                "direction": {
+                    "go": 2,
+                    "come": 64,
+                    "goP": "3",
+                    "comeP": "97"
+                }
+            },
+            {
+                "type": "忙",
+                "count": 21,
+                "direction": {
+                    "go": 21,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "count": 1423,
+        "direction": {
+            "go": 508,
+            "come": 915,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "SMS",
+        "type": [
+            {
+                "type": "彩信",
+                "count": 2,
+                "direction": {
+                    "go": 0,
+                    "come": 2,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "短信",
+                "count": 4,
+                "direction": {
+                    "go": 1,
+                    "come": 3,
+                    "goP": "25",
+                    "comeP": "75"
+                }
+            }
+        ],
+        "count": 6,
+        "direction": {
+            "go": 1,
+            "come": 5,
+            "goP": "17",
+            "comeP": "83"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "Wechat",
+        "type": [
+            {
+                "type": "小程序",
+                "count": 85,
+                "direction": {
+                    "go": 5,
+                    "come": 80,
+                    "goP": "6",
+                    "comeP": "94"
+                }
+            },
+            {
+                "type": "消息",
+                "count": 1567,
+                "direction": {
+                    "go": 676,
+                    "come": 891,
+                    "goP": "43",
+                    "comeP": "57"
+                }
+            },
+            {
+                "type": "图片",
+                "count": 177,
+                "direction": {
+                    "go": 98,
+                    "come": 79,
+                    "goP": "55",
+                    "comeP": "45"
+                }
+            },
+            {
+                "type": "自定义表情",
+                "count": 213,
+                "direction": {
+                    "go": 53,
+                    "come": 160,
+                    "goP": "25",
+                    "comeP": "75"
+                }
+            },
+            {
+                "type": "视频通话",
+                "count": 3,
+                "direction": {
+                    "go": 2,
+                    "come": 1,
+                    "goP": "67",
+                    "comeP": "33"
+                }
+            },
+            {
+                "type": "分享",
+                "count": 27,
+                "direction": {
+                    "go": 9,
+                    "come": 18,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            },
+            {
+                "type": "位置",
+                "count": 2,
+                "direction": {
+                    "go": 0,
+                    "come": 2,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "视频",
+                "count": 59,
+                "direction": {
+                    "go": 1,
+                    "come": 58,
+                    "goP": "2",
+                    "comeP": "98"
+                }
+            },
+            {
+                "type": "系统消息",
+                "count": 16,
+                "direction": {
+                    "go": 4,
+                    "come": 12,
+                    "goP": "25",
+                    "comeP": "75"
+                }
+            },
+            {
+                "type": "红包",
+                "count": 8,
+                "direction": {
+                    "go": 6,
+                    "come": 2,
+                    "goP": "75",
+                    "comeP": "25"
+                }
+            },
+            {
+                "type": "位置共享",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "文件",
+                "count": 1,
+                "direction": {
+                    "go": 1,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            },
+            {
+                "type": "语音",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            },
+            {
+                "type": "名片",
+                "count": 1,
+                "direction": {
+                    "go": 1,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 2161,
+        "direction": {
+            "go": 856,
+            "come": 1305,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "Camera",
+        "type": [
+            {
+                "type": "图",
+                "count": 98,
+                "direction": {
+                    "go": 98,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "count": 98,
+        "direction": {
+            "go": 98,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "year": "2021",
+        "total": 69802,
+        "max": 2774,
+        "maxDay": [
+            {
+                "date": "2021-12-16",
+                "count": 2774
+            }
+        ],
+        "activityDay": 98,
+        "activityDayP": "58",
+        "allDay": 168,
+        "avg": "71227"
+    },
+    {
+        "year": "2022",
+        "total": 385114,
+        "max": 11382,
+        "maxDay": [
+            {
+                "date": "2022-05-16",
+                "count": 11382
+            }
+        ],
+        "activityDay": 171,
+        "activityDayP": "62",
+        "allDay": 275,
+        "avg": "225213"
+    },
+    {
+        "year": "2023",
+        "total": 132,
+        "max": 132,
+        "maxDay": [
+            {
+                "date": "2023-01-11",
+                "count": 132
+            }
+        ],
+        "activityDay": 1,
+        "activityDayP": "9",
+        "allDay": 11,
+        "avg": "13200"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    null,
+    {
+        "type": [
+            "content",
+            "header"
+        ],
+        "html": "<tag>#大事件</tag><p>我是评论，而且可以跨行。</p><p>还能贴标签，支持<i>HTML</i>。</p>",
+        "content": "#大事件\n我是评论，而且可以跨行。还能贴标签，支持HTML。",
+        "ms": 1665892944276,
+        "time": "2022-10-16 12:02:24",
+        "index": 0,
+        "msgId": "demo.json_2020-01-01_01-00-00_c_5e5432_1",
+        "msgIndex": 1,
+        "msgIndexEnd": 2,
+        "length": 2
+    },
+    {
+        "type": [
+            "content",
+            "footer"
+        ]
+    },
+    {
+        "type": [
+            "content",
+            "header",
+            "footer"
+        ],
+        "html": "<p>评论支持内联双向引用链接。</p><p><a innerlink=\"\" target=\"_blank\" href=\"/#/query?id=demo.json_2020-01-01_05-00-00_g_27a6bd_1\">2020-01-01 05:00:00</a>浮动到链接上看看。</p><p><a innersearch=\"\" target=\"_blank\" href=\"/#/query?searchType=评论&amp;searchKey=%E5%8F%AF%E4%BB%A5%E5%86%85%E8%81%94%E6%90%9C%E7%B4%A2%E3%80%82\">评论:可以内联搜索。</a></p><p><a innerstatistic=\"\" target=\"_blank\" href=\"/#/statistic/total\">统计:total</a>其他内部页面</p><hr><p>外部链接也可以。</p><p><a target=\"_blank\" href=\"https://www.baidu.com\">Baidu.com</a></p>",
+        "content": "评论支持内联双向引用链接。2020-01-01 05:00:00浮动到链接上看看。评论:可以内联搜索。统计:total外部链接也可以。www.baidu.com Baidu.com",
+        "ms": 1665893205397,
+        "time": "2022-10-16 12:06:11",
+        "index": 1,
+        "msgId": "demo.json_2020-01-01_03-00-00_g_5e5432_1",
+        "msgIndex": 3,
+        "msgIndexEnd": 3,
+        "length": 1,
+        "innerId": {
+            "to": [
+                "demo.json_2020-01-01_05-00-00_g_27a6bd_1"
+            ],
+            "from": []
+        },
+        "vNodeTmpl": "<p>评论支持内联双向引用链接。</p><p>___IS_COMMENT_VNODE_INNER_LINK_FLAG___浮动到链接上看看。</p><p><a innersearch=\"\" target=\"_blank\" href=\"/#/query?searchType=评论&amp;searchKey=%E5%8F%AF%E4%BB%A5%E5%86%85%E8%81%94%E6%90%9C%E7%B4%A2%E3%80%82\">评论:可以内联搜索。</a></p><p><a innerstatistic=\"\" target=\"_blank\" href=\"/#/statistic/total\">统计:total</a>其他内部页面</p><hr><p>外部链接也可以。</p><p><a target=\"_blank\" href=\"https://www.baidu.com\">Baidu.com</a></p>"
+    },
+    null,
+    {
+        "innerId": {
+            "to": [],
+            "from": [
+                "demo.json_2020-01-01_03-00-00_g_5e5432_1"
+            ]
+        },
+        "type": [
+            "innerLinkFrom"
+        ]
+    },
+    {
+        "type": [
+            "content",
+            "header",
+            "footer"
+        ],
+        "html": "<p>评论还能插入外部资源。</p><div class=\"align-center\"><img src=\"/data/comments/demo.json_2020-01-01_06-00-00_g_0e2af6_1/2017-07-14 20-52-29 03b04b.jpg\"></div>",
+        "content": "评论还能插入外部资源。[图] 2017-07-14 20-52-29 03b04b.jpg",
+        "ms": 1665893248529,
+        "time": "2022-10-16 12:07:28",
+        "index": 2,
+        "msgId": "demo.json_2020-01-01_06-00-00_g_0e2af6_1",
+        "msgIndex": 6,
+        "msgIndexEnd": 6,
+        "length": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+]

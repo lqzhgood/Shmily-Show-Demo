@@ -1,0 +1,3476 @@
+[
+    {
+        "date": "2007-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "全部",
+        "type": [],
+        "count": 4831,
+        "direction": {
+            "go": 1699,
+            "come": 3132,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2009-10",
+        "source": "主叫",
+        "type": [],
+        "count": 1699,
+        "direction": {
+            "go": 1699,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2009-10",
+        "source": "被叫",
+        "type": [],
+        "count": 3132,
+        "direction": {
+            "go": 0,
+            "come": 3132,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2009-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "全部",
+        "type": [],
+        "count": 5765,
+        "direction": {
+            "go": 3197,
+            "come": 2568,
+            "goP": "55",
+            "comeP": "45"
+        }
+    },
+    {
+        "date": "2010-07",
+        "source": "主叫",
+        "type": [],
+        "count": 3197,
+        "direction": {
+            "go": 3197,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-07",
+        "source": "被叫",
+        "type": [],
+        "count": 2568,
+        "direction": {
+            "go": 0,
+            "come": 2568,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "全部",
+        "type": [],
+        "count": 2796,
+        "direction": {
+            "go": 1414,
+            "come": 1382,
+            "goP": "51",
+            "comeP": "49"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "主叫",
+        "type": [],
+        "count": 1414,
+        "direction": {
+            "go": 1414,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "被叫",
+        "type": [],
+        "count": 1382,
+        "direction": {
+            "go": 0,
+            "come": 1382,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2010-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2014-07",
+        "source": "全部",
+        "type": [],
+        "count": 1150,
+        "direction": {
+            "go": 280,
+            "come": 870,
+            "goP": "24",
+            "comeP": "76"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "主叫",
+        "type": [],
+        "count": 280,
+        "direction": {
+            "go": 280,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "被叫",
+        "type": [],
+        "count": 870,
+        "direction": {
+            "go": 0,
+            "come": 870,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "全部",
+        "type": [],
+        "count": 29063,
+        "direction": {
+            "go": 14731,
+            "come": 14332,
+            "goP": "51",
+            "comeP": "49"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "主叫",
+        "type": [],
+        "count": 14731,
+        "direction": {
+            "go": 14731,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "被叫",
+        "type": [],
+        "count": 14332,
+        "direction": {
+            "go": 0,
+            "come": 14332,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "全部",
+        "type": [],
+        "count": 26833,
+        "direction": {
+            "go": 18035,
+            "come": 8798,
+            "goP": "67",
+            "comeP": "33"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "主叫",
+        "type": [],
+        "count": 18035,
+        "direction": {
+            "go": 18035,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "被叫",
+        "type": [],
+        "count": 8798,
+        "direction": {
+            "go": 0,
+            "come": 8798,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "全部",
+        "type": [],
+        "count": 33071,
+        "direction": {
+            "go": 20396,
+            "come": 12675,
+            "goP": "62",
+            "comeP": "38"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "主叫",
+        "type": [],
+        "count": 20396,
+        "direction": {
+            "go": 20396,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "被叫",
+        "type": [],
+        "count": 12675,
+        "direction": {
+            "go": 0,
+            "come": 12675,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "全部",
+        "type": [],
+        "count": 3278,
+        "direction": {
+            "go": 1544,
+            "come": 1734,
+            "goP": "47",
+            "comeP": "53"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "主叫",
+        "type": [],
+        "count": 1544,
+        "direction": {
+            "go": 1544,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "被叫",
+        "type": [],
+        "count": 1734,
+        "direction": {
+            "go": 0,
+            "come": 1734,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "全部",
+        "type": [],
+        "count": 14313,
+        "direction": {
+            "go": 6598,
+            "come": 7715,
+            "goP": "46",
+            "comeP": "54"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "主叫",
+        "type": [],
+        "count": 6598,
+        "direction": {
+            "go": 6598,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "被叫",
+        "type": [],
+        "count": 7715,
+        "direction": {
+            "go": 0,
+            "come": 7715,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-03",
+        "source": "全部",
+        "type": [],
+        "count": 5439,
+        "direction": {
+            "go": 3413,
+            "come": 2026,
+            "goP": "63",
+            "comeP": "37"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "主叫",
+        "type": [],
+        "count": 3413,
+        "direction": {
+            "go": 3413,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "被叫",
+        "type": [],
+        "count": 2026,
+        "direction": {
+            "go": 0,
+            "come": 2026,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "全部",
+        "type": [],
+        "count": 33150,
+        "direction": {
+            "go": 17180,
+            "come": 15970,
+            "goP": "52",
+            "comeP": "48"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "主叫",
+        "type": [],
+        "count": 17180,
+        "direction": {
+            "go": 17180,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "被叫",
+        "type": [],
+        "count": 15970,
+        "direction": {
+            "go": 0,
+            "come": 15970,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "全部",
+        "type": [],
+        "count": 13672,
+        "direction": {
+            "go": 7874,
+            "come": 5798,
+            "goP": "58",
+            "comeP": "42"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "主叫",
+        "type": [],
+        "count": 7874,
+        "direction": {
+            "go": 7874,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "被叫",
+        "type": [],
+        "count": 5798,
+        "direction": {
+            "go": 0,
+            "come": 5798,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "全部",
+        "type": [],
+        "count": 2778,
+        "direction": {
+            "go": 1494,
+            "come": 1284,
+            "goP": "54",
+            "comeP": "46"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "主叫",
+        "type": [],
+        "count": 1494,
+        "direction": {
+            "go": 1494,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "被叫",
+        "type": [],
+        "count": 1284,
+        "direction": {
+            "go": 0,
+            "come": 1284,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "全部",
+        "type": [],
+        "count": 16282,
+        "direction": {
+            "go": 9180,
+            "come": 7102,
+            "goP": "56",
+            "comeP": "44"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "主叫",
+        "type": [],
+        "count": 9180,
+        "direction": {
+            "go": 9180,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "被叫",
+        "type": [],
+        "count": 7102,
+        "direction": {
+            "go": 0,
+            "come": 7102,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "全部",
+        "type": [],
+        "count": 23105,
+        "direction": {
+            "go": 11878,
+            "come": 11227,
+            "goP": "51",
+            "comeP": "49"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "主叫",
+        "type": [],
+        "count": 11878,
+        "direction": {
+            "go": 11878,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "被叫",
+        "type": [],
+        "count": 11227,
+        "direction": {
+            "go": 0,
+            "come": 11227,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2015-10",
+        "source": "全部",
+        "type": [],
+        "count": 468,
+        "direction": {
+            "go": 436,
+            "come": 32,
+            "goP": "93",
+            "comeP": "7"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "主叫",
+        "type": [],
+        "count": 436,
+        "direction": {
+            "go": 436,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "被叫",
+        "type": [],
+        "count": 32,
+        "direction": {
+            "go": 0,
+            "come": 32,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "全部",
+        "type": [],
+        "count": 28918,
+        "direction": {
+            "go": 17024,
+            "come": 11894,
+            "goP": "59",
+            "comeP": "41"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "主叫",
+        "type": [],
+        "count": 17024,
+        "direction": {
+            "go": 17024,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "被叫",
+        "type": [],
+        "count": 11894,
+        "direction": {
+            "go": 0,
+            "come": 11894,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "全部",
+        "type": [],
+        "count": 179,
+        "direction": {
+            "go": 67,
+            "come": 112,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "主叫",
+        "type": [],
+        "count": 67,
+        "direction": {
+            "go": 67,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "被叫",
+        "type": [],
+        "count": 112,
+        "direction": {
+            "go": 0,
+            "come": 112,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "全部",
+        "type": [],
+        "count": 23906,
+        "direction": {
+            "go": 13047,
+            "come": 10859,
+            "goP": "55",
+            "comeP": "45"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "主叫",
+        "type": [],
+        "count": 13047,
+        "direction": {
+            "go": 13047,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "被叫",
+        "type": [],
+        "count": 10859,
+        "direction": {
+            "go": 0,
+            "come": 10859,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "全部",
+        "type": [],
+        "count": 9001,
+        "direction": {
+            "go": 4597,
+            "come": 4404,
+            "goP": "51",
+            "comeP": "49"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "主叫",
+        "type": [],
+        "count": 4597,
+        "direction": {
+            "go": 4597,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "被叫",
+        "type": [],
+        "count": 4404,
+        "direction": {
+            "go": 0,
+            "come": 4404,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "全部",
+        "type": [],
+        "count": 4301,
+        "direction": {
+            "go": 2080,
+            "come": 2221,
+            "goP": "48",
+            "comeP": "52"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "主叫",
+        "type": [],
+        "count": 2080,
+        "direction": {
+            "go": 2080,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "被叫",
+        "type": [],
+        "count": 2221,
+        "direction": {
+            "go": 0,
+            "come": 2221,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "全部",
+        "type": [],
+        "count": 11153,
+        "direction": {
+            "go": 4514,
+            "come": 6639,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "主叫",
+        "type": [],
+        "count": 4514,
+        "direction": {
+            "go": 4514,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "被叫",
+        "type": [],
+        "count": 6639,
+        "direction": {
+            "go": 0,
+            "come": 6639,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "全部",
+        "type": [],
+        "count": 11041,
+        "direction": {
+            "go": 4097,
+            "come": 6944,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "主叫",
+        "type": [],
+        "count": 4097,
+        "direction": {
+            "go": 4097,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "被叫",
+        "type": [],
+        "count": 6944,
+        "direction": {
+            "go": 0,
+            "come": 6944,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "全部",
+        "type": [],
+        "count": 6693,
+        "direction": {
+            "go": 2032,
+            "come": 4661,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "主叫",
+        "type": [],
+        "count": 2032,
+        "direction": {
+            "go": 2032,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "被叫",
+        "type": [],
+        "count": 4661,
+        "direction": {
+            "go": 0,
+            "come": 4661,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "全部",
+        "type": [],
+        "count": 18227,
+        "direction": {
+            "go": 8291,
+            "come": 9936,
+            "goP": "45",
+            "comeP": "55"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "主叫",
+        "type": [],
+        "count": 8291,
+        "direction": {
+            "go": 8291,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "被叫",
+        "type": [],
+        "count": 9936,
+        "direction": {
+            "go": 0,
+            "come": 9936,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "全部",
+        "type": [],
+        "count": 5491,
+        "direction": {
+            "go": 3763,
+            "come": 1728,
+            "goP": "69",
+            "comeP": "31"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "主叫",
+        "type": [],
+        "count": 3763,
+        "direction": {
+            "go": 3763,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "被叫",
+        "type": [],
+        "count": 1728,
+        "direction": {
+            "go": 0,
+            "come": 1728,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2016-12",
+        "source": "全部",
+        "type": [],
+        "count": 5700,
+        "direction": {
+            "go": 3481,
+            "come": 2219,
+            "goP": "61",
+            "comeP": "39"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "主叫",
+        "type": [],
+        "count": 3481,
+        "direction": {
+            "go": 3481,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "被叫",
+        "type": [],
+        "count": 2219,
+        "direction": {
+            "go": 0,
+            "come": 2219,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2018-07",
+        "source": "全部",
+        "type": [],
+        "count": 387,
+        "direction": {
+            "go": 113,
+            "come": 274,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "主叫",
+        "type": [],
+        "count": 113,
+        "direction": {
+            "go": 113,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "被叫",
+        "type": [],
+        "count": 274,
+        "direction": {
+            "go": 0,
+            "come": 274,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "全部",
+        "type": [],
+        "count": 19172,
+        "direction": {
+            "go": 11135,
+            "come": 8037,
+            "goP": "58",
+            "comeP": "42"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "主叫",
+        "type": [],
+        "count": 11135,
+        "direction": {
+            "go": 11135,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "被叫",
+        "type": [],
+        "count": 8037,
+        "direction": {
+            "go": 0,
+            "come": 8037,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "全部",
+        "type": [],
+        "count": 12794,
+        "direction": {
+            "go": 7284,
+            "come": 5510,
+            "goP": "57",
+            "comeP": "43"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "主叫",
+        "type": [],
+        "count": 7284,
+        "direction": {
+            "go": 7284,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "被叫",
+        "type": [],
+        "count": 5510,
+        "direction": {
+            "go": 0,
+            "come": 5510,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "全部",
+        "type": [],
+        "count": 13981,
+        "direction": {
+            "go": 6084,
+            "come": 7897,
+            "goP": "44",
+            "comeP": "56"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "主叫",
+        "type": [],
+        "count": 6084,
+        "direction": {
+            "go": 6084,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "被叫",
+        "type": [],
+        "count": 7897,
+        "direction": {
+            "go": 0,
+            "come": 7897,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "全部",
+        "type": [],
+        "count": 18054,
+        "direction": {
+            "go": 11111,
+            "come": 6943,
+            "goP": "62",
+            "comeP": "38"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "主叫",
+        "type": [],
+        "count": 11111,
+        "direction": {
+            "go": 11111,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "被叫",
+        "type": [],
+        "count": 6943,
+        "direction": {
+            "go": 0,
+            "come": 6943,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "全部",
+        "type": [],
+        "count": 14309,
+        "direction": {
+            "go": 6263,
+            "come": 8046,
+            "goP": "44",
+            "comeP": "56"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "主叫",
+        "type": [],
+        "count": 6263,
+        "direction": {
+            "go": 6263,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "被叫",
+        "type": [],
+        "count": 8046,
+        "direction": {
+            "go": 0,
+            "come": 8046,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "全部",
+        "type": [],
+        "count": 23937,
+        "direction": {
+            "go": 10106,
+            "come": 13831,
+            "goP": "42",
+            "comeP": "58"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "主叫",
+        "type": [],
+        "count": 10106,
+        "direction": {
+            "go": 10106,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "被叫",
+        "type": [],
+        "count": 13831,
+        "direction": {
+            "go": 0,
+            "come": 13831,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "全部",
+        "type": [],
+        "count": 11920,
+        "direction": {
+            "go": 3006,
+            "come": 8914,
+            "goP": "25",
+            "comeP": "75"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "主叫",
+        "type": [],
+        "count": 3006,
+        "direction": {
+            "go": 3006,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "被叫",
+        "type": [],
+        "count": 8914,
+        "direction": {
+            "go": 0,
+            "come": 8914,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "全部",
+        "type": [],
+        "count": 14048,
+        "direction": {
+            "go": 9896,
+            "come": 4152,
+            "goP": "70",
+            "comeP": "30"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "主叫",
+        "type": [],
+        "count": 9896,
+        "direction": {
+            "go": 9896,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "被叫",
+        "type": [],
+        "count": 4152,
+        "direction": {
+            "go": 0,
+            "come": 4152,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "全部",
+        "type": [],
+        "count": 11996,
+        "direction": {
+            "go": 7747,
+            "come": 4249,
+            "goP": "65",
+            "comeP": "35"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "主叫",
+        "type": [],
+        "count": 7747,
+        "direction": {
+            "go": 7747,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "被叫",
+        "type": [],
+        "count": 4249,
+        "direction": {
+            "go": 0,
+            "come": 4249,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "全部",
+        "type": [],
+        "count": 14923,
+        "direction": {
+            "go": 7898,
+            "come": 7025,
+            "goP": "53",
+            "comeP": "47"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "主叫",
+        "type": [],
+        "count": 7898,
+        "direction": {
+            "go": 7898,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "被叫",
+        "type": [],
+        "count": 7025,
+        "direction": {
+            "go": 0,
+            "come": 7025,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "全部",
+        "type": [],
+        "count": 6997,
+        "direction": {
+            "go": 2710,
+            "come": 4287,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "主叫",
+        "type": [],
+        "count": 2710,
+        "direction": {
+            "go": 2710,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "被叫",
+        "type": [],
+        "count": 4287,
+        "direction": {
+            "go": 0,
+            "come": 4287,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "全部",
+        "type": [],
+        "count": 3347,
+        "direction": {
+            "go": 851,
+            "come": 2496,
+            "goP": "25",
+            "comeP": "75"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "主叫",
+        "type": [],
+        "count": 851,
+        "direction": {
+            "go": 851,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "被叫",
+        "type": [],
+        "count": 2496,
+        "direction": {
+            "go": 0,
+            "come": 2496,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-08",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "全部",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "主叫",
+        "type": [],
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "被叫",
+        "type": [],
+        "count": 0
+    }
+]

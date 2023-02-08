@@ -1,0 +1,272 @@
+{
+    "sourceData": {
+        "label": "MobileQQ",
+        "count": 99585,
+        "icon": "/static/icon/source/MobileQQ.png",
+        "direction": {
+            "go": 34589,
+            "come": 64996,
+            "goP": "35",
+            "comeP": "65"
+        },
+        "children": [
+            {
+                "label": "消息",
+                "count": 96704,
+                "icon": "/static/icon/type/MobileQQ-消息.png",
+                "direction": {
+                    "go": 33672,
+                    "come": 63032,
+                    "goP": "35",
+                    "comeP": "65"
+                },
+                "children": [],
+                "percent": 0.971069940252046,
+                "index": 0,
+                "level": "4-1",
+                "id": "id_4-1"
+            },
+            {
+                "label": "文件",
+                "count": 410,
+                "icon": "/static/icon/type/MobileQQ-文件.png",
+                "direction": {
+                    "go": 296,
+                    "come": 114,
+                    "goP": "72",
+                    "comeP": "28"
+                },
+                "children": [],
+                "percent": 0.004546714721375104,
+                "index": 1,
+                "level": "4-2",
+                "id": "id_4-2"
+            },
+            {
+                "label": "忙",
+                "count": 419,
+                "icon": "/static/icon/type/MobileQQ-忙.png",
+                "direction": {
+                    "go": 364,
+                    "come": 55,
+                    "goP": "87",
+                    "comeP": "13"
+                },
+                "children": [],
+                "percent": 0.005978710653234782,
+                "index": 2,
+                "level": "4-3",
+                "id": "id_4-3"
+            },
+            {
+                "label": "图片",
+                "count": 1622,
+                "icon": "/static/icon/type/MobileQQ-图片.png",
+                "direction": {
+                    "go": 144,
+                    "come": 1478,
+                    "goP": "9",
+                    "comeP": "91"
+                },
+                "children": [],
+                "percent": 0.016292501632263572,
+                "index": 3,
+                "level": "4-4",
+                "id": "id_4-4"
+            },
+            {
+                "label": "分享",
+                "count": 117,
+                "icon": "/static/icon/type/MobileQQ-分享.png",
+                "direction": {
+                    "go": 2,
+                    "come": 115,
+                    "goP": "2",
+                    "comeP": "98"
+                },
+                "children": [],
+                "percent": 0.001182343667892801,
+                "index": 4,
+                "level": "4-5",
+                "id": "id_4-5"
+            },
+            {
+                "label": "自定义表情",
+                "count": 219,
+                "icon": "/static/icon/type/MobileQQ-自定义表情.png",
+                "direction": {
+                    "go": 86,
+                    "come": 133,
+                    "goP": "39",
+                    "comeP": "61"
+                },
+                "children": [],
+                "percent": 0.002201469656912514,
+                "index": 5,
+                "level": "4-6",
+                "id": "id_4-6"
+            },
+            {
+                "label": "视频",
+                "count": 14,
+                "icon": "/static/icon/type/MobileQQ-视频.png",
+                "direction": {
+                    "go": 0,
+                    "come": 14,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.0001413256344511518,
+                "index": 6,
+                "level": "4-7",
+                "id": "id_4-7"
+            },
+            {
+                "label": "视频通话",
+                "count": 32,
+                "icon": "/static/icon/type/MobileQQ-视频通话.png",
+                "direction": {
+                    "go": 15,
+                    "come": 17,
+                    "goP": "47",
+                    "comeP": "53"
+                },
+                "children": [],
+                "percent": 0.00032598176539499823,
+                "index": 7,
+                "level": "4-8",
+                "id": "id_4-8"
+            },
+            {
+                "label": "撤回",
+                "count": 30,
+                "icon": "/static/icon/type/MobileQQ-撤回.png",
+                "direction": {
+                    "go": 6,
+                    "come": 24,
+                    "goP": "20",
+                    "comeP": "80"
+                },
+                "children": [],
+                "percent": 0.00030209655005739835,
+                "index": 8,
+                "level": "4-9",
+                "id": "id_4-9"
+            },
+            {
+                "label": "位置",
+                "count": 8,
+                "icon": "/static/icon/type/MobileQQ-位置.png",
+                "direction": {
+                    "go": 0,
+                    "come": 8,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.00008404950515853838,
+                "index": 9,
+                "level": "4-10",
+                "id": "id_4-10"
+            },
+            {
+                "label": "动作",
+                "count": 3,
+                "icon": "/static/icon/type/MobileQQ-动作.png",
+                "direction": {
+                    "go": 0,
+                    "come": 3,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.00003716412918251304,
+                "index": 10,
+                "level": "4-11",
+                "id": "id_4-11"
+            },
+            {
+                "label": "系统消息",
+                "count": 7,
+                "icon": "/static/icon/type/MobileQQ-系统消息.png",
+                "direction": {
+                    "go": 4,
+                    "come": 3,
+                    "goP": "57",
+                    "comeP": "43"
+                },
+                "children": [],
+                "percent": 0.00007139287499107589,
+                "index": 11,
+                "level": "4-12",
+                "id": "id_4-12"
+            }
+        ],
+        "index": 3,
+        "level": 4,
+        "percent": 0.39591069199392526,
+        "id": "id_4"
+    },
+    "maxData": {
+        "year": 2010,
+        "total": 42100,
+        "direction": {
+            "go": 15999,
+            "come": 26101,
+            "goP": "38",
+            "comeP": "62"
+        },
+        "max": 617,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2010-01-28",
+                "count": 617,
+                "direction": {
+                    "go": 281,
+                    "come": 336,
+                    "goP": "46",
+                    "comeP": "54"
+                }
+            }
+        ],
+        "activityDay": 328,
+        "activityDayP": "90",
+        "activityDayDirection": {
+            "go": 322,
+            "come": 326,
+            "goP": "88",
+            "comeP": "89"
+        },
+        "allDay": 365,
+        "avg": "128.4",
+        "avgDirection": {
+            "go": "49.7",
+            "come": "80.1",
+            "goP": "39",
+            "comeP": "62"
+        }
+    },
+    "avgData": {
+        "total": 99585,
+        "avg": "67.3",
+        "avgDirection": {
+            "go": "24.7",
+            "come": "44.8",
+            "goP": "37",
+            "comeP": "67"
+        }
+    },
+    "activityDayData": {
+        "allDay": 2015,
+        "activityDay": 1479,
+        "activityDayP": "73",
+        "activityDayDirection": {
+            "go": 1398,
+            "come": 1451,
+            "goP": "69",
+            "comeP": "72"
+        }
+    }
+}

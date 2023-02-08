@@ -1,0 +1,522 @@
+[
+    {
+        "year": 2007,
+        "total": 1186,
+        "direction": {
+            "go": 1054,
+            "come": 132,
+            "goP": "89",
+            "comeP": "11"
+        },
+        "max": 772,
+        "maxDirection": "go",
+        "maxDay": [
+            {
+                "date": "2007-11-01",
+                "count": 772,
+                "direction": {
+                    "go": 772,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "activityDay": 4,
+        "activityDayP": "15",
+        "activityDayDirection": {
+            "go": 3,
+            "come": 2,
+            "goP": "12",
+            "comeP": "8"
+        },
+        "allDay": 26,
+        "avg": "296.5",
+        "avgDirection": {
+            "go": "351.3",
+            "come": "66.0",
+            "goP": "118",
+            "comeP": "22"
+        }
+    },
+    {
+        "year": 2008,
+        "total": 262,
+        "direction": {
+            "go": 245,
+            "come": 17,
+            "goP": "94",
+            "comeP": "6"
+        },
+        "max": 185,
+        "maxDirection": "go",
+        "maxDay": [
+            {
+                "date": "2008-04-23",
+                "count": 185,
+                "direction": {
+                    "go": 185,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "activityDay": 4,
+        "activityDayP": "80",
+        "activityDayDirection": {
+            "go": 2,
+            "come": 2,
+            "goP": "40",
+            "comeP": "40"
+        },
+        "allDay": 5,
+        "avg": "65.5",
+        "avgDirection": {
+            "go": "122.5",
+            "come": "8.5",
+            "goP": "187",
+            "comeP": "13"
+        }
+    },
+    {
+        "year": 2009,
+        "total": 53401,
+        "direction": {
+            "go": 10860,
+            "come": 42541,
+            "goP": "20",
+            "comeP": "80"
+        },
+        "max": 5123,
+        "maxDirection": "go",
+        "maxDay": [
+            {
+                "date": "2009-06-20",
+                "count": 5123,
+                "direction": {
+                    "go": 5123,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "activityDay": 119,
+        "activityDayP": "80",
+        "activityDayDirection": {
+            "go": 39,
+            "come": 116,
+            "goP": "26",
+            "comeP": "78"
+        },
+        "allDay": 148,
+        "avg": "448.7",
+        "avgDirection": {
+            "go": "278.5",
+            "come": "366.7",
+            "goP": "62",
+            "comeP": "82"
+        }
+    },
+    {
+        "year": 2010,
+        "total": 274384,
+        "direction": {
+            "go": 71182,
+            "come": 203202,
+            "goP": "26",
+            "comeP": "74"
+        },
+        "max": 4139,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2010-07-23",
+                "count": 4139,
+                "direction": {
+                    "go": 1454,
+                    "come": 2685,
+                    "goP": "35",
+                    "comeP": "65"
+                }
+            }
+        ],
+        "activityDay": 359,
+        "activityDayP": "98",
+        "activityDayDirection": {
+            "go": 334,
+            "come": 357,
+            "goP": "92",
+            "comeP": "98"
+        },
+        "allDay": 365,
+        "avg": "764.3",
+        "avgDirection": {
+            "go": "213.1",
+            "come": "569.2",
+            "goP": "28",
+            "comeP": "74"
+        }
+    },
+    {
+        "year": 2011,
+        "total": 200229,
+        "direction": {
+            "go": 72041,
+            "come": 128188,
+            "goP": "36",
+            "comeP": "64"
+        },
+        "max": 5677,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2011-04-29",
+                "count": 5677,
+                "direction": {
+                    "go": 1857,
+                    "come": 3820,
+                    "goP": "33",
+                    "comeP": "67"
+                }
+            }
+        ],
+        "activityDay": 357,
+        "activityDayP": "98",
+        "activityDayDirection": {
+            "go": 343,
+            "come": 350,
+            "goP": "94",
+            "comeP": "96"
+        },
+        "allDay": 365,
+        "avg": "560.9",
+        "avgDirection": {
+            "go": "210.0",
+            "come": "366.3",
+            "goP": "37",
+            "comeP": "65"
+        }
+    },
+    {
+        "year": 2012,
+        "total": 157543,
+        "direction": {
+            "go": 49914,
+            "come": 107629,
+            "goP": "32",
+            "comeP": "68"
+        },
+        "max": 3447,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2012-05-01",
+                "count": 3447,
+                "direction": {
+                    "go": 704,
+                    "come": 2743,
+                    "goP": "20",
+                    "comeP": "80"
+                }
+            }
+        ],
+        "activityDay": 313,
+        "activityDayP": "86",
+        "activityDayDirection": {
+            "go": 275,
+            "come": 310,
+            "goP": "75",
+            "comeP": "85"
+        },
+        "allDay": 366,
+        "avg": "503.3",
+        "avgDirection": {
+            "go": "181.5",
+            "come": "347.2",
+            "goP": "36",
+            "comeP": "69"
+        }
+    },
+    {
+        "year": 2013,
+        "total": 109389,
+        "direction": {
+            "go": 33660,
+            "come": 75729,
+            "goP": "31",
+            "comeP": "69"
+        },
+        "max": 7160,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2013-02-10",
+                "count": 7160,
+                "direction": {
+                    "go": 195,
+                    "come": 6965,
+                    "goP": "3",
+                    "comeP": "97"
+                }
+            }
+        ],
+        "activityDay": 294,
+        "activityDayP": "81",
+        "activityDayDirection": {
+            "go": 259,
+            "come": 286,
+            "goP": "71",
+            "comeP": "78"
+        },
+        "allDay": 365,
+        "avg": "372.1",
+        "avgDirection": {
+            "go": "130.0",
+            "come": "264.8",
+            "goP": "35",
+            "comeP": "71"
+        }
+    },
+    {
+        "year": 2014,
+        "total": 137875,
+        "direction": {
+            "go": 47540,
+            "come": 90335,
+            "goP": "34",
+            "comeP": "66"
+        },
+        "max": 7948,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2014-09-14",
+                "count": 7948,
+                "direction": {
+                    "go": 209,
+                    "come": 7739,
+                    "goP": "3",
+                    "comeP": "97"
+                }
+            }
+        ],
+        "activityDay": 334,
+        "activityDayP": "92",
+        "activityDayDirection": {
+            "go": 321,
+            "come": 328,
+            "goP": "88",
+            "comeP": "90"
+        },
+        "allDay": 365,
+        "avg": "412.8",
+        "avgDirection": {
+            "go": "148.1",
+            "come": "275.4",
+            "goP": "36",
+            "comeP": "67"
+        }
+    },
+    {
+        "year": 2015,
+        "total": 132011,
+        "direction": {
+            "go": 44851,
+            "come": 87160,
+            "goP": "34",
+            "comeP": "66"
+        },
+        "max": 2127,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2015-11-11",
+                "count": 2127,
+                "direction": {
+                    "go": 904,
+                    "come": 1223,
+                    "goP": "43",
+                    "comeP": "57"
+                }
+            }
+        ],
+        "activityDay": 340,
+        "activityDayP": "93",
+        "activityDayDirection": {
+            "go": 324,
+            "come": 339,
+            "goP": "89",
+            "comeP": "93"
+        },
+        "allDay": 365,
+        "avg": "388.3",
+        "avgDirection": {
+            "go": "138.4",
+            "come": "257.1",
+            "goP": "36",
+            "comeP": "66"
+        }
+    },
+    {
+        "year": 2016,
+        "total": 232352,
+        "direction": {
+            "go": 91552,
+            "come": 140800,
+            "goP": "39",
+            "comeP": "61"
+        },
+        "max": 3332,
+        "maxDirection": "go",
+        "maxDay": [
+            {
+                "date": "2016-11-19",
+                "count": 3332,
+                "direction": {
+                    "go": 2243,
+                    "come": 1089,
+                    "goP": "67",
+                    "comeP": "33"
+                }
+            }
+        ],
+        "activityDay": 364,
+        "activityDayP": "99",
+        "activityDayDirection": {
+            "go": 353,
+            "come": 361,
+            "goP": "96",
+            "comeP": "99"
+        },
+        "allDay": 366,
+        "avg": "638.3",
+        "avgDirection": {
+            "go": "259.4",
+            "come": "390.0",
+            "goP": "41",
+            "comeP": "61"
+        }
+    },
+    {
+        "year": 2017,
+        "total": 135490,
+        "direction": {
+            "go": 49273,
+            "come": 86217,
+            "goP": "36",
+            "comeP": "64"
+        },
+        "max": 3874,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2017-01-23",
+                "count": 3874,
+                "direction": {
+                    "go": 1681,
+                    "come": 2193,
+                    "goP": "43",
+                    "comeP": "57"
+                }
+            }
+        ],
+        "activityDay": 341,
+        "activityDayP": "93",
+        "activityDayDirection": {
+            "go": 332,
+            "come": 340,
+            "goP": "91",
+            "comeP": "93"
+        },
+        "allDay": 365,
+        "avg": "397.3",
+        "avgDirection": {
+            "go": "148.4",
+            "come": "253.6",
+            "goP": "37",
+            "comeP": "64"
+        }
+    },
+    {
+        "year": 2018,
+        "total": 166213,
+        "direction": {
+            "go": 70677,
+            "come": 95536,
+            "goP": "43",
+            "comeP": "57"
+        },
+        "max": 4843,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2018-05-07",
+                "count": 4843,
+                "direction": {
+                    "go": 110,
+                    "come": 4733,
+                    "goP": "2",
+                    "comeP": "98"
+                }
+            }
+        ],
+        "activityDay": 363,
+        "activityDayP": "99",
+        "activityDayDirection": {
+            "go": 361,
+            "come": 363,
+            "goP": "99",
+            "comeP": "99"
+        },
+        "allDay": 365,
+        "avg": "457.9",
+        "avgDirection": {
+            "go": "195.8",
+            "come": "263.2",
+            "goP": "43",
+            "comeP": "57"
+        }
+    },
+    {
+        "year": 2019,
+        "total": 88437,
+        "direction": {
+            "go": 36579,
+            "come": 51858,
+            "goP": "41",
+            "comeP": "59"
+        },
+        "max": 5294,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2019-08-02",
+                "count": 5294,
+                "direction": {
+                    "go": 2138,
+                    "come": 3156,
+                    "goP": "40",
+                    "comeP": "60"
+                }
+            }
+        ],
+        "activityDay": 198,
+        "activityDayP": "77",
+        "activityDayDirection": {
+            "go": 196,
+            "come": 195,
+            "goP": "77",
+            "comeP": "76"
+        },
+        "allDay": 256,
+        "avg": "446.7",
+        "avgDirection": {
+            "go": "186.6",
+            "come": "265.9",
+            "goP": "42",
+            "comeP": "60"
+        }
+    }
+]

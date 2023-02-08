@@ -1,0 +1,128 @@
+{
+    "sourceData": {
+        "label": "CallLog",
+        "count": 3053,
+        "icon": "/static/icon/source/CallLog.png",
+        "direction": {
+            "go": 0,
+            "come": 3053,
+            "goP": "0",
+            "comeP": "100"
+        },
+        "children": [
+            {
+                "label": "呼入已接",
+                "count": 2604,
+                "icon": "/static/icon/type/CallLog-呼入已接.png",
+                "direction": {
+                    "go": 0,
+                    "come": 2604,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.8529315427448412,
+                "index": 0,
+                "level": "3-1",
+                "id": "id_3-1"
+            },
+            {
+                "label": "呼入未接",
+                "count": 432,
+                "icon": "/static/icon/type/CallLog-呼入未接.png",
+                "direction": {
+                    "go": 0,
+                    "come": 432,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.14163934426229507,
+                "index": 1,
+                "level": "3-2",
+                "id": "id_3-2"
+            },
+            {
+                "label": "呼入挂断",
+                "count": 17,
+                "icon": "/static/icon/type/CallLog-呼入挂断.png",
+                "direction": {
+                    "go": 0,
+                    "come": 17,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.005813953488372093,
+                "index": 2,
+                "level": "3-3",
+                "id": "id_3-3"
+            }
+        ],
+        "index": 2,
+        "level": 3,
+        "percent": 0.01863983539798155,
+        "id": "id_3"
+    },
+    "maxData": {
+        "year": 2019,
+        "total": 427,
+        "direction": {
+            "go": 0,
+            "come": 427,
+            "goP": "0",
+            "comeP": "100"
+        },
+        "max": 54,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2019-02-09",
+                "count": 54,
+                "direction": {
+                    "go": 0,
+                    "come": 54,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 122,
+        "activityDayP": "58",
+        "activityDayDirection": {
+            "go": 0,
+            "come": 122,
+            "goP": "0",
+            "comeP": "58"
+        },
+        "allDay": 211,
+        "avg": "3.5",
+        "avgDirection": {
+            "go": 0,
+            "come": "3.5",
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    "avgData": {
+        "total": 3053,
+        "avg": "4.5",
+        "avgDirection": {
+            "go": 0,
+            "come": "4.5",
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    "activityDayData": {
+        "allDay": 868,
+        "activityDay": 678,
+        "activityDayP": "78",
+        "activityDayDirection": {
+            "go": 0,
+            "come": 678,
+            "goP": "0",
+            "comeP": "78"
+        }
+    }
+}
