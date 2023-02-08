@@ -1,0 +1,52 @@
+{
+    "sourceData": {
+        "label": "评论",
+        "count": 11095,
+        "children": [
+            {
+                "label": "🔗 外部链接",
+                "count": 2334
+            },
+            {
+                "label": "🚀 内联链接",
+                "count": 3271
+            },
+            {
+                "label": "🔎 内联搜索",
+                "count": 4
+            },
+            {
+                "label": "📄 附件数量",
+                "count": 3577
+            },
+            {
+                "label": "📄 附件大小",
+                "count": "28.2 GB"
+            }
+        ]
+    },
+    "maxData": {
+        "year": "2022",
+        "total": 9022,
+        "max": 271,
+        "maxDay": [
+            {
+                "date": "2022-05-16",
+                "count": 271
+            }
+        ],
+        "activityDay": 171,
+        "activityDayP": "62",
+        "allDay": 275,
+        "avg": "5276"
+    },
+    "avgData": {
+        "total": 11095,
+        "avg": "41.1"
+    },
+    "activityDayData": {
+        "allDay": 454,
+        "activityDay": 270,
+        "activityDayP": "59"
+    }
+}

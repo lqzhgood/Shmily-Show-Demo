@@ -1,0 +1,509 @@
+[
+    {
+        "year": 2007,
+        "total": 0,
+        "direction": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        },
+        "max": 0,
+        "maxDirection": "-",
+        "maxDay": [],
+        "activityDay": 0,
+        "activityDayP": 0,
+        "activityDayDirection": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        },
+        "allDay": 0,
+        "avg": 0,
+        "avgDirection": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        }
+    },
+    {
+        "year": 2008,
+        "total": 0,
+        "direction": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        },
+        "max": 0,
+        "maxDirection": "-",
+        "maxDay": [],
+        "activityDay": 0,
+        "activityDayP": 0,
+        "activityDayDirection": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        },
+        "allDay": 0,
+        "avg": 0,
+        "avgDirection": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        }
+    },
+    {
+        "year": 2009,
+        "total": 892,
+        "direction": {
+            "go": 1,
+            "come": 891,
+            "goP": "0.1",
+            "comeP": "99.9"
+        },
+        "max": 34,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2009-09-26",
+                "count": 34,
+                "direction": {
+                    "go": 0,
+                    "come": 34,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 110,
+        "activityDayP": "95",
+        "activityDayDirection": {
+            "go": 1,
+            "come": 110,
+            "goP": "1",
+            "comeP": "95"
+        },
+        "allDay": 116,
+        "avg": "8.1",
+        "avgDirection": {
+            "go": "1.0",
+            "come": "8.1",
+            "goP": "12",
+            "comeP": "100"
+        }
+    },
+    {
+        "year": 2010,
+        "total": 1008,
+        "direction": {
+            "go": 127,
+            "come": 881,
+            "goP": "13",
+            "comeP": "87"
+        },
+        "max": 25,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2010-03-09",
+                "count": 25,
+                "direction": {
+                    "go": 10,
+                    "come": 15,
+                    "goP": "40",
+                    "comeP": "60"
+                }
+            },
+            {
+                "date": "2010-03-10",
+                "count": 25,
+                "direction": {
+                    "go": 9,
+                    "come": 16,
+                    "goP": "36",
+                    "comeP": "64"
+                }
+            },
+            {
+                "date": "2010-04-10",
+                "count": 25,
+                "direction": {
+                    "go": 0,
+                    "come": 25,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 178,
+        "activityDayP": "54",
+        "activityDayDirection": {
+            "go": 52,
+            "come": 174,
+            "goP": "16",
+            "comeP": "53"
+        },
+        "allDay": 330,
+        "avg": "5.7",
+        "avgDirection": {
+            "go": "2.4",
+            "come": "5.1",
+            "goP": "42",
+            "comeP": "89"
+        }
+    },
+    {
+        "year": 2011,
+        "total": 159,
+        "direction": {
+            "go": 8,
+            "come": 151,
+            "goP": "5",
+            "comeP": "95"
+        },
+        "max": 16,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2011-11-26",
+                "count": 16,
+                "direction": {
+                    "go": 2,
+                    "come": 14,
+                    "goP": "13",
+                    "comeP": "88"
+                }
+            }
+        ],
+        "activityDay": 77,
+        "activityDayP": "25",
+        "activityDayDirection": {
+            "go": 5,
+            "come": 74,
+            "goP": "2",
+            "comeP": "24"
+        },
+        "allDay": 309,
+        "avg": "2.1",
+        "avgDirection": {
+            "go": "1.6",
+            "come": "2.0",
+            "goP": "76",
+            "comeP": "95"
+        }
+    },
+    {
+        "year": 2012,
+        "total": 202,
+        "direction": {
+            "go": 54,
+            "come": 148,
+            "goP": "27",
+            "comeP": "73"
+        },
+        "max": 18,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2012-09-22",
+                "count": 18,
+                "direction": {
+                    "go": 5,
+                    "come": 13,
+                    "goP": "28",
+                    "comeP": "72"
+                }
+            }
+        ],
+        "activityDay": 69,
+        "activityDayP": "31",
+        "activityDayDirection": {
+            "go": 24,
+            "come": 65,
+            "goP": "11",
+            "comeP": "30"
+        },
+        "allDay": 220,
+        "avg": "2.9",
+        "avgDirection": {
+            "go": "2.3",
+            "come": "2.3",
+            "goP": "79",
+            "comeP": "79"
+        }
+    },
+    {
+        "year": 2013,
+        "total": 227,
+        "direction": {
+            "go": 67,
+            "come": 160,
+            "goP": "30",
+            "comeP": "70"
+        },
+        "max": 27,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2013-02-06",
+                "count": 27,
+                "direction": {
+                    "go": 0,
+                    "come": 27,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 64,
+        "activityDayP": "23",
+        "activityDayDirection": {
+            "go": 30,
+            "come": 54,
+            "goP": "11",
+            "comeP": "20"
+        },
+        "allDay": 275,
+        "avg": "3.5",
+        "avgDirection": {
+            "go": "2.2",
+            "come": "3.0",
+            "goP": "63",
+            "comeP": "86"
+        }
+    },
+    {
+        "year": 2014,
+        "total": 92,
+        "direction": {
+            "go": 2,
+            "come": 90,
+            "goP": "2",
+            "comeP": "98"
+        },
+        "max": 70,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2014-09-14",
+                "count": 70,
+                "direction": {
+                    "go": 0,
+                    "come": 70,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 10,
+        "activityDayP": "9",
+        "activityDayDirection": {
+            "go": 2,
+            "come": 8,
+            "goP": "2",
+            "comeP": "8"
+        },
+        "allDay": 106,
+        "avg": "9.2",
+        "avgDirection": {
+            "go": "1.0",
+            "come": "11.3",
+            "goP": "11",
+            "comeP": "123"
+        }
+    },
+    {
+        "year": 2015,
+        "total": 8,
+        "direction": {
+            "go": 3,
+            "come": 5,
+            "goP": "38",
+            "comeP": "63"
+        },
+        "max": 3,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2015-09-02",
+                "count": 3,
+                "direction": {
+                    "go": 0,
+                    "come": 3,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 5,
+        "activityDayP": "33",
+        "activityDayDirection": {
+            "go": 2,
+            "come": 3,
+            "goP": "13",
+            "comeP": "20"
+        },
+        "allDay": 15,
+        "avg": "1.6",
+        "avgDirection": {
+            "go": "1.5",
+            "come": "1.7",
+            "goP": "94",
+            "comeP": "106"
+        }
+    },
+    {
+        "year": 2016,
+        "total": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        },
+        "max": 1,
+        "maxDirection": "go",
+        "maxDay": [
+            {
+                "date": "2016-01-08",
+                "count": 1,
+                "direction": {
+                    "go": 1,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "activityDay": 1,
+        "activityDayP": "100",
+        "activityDayDirection": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        },
+        "allDay": 1,
+        "avg": "1.0",
+        "avgDirection": {
+            "go": "1.0",
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "year": 2017,
+        "total": 0,
+        "direction": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        },
+        "max": 0,
+        "maxDirection": "-",
+        "maxDay": [],
+        "activityDay": 0,
+        "activityDayP": 0,
+        "activityDayDirection": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        },
+        "allDay": 0,
+        "avg": 0,
+        "avgDirection": {
+            "go": 0,
+            "come": 0,
+            "goP": "-",
+            "comeP": "-"
+        }
+    },
+    {
+        "year": 2018,
+        "total": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        },
+        "max": 1,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2018-05-01",
+                "count": 1,
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 1,
+        "activityDayP": "100",
+        "activityDayDirection": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        },
+        "allDay": 1,
+        "avg": "1.0",
+        "avgDirection": {
+            "go": 0,
+            "come": "1.0",
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "year": 2019,
+        "total": 6,
+        "direction": {
+            "go": 1,
+            "come": 5,
+            "goP": "17",
+            "comeP": "83"
+        },
+        "max": 6,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2019-05-31",
+                "count": 6,
+                "direction": {
+                    "go": 1,
+                    "come": 5,
+                    "goP": "17",
+                    "comeP": "83"
+                }
+            }
+        ],
+        "activityDay": 1,
+        "activityDayP": "100",
+        "activityDayDirection": {
+            "go": 1,
+            "come": 1,
+            "goP": "100",
+            "comeP": "100"
+        },
+        "allDay": 1,
+        "avg": "6.0",
+        "avgDirection": {
+            "go": "1.0",
+            "come": "5.0",
+            "goP": "17",
+            "comeP": "83"
+        }
+    }
+]

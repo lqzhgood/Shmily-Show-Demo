@@ -1,0 +1,112 @@
+{
+    "sourceData": {
+        "label": "Camera",
+        "count": 3118,
+        "icon": "/static/icon/source/Camera.png",
+        "direction": {
+            "go": 3118,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        },
+        "children": [
+            {
+                "label": "图",
+                "count": 3048,
+                "icon": "/static/icon/type/Camera-图.png",
+                "direction": {
+                    "go": 3048,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                },
+                "children": [],
+                "percent": 0.9775497113534317,
+                "index": 0,
+                "level": "5-1",
+                "id": "id_5-1"
+            },
+            {
+                "label": "视频",
+                "count": 70,
+                "icon": "/static/icon/type/Camera-视频.png",
+                "direction": {
+                    "go": 70,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                },
+                "children": [],
+                "percent": 0.023411371237458192,
+                "index": 1,
+                "level": "5-2",
+                "id": "id_5-2"
+            }
+        ],
+        "index": 4,
+        "level": 5,
+        "percent": 0.01239593852123371,
+        "id": "id_5"
+    },
+    "maxData": {
+        "year": 2014,
+        "total": 746,
+        "direction": {
+            "go": 746,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        },
+        "max": 71,
+        "maxDirection": "go",
+        "maxDay": [
+            {
+                "date": "2014-03-22",
+                "count": 71,
+                "direction": {
+                    "go": 71,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "activityDay": 184,
+        "activityDayP": "50",
+        "activityDayDirection": {
+            "go": 184,
+            "come": 0,
+            "goP": "50",
+            "comeP": "0"
+        },
+        "allDay": 365,
+        "avg": "4.1",
+        "avgDirection": {
+            "go": "4.1",
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    "avgData": {
+        "total": 3118,
+        "avg": "3.1",
+        "avgDirection": {
+            "go": "3.1",
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    "activityDayData": {
+        "allDay": 3154,
+        "activityDay": 1011,
+        "activityDayP": "32",
+        "activityDayDirection": {
+            "go": 1011,
+            "come": 0,
+            "goP": "32",
+            "comeP": "0"
+        }
+    }
+}

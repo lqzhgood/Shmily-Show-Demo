@@ -1,0 +1,135 @@
+{
+    "max": 11382,
+    "total": 455048,
+    "data": {
+        "year": 2023,
+        "max": 132,
+        "total": 132,
+        "data": [
+            {
+                "date": "2023-01-01",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周日",
+                "week": "0"
+            },
+            {
+                "date": "2023-01-02",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周一",
+                "week": "1"
+            },
+            {
+                "date": "2023-01-03",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周二",
+                "week": "1"
+            },
+            {
+                "date": "2023-01-04",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周三",
+                "week": "1"
+            },
+            {
+                "date": "2023-01-05",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周四",
+                "week": "1"
+            },
+            {
+                "date": "2023-01-06",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周五",
+                "week": "1"
+            },
+            {
+                "date": "2023-01-07",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周六",
+                "week": "1"
+            },
+            {
+                "date": "2023-01-08",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周日",
+                "week": "1"
+            },
+            {
+                "date": "2023-01-09",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周一",
+                "week": "2"
+            },
+            {
+                "date": "2023-01-10",
+                "source": "全部",
+                "type": [],
+                "count": 0,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周二",
+                "week": "2"
+            },
+            {
+                "date": "2023-01-11",
+                "source": "全部",
+                "type": [],
+                "count": 132,
+                "year": 2023,
+                "weekYear": 2023,
+                "month": 1,
+                "weekday": "周三",
+                "week": "2"
+            }
+        ],
+        "maxDays": [
+            "2023-01-11"
+        ]
+    }
+}

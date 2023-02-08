@@ -1,0 +1,3553 @@
+{
+    "max": 3426,
+    "total": 34589,
+    "data": [
+        {
+            "date": "2007-01",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 1
+        },
+        {
+            "date": "2007-02",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 2
+        },
+        {
+            "date": "2007-03",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 3
+        },
+        {
+            "date": "2007-04",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 4
+        },
+        {
+            "date": "2007-05",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 5
+        },
+        {
+            "date": "2007-06",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 6
+        },
+        {
+            "date": "2007-07",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 7
+        },
+        {
+            "date": "2007-08",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 8
+        },
+        {
+            "date": "2007-09",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 9
+        },
+        {
+            "date": "2007-10",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 10
+        },
+        {
+            "date": "2007-11",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 11
+        },
+        {
+            "date": "2007-12",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 12
+        },
+        {
+            "date": "2008-01",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 1
+        },
+        {
+            "date": "2008-02",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 2
+        },
+        {
+            "date": "2008-03",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 3
+        },
+        {
+            "date": "2008-04",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 4
+        },
+        {
+            "date": "2008-05",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 5
+        },
+        {
+            "date": "2008-06",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 6
+        },
+        {
+            "date": "2008-07",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 7
+        },
+        {
+            "date": "2008-08",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 8
+        },
+        {
+            "date": "2008-09",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 9
+        },
+        {
+            "date": "2008-10",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 10
+        },
+        {
+            "date": "2008-11",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 11
+        },
+        {
+            "date": "2008-12",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 12
+        },
+        {
+            "date": "2009-01",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 1
+        },
+        {
+            "date": "2009-02",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 2
+        },
+        {
+            "date": "2009-03",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 3
+        },
+        {
+            "date": "2009-04",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 4
+        },
+        {
+            "date": "2009-05",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 5
+        },
+        {
+            "date": "2009-06",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 6
+        },
+        {
+            "date": "2009-07",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 7
+        },
+        {
+            "date": "2009-08",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 8
+        },
+        {
+            "date": "2009-09",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 9
+        },
+        {
+            "date": "2009-10",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 551,
+                    "direction": {
+                        "go": 551,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 19,
+                    "direction": {
+                        "go": 19,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 14,
+                    "direction": {
+                        "go": 14,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 584,
+            "direction": {
+                "go": 584,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2009,
+            "month": 10
+        },
+        {
+            "date": "2009-11",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 252,
+                    "direction": {
+                        "go": 252,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 19,
+                    "direction": {
+                        "go": 19,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 271,
+            "direction": {
+                "go": 271,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2009,
+            "month": 11
+        },
+        {
+            "date": "2009-12",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 175,
+                    "direction": {
+                        "go": 175,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 176,
+            "direction": {
+                "go": 176,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2009,
+            "month": 12
+        },
+        {
+            "date": "2010-01",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1311,
+                    "direction": {
+                        "go": 1311,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 10,
+                    "direction": {
+                        "go": 10,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1324,
+            "direction": {
+                "go": 1324,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 1
+        },
+        {
+            "date": "2010-02",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 3324,
+                    "direction": {
+                        "go": 3324,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 77,
+                    "direction": {
+                        "go": 77,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 25,
+                    "direction": {
+                        "go": 25,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 3426,
+            "direction": {
+                "go": 3426,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 2
+        },
+        {
+            "date": "2010-03",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 353,
+                    "direction": {
+                        "go": 353,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 21,
+                    "direction": {
+                        "go": 21,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 374,
+            "direction": {
+                "go": 374,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 3
+        },
+        {
+            "date": "2010-04",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 667,
+                    "direction": {
+                        "go": 667,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 11,
+                    "direction": {
+                        "go": 11,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 679,
+            "direction": {
+                "go": 679,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 4
+        },
+        {
+            "date": "2010-05",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1010,
+                    "direction": {
+                        "go": 1010,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 19,
+                    "direction": {
+                        "go": 19,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1031,
+            "direction": {
+                "go": 1031,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 5
+        },
+        {
+            "date": "2010-06",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1036,
+                    "direction": {
+                        "go": 1036,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 14,
+                    "direction": {
+                        "go": 14,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 27,
+                    "direction": {
+                        "go": 27,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1077,
+            "direction": {
+                "go": 1077,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 6
+        },
+        {
+            "date": "2010-07",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "文件",
+                    "count": 7,
+                    "direction": {
+                        "go": 7,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 1680,
+                    "direction": {
+                        "go": 1680,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1689,
+            "direction": {
+                "go": 1689,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 7
+        },
+        {
+            "date": "2010-08",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 3028,
+                    "direction": {
+                        "go": 3028,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 19,
+                    "direction": {
+                        "go": 19,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 3047,
+            "direction": {
+                "go": 3047,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 8
+        },
+        {
+            "date": "2010-09",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 940,
+                    "direction": {
+                        "go": 940,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 8,
+                    "direction": {
+                        "go": 8,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 10,
+                    "direction": {
+                        "go": 10,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 958,
+            "direction": {
+                "go": 958,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 9
+        },
+        {
+            "date": "2010-10",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 879,
+                    "direction": {
+                        "go": 879,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 26,
+                    "direction": {
+                        "go": 26,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 908,
+            "direction": {
+                "go": 908,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 10
+        },
+        {
+            "date": "2010-11",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 187,
+                    "direction": {
+                        "go": 187,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 6,
+                    "direction": {
+                        "go": 6,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 193,
+            "direction": {
+                "go": 193,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 11
+        },
+        {
+            "date": "2010-12",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1247,
+                    "direction": {
+                        "go": 1247,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 34,
+                    "direction": {
+                        "go": 34,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 12,
+                    "direction": {
+                        "go": 12,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1293,
+            "direction": {
+                "go": 1293,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 12
+        },
+        {
+            "date": "2011-01",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1520,
+                    "direction": {
+                        "go": 1520,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 22,
+                    "direction": {
+                        "go": 22,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1543,
+            "direction": {
+                "go": 1543,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 1
+        },
+        {
+            "date": "2011-02",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1278,
+                    "direction": {
+                        "go": 1278,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 21,
+                    "direction": {
+                        "go": 21,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1302,
+            "direction": {
+                "go": 1302,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 2
+        },
+        {
+            "date": "2011-03",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 859,
+                    "direction": {
+                        "go": 859,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 8,
+                    "direction": {
+                        "go": 8,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 18,
+                    "direction": {
+                        "go": 18,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 885,
+            "direction": {
+                "go": 885,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 3
+        },
+        {
+            "date": "2011-04",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 297,
+                    "direction": {
+                        "go": 297,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 14,
+                    "direction": {
+                        "go": 14,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 312,
+            "direction": {
+                "go": 312,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 4
+        },
+        {
+            "date": "2011-05",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 140,
+                    "direction": {
+                        "go": 140,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 145,
+            "direction": {
+                "go": 145,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 5
+        },
+        {
+            "date": "2011-06",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 268,
+                    "direction": {
+                        "go": 268,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 13,
+                    "direction": {
+                        "go": 13,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 281,
+            "direction": {
+                "go": 281,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 6
+        },
+        {
+            "date": "2011-07",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 491,
+                    "direction": {
+                        "go": 491,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 13,
+                    "direction": {
+                        "go": 13,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 504,
+            "direction": {
+                "go": 504,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 7
+        },
+        {
+            "date": "2011-08",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 526,
+                    "direction": {
+                        "go": 526,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 8,
+                    "direction": {
+                        "go": 8,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 534,
+            "direction": {
+                "go": 534,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 8
+        },
+        {
+            "date": "2011-09",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 384,
+                    "direction": {
+                        "go": 384,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 24,
+                    "direction": {
+                        "go": 24,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 413,
+            "direction": {
+                "go": 413,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 9
+        },
+        {
+            "date": "2011-10",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 427,
+                    "direction": {
+                        "go": 427,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 10,
+                    "direction": {
+                        "go": 10,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 437,
+            "direction": {
+                "go": 437,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 10
+        },
+        {
+            "date": "2011-11",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 380,
+                    "direction": {
+                        "go": 380,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 8,
+                    "direction": {
+                        "go": 8,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 389,
+            "direction": {
+                "go": 389,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 11
+        },
+        {
+            "date": "2011-12",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 359,
+                    "direction": {
+                        "go": 359,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 8,
+                    "direction": {
+                        "go": 8,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 371,
+            "direction": {
+                "go": 371,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 12
+        },
+        {
+            "date": "2012-01",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 405,
+                    "direction": {
+                        "go": 405,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 16,
+                    "direction": {
+                        "go": 16,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 422,
+            "direction": {
+                "go": 422,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 1
+        },
+        {
+            "date": "2012-02",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 476,
+                    "direction": {
+                        "go": 476,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 8,
+                    "direction": {
+                        "go": 8,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 6,
+                    "direction": {
+                        "go": 6,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 490,
+            "direction": {
+                "go": 490,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 2
+        },
+        {
+            "date": "2012-03",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 513,
+                    "direction": {
+                        "go": 513,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "忙",
+                    "count": 29,
+                    "direction": {
+                        "go": 29,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 542,
+            "direction": {
+                "go": 542,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 3
+        },
+        {
+            "date": "2012-04",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 137,
+                    "direction": {
+                        "go": 137,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 138,
+            "direction": {
+                "go": 138,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 4
+        },
+        {
+            "date": "2012-05",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 280,
+                    "direction": {
+                        "go": 280,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 280,
+            "direction": {
+                "go": 280,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 5
+        },
+        {
+            "date": "2012-06",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 25,
+                    "direction": {
+                        "go": 25,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 25,
+            "direction": {
+                "go": 25,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 6
+        },
+        {
+            "date": "2012-07",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 6,
+                    "direction": {
+                        "go": 6,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 6,
+            "direction": {
+                "go": 6,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 7
+        },
+        {
+            "date": "2012-08",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 6,
+                    "direction": {
+                        "go": 6,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 6,
+            "direction": {
+                "go": 6,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 8
+        },
+        {
+            "date": "2012-09",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 9
+        },
+        {
+            "date": "2012-10",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 49,
+                    "direction": {
+                        "go": 49,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 50,
+            "direction": {
+                "go": 50,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 10
+        },
+        {
+            "date": "2012-11",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 11
+        },
+        {
+            "date": "2012-12",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 12
+        },
+        {
+            "date": "2013-01",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 25,
+                    "direction": {
+                        "go": 25,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 25,
+            "direction": {
+                "go": 25,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 1
+        },
+        {
+            "date": "2013-02",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 52,
+                    "direction": {
+                        "go": 52,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 52,
+            "direction": {
+                "go": 52,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 2
+        },
+        {
+            "date": "2013-03",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 3
+        },
+        {
+            "date": "2013-04",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 4
+        },
+        {
+            "date": "2013-05",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 5
+        },
+        {
+            "date": "2013-06",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 7,
+                    "direction": {
+                        "go": 7,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 7,
+            "direction": {
+                "go": 7,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 6
+        },
+        {
+            "date": "2013-07",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 16,
+                    "direction": {
+                        "go": 16,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 16,
+            "direction": {
+                "go": 16,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 7
+        },
+        {
+            "date": "2013-08",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 2,
+            "direction": {
+                "go": 2,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 8
+        },
+        {
+            "date": "2013-09",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 9,
+                    "direction": {
+                        "go": 9,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 9,
+            "direction": {
+                "go": 9,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 9
+        },
+        {
+            "date": "2013-10",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 15,
+                    "direction": {
+                        "go": 15,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 15,
+            "direction": {
+                "go": 15,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 10
+        },
+        {
+            "date": "2013-11",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 2,
+            "direction": {
+                "go": 2,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 11
+        },
+        {
+            "date": "2013-12",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 12
+        },
+        {
+            "date": "2014-01",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 1
+        },
+        {
+            "date": "2014-02",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 2
+        },
+        {
+            "date": "2014-03",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 3
+        },
+        {
+            "date": "2014-04",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 4
+        },
+        {
+            "date": "2014-05",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 5
+        },
+        {
+            "date": "2014-06",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 6
+        },
+        {
+            "date": "2014-07",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 7
+        },
+        {
+            "date": "2014-08",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 8
+        },
+        {
+            "date": "2014-09",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 9
+        },
+        {
+            "date": "2014-10",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 10
+        },
+        {
+            "date": "2014-11",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 11
+        },
+        {
+            "date": "2014-12",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 12
+        },
+        {
+            "date": "2015-01",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 1
+        },
+        {
+            "date": "2015-02",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 2
+        },
+        {
+            "date": "2015-03",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 3
+        },
+        {
+            "date": "2015-04",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 4
+        },
+        {
+            "date": "2015-05",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 5
+        },
+        {
+            "date": "2015-06",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 6
+        },
+        {
+            "date": "2015-07",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 7
+        },
+        {
+            "date": "2015-08",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 8
+        },
+        {
+            "date": "2015-09",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 9
+        },
+        {
+            "date": "2015-10",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 10
+        },
+        {
+            "date": "2015-11",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 11
+        },
+        {
+            "date": "2015-12",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 12
+        },
+        {
+            "date": "2016-01",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 1
+        },
+        {
+            "date": "2016-02",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 2
+        },
+        {
+            "date": "2016-03",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 3
+        },
+        {
+            "date": "2016-04",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 4
+        },
+        {
+            "date": "2016-05",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 5
+        },
+        {
+            "date": "2016-06",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 6
+        },
+        {
+            "date": "2016-07",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 7
+        },
+        {
+            "date": "2016-08",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 8
+        },
+        {
+            "date": "2016-09",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 9
+        },
+        {
+            "date": "2016-10",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 10
+        },
+        {
+            "date": "2016-11",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 11
+        },
+        {
+            "date": "2016-12",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 12
+        },
+        {
+            "date": "2017-01",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 1
+        },
+        {
+            "date": "2017-02",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 2
+        },
+        {
+            "date": "2017-03",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 3
+        },
+        {
+            "date": "2017-04",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 4
+        },
+        {
+            "date": "2017-05",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 5
+        },
+        {
+            "date": "2017-06",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 6
+        },
+        {
+            "date": "2017-07",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 7
+        },
+        {
+            "date": "2017-08",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 8
+        },
+        {
+            "date": "2017-09",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 9
+        },
+        {
+            "date": "2017-10",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 10
+        },
+        {
+            "date": "2017-11",
+            "source": "MobileQQ",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 11
+        },
+        {
+            "date": "2017-12",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 296,
+                    "direction": {
+                        "go": 296,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 305,
+            "direction": {
+                "go": 305,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2017,
+            "month": 12
+        },
+        {
+            "date": "2018-01",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 361,
+                    "direction": {
+                        "go": 361,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 8,
+                    "direction": {
+                        "go": 8,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 376,
+            "direction": {
+                "go": 376,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 1
+        },
+        {
+            "date": "2018-02",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 336,
+                    "direction": {
+                        "go": 336,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 338,
+            "direction": {
+                "go": 338,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 2
+        },
+        {
+            "date": "2018-03",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 366,
+                    "direction": {
+                        "go": 366,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 373,
+            "direction": {
+                "go": 373,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 3
+        },
+        {
+            "date": "2018-04",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 285,
+                    "direction": {
+                        "go": 285,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 295,
+            "direction": {
+                "go": 295,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 4
+        },
+        {
+            "date": "2018-05",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 470,
+                    "direction": {
+                        "go": 470,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 13,
+                    "direction": {
+                        "go": 13,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 6,
+                    "direction": {
+                        "go": 6,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 494,
+            "direction": {
+                "go": 494,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 5
+        },
+        {
+            "date": "2018-06",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 531,
+                    "direction": {
+                        "go": 531,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 15,
+                    "direction": {
+                        "go": 15,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "撤回",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 551,
+            "direction": {
+                "go": 551,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 6
+        },
+        {
+            "date": "2018-07",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 445,
+                    "direction": {
+                        "go": 445,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 15,
+                    "direction": {
+                        "go": 15,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 466,
+            "direction": {
+                "go": 466,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 7
+        },
+        {
+            "date": "2018-08",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 495,
+                    "direction": {
+                        "go": 495,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 12,
+                    "direction": {
+                        "go": 12,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 8,
+                    "direction": {
+                        "go": 8,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "撤回",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 517,
+            "direction": {
+                "go": 517,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 8
+        },
+        {
+            "date": "2018-09",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 317,
+                    "direction": {
+                        "go": 317,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 6,
+                    "direction": {
+                        "go": 6,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 9,
+                    "direction": {
+                        "go": 9,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 340,
+            "direction": {
+                "go": 340,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 9
+        },
+        {
+            "date": "2018-10",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 442,
+                    "direction": {
+                        "go": 442,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 12,
+                    "direction": {
+                        "go": 12,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 460,
+            "direction": {
+                "go": 460,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 10
+        },
+        {
+            "date": "2018-11",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 427,
+                    "direction": {
+                        "go": 427,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 13,
+                    "direction": {
+                        "go": 13,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 445,
+            "direction": {
+                "go": 445,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 11
+        },
+        {
+            "date": "2018-12",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 416,
+                    "direction": {
+                        "go": 416,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 425,
+            "direction": {
+                "go": 425,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2018,
+            "month": 12
+        },
+        {
+            "date": "2019-01",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 427,
+                    "direction": {
+                        "go": 427,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "撤回",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 431,
+            "direction": {
+                "go": 431,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 1
+        },
+        {
+            "date": "2019-02",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 445,
+                    "direction": {
+                        "go": 445,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 451,
+            "direction": {
+                "go": 451,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 2
+        },
+        {
+            "date": "2019-03",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 430,
+                    "direction": {
+                        "go": 430,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 436,
+            "direction": {
+                "go": 436,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 3
+        },
+        {
+            "date": "2019-04",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 585,
+                    "direction": {
+                        "go": 585,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "撤回",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 18,
+                    "direction": {
+                        "go": 18,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 6,
+                    "direction": {
+                        "go": 6,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 610,
+            "direction": {
+                "go": 610,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 4
+        },
+        {
+            "date": "2019-05",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 376,
+                    "direction": {
+                        "go": 376,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 389,
+            "direction": {
+                "go": 389,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 5
+        },
+        {
+            "date": "2019-06",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 165,
+                    "direction": {
+                        "go": 165,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 9,
+                    "direction": {
+                        "go": 9,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 175,
+            "direction": {
+                "go": 175,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 6
+        },
+        {
+            "date": "2019-07",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 246,
+                    "direction": {
+                        "go": 246,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 7,
+                    "direction": {
+                        "go": 7,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 255,
+            "direction": {
+                "go": 255,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 7
+        },
+        {
+            "date": "2019-08",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 176,
+                    "direction": {
+                        "go": 176,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "撤回",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 178,
+            "direction": {
+                "go": 178,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 8
+        },
+        {
+            "date": "2019-09",
+            "source": "MobileQQ",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 38,
+                    "direction": {
+                        "go": 38,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 43,
+            "direction": {
+                "go": 43,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2019,
+            "month": 9
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "sourceData": {
+        "label": "Wechat",
+        "count": 12179,
+        "icon": "/static/icon/source/Wechat.png",
+        "direction": {
+            "go": 4227,
+            "come": 7952,
+            "goP": "35",
+            "comeP": "65"
+        },
+        "children": [
+            {
+                "label": "图片",
+                "count": 1088,
+                "icon": "/static/icon/type/Wechat-图片.png",
+                "direction": {
+                    "go": 459,
+                    "come": 629,
+                    "goP": "42",
+                    "comeP": "58"
+                },
+                "children": [],
+                "percent": 0.08933409967977667,
+                "index": 0,
+                "level": "7-1",
+                "id": "id_7-1"
+            },
+            {
+                "label": "消息",
+                "count": 9309,
+                "icon": "/static/icon/type/Wechat-消息.png",
+                "direction": {
+                    "go": 3411,
+                    "come": 5898,
+                    "goP": "37",
+                    "comeP": "63"
+                },
+                "children": [],
+                "percent": 0.7644740083764474,
+                "index": 1,
+                "level": "7-2",
+                "id": "id_7-2"
+            },
+            {
+                "label": "分享",
+                "count": 342,
+                "icon": "/static/icon/type/Wechat-分享.png",
+                "direction": {
+                    "go": 141,
+                    "come": 201,
+                    "goP": "41",
+                    "comeP": "59"
+                },
+                "children": [],
+                "percent": 0.028104199194674995,
+                "index": 2,
+                "level": "7-3",
+                "id": "id_7-3"
+            },
+            {
+                "label": "自定义表情",
+                "count": 732,
+                "icon": "/static/icon/type/Wechat-自定义表情.png",
+                "direction": {
+                    "go": 57,
+                    "come": 675,
+                    "goP": "8",
+                    "comeP": "92"
+                },
+                "children": [],
+                "percent": 0.060108392182624405,
+                "index": 3,
+                "level": "7-4",
+                "id": "id_7-4"
+            },
+            {
+                "label": "视频",
+                "count": 230,
+                "icon": "/static/icon/type/Wechat-视频.png",
+                "direction": {
+                    "go": 17,
+                    "come": 213,
+                    "goP": "7",
+                    "comeP": "93"
+                },
+                "children": [],
+                "percent": 0.018902038132807365,
+                "index": 4,
+                "level": "7-5",
+                "id": "id_7-5"
+            },
+            {
+                "label": "语音",
+                "count": 57,
+                "icon": "/static/icon/type/Wechat-语音.png",
+                "direction": {
+                    "go": 2,
+                    "come": 55,
+                    "goP": "4",
+                    "comeP": "96"
+                },
+                "children": [],
+                "percent": 0.005077046405985571,
+                "index": 5,
+                "level": "7-6",
+                "id": "id_7-6"
+            },
+            {
+                "label": "系统消息",
+                "count": 86,
+                "icon": "/static/icon/type/Wechat-系统消息.png",
+                "direction": {
+                    "go": 32,
+                    "come": 54,
+                    "goP": "37",
+                    "comeP": "63"
+                },
+                "children": [],
+                "percent": 0.00721658135436771,
+                "index": 6,
+                "level": "7-7",
+                "id": "id_7-7"
+            },
+            {
+                "label": "视频通话",
+                "count": 78,
+                "icon": "/static/icon/type/Wechat-视频通话.png",
+                "direction": {
+                    "go": 34,
+                    "come": 44,
+                    "goP": "44",
+                    "comeP": "56"
+                },
+                "children": [],
+                "percent": 0.006924101198402131,
+                "index": 7,
+                "level": "7-8",
+                "id": "id_7-8"
+            },
+            {
+                "label": "红包",
+                "count": 46,
+                "icon": "/static/icon/type/Wechat-红包.png",
+                "direction": {
+                    "go": 33,
+                    "come": 13,
+                    "goP": "72",
+                    "comeP": "28"
+                },
+                "children": [],
+                "percent": 0.0038603558241020477,
+                "index": 8,
+                "level": "7-9",
+                "id": "id_7-9"
+            },
+            {
+                "label": "转账",
+                "count": 14,
+                "icon": "/static/icon/type/Wechat-转账.png",
+                "direction": {
+                    "go": 7,
+                    "come": 7,
+                    "goP": "50",
+                    "comeP": "50"
+                },
+                "children": [],
+                "percent": 0.0024626209322779246,
+                "index": 9,
+                "level": "7-10",
+                "id": "id_7-10"
+            },
+            {
+                "label": "位置",
+                "count": 16,
+                "icon": "/static/icon/type/Wechat-位置.png",
+                "direction": {
+                    "go": 5,
+                    "come": 11,
+                    "goP": "31",
+                    "comeP": "69"
+                },
+                "children": [],
+                "percent": 0.0015497869043006587,
+                "index": 10,
+                "level": "7-11",
+                "id": "id_7-11"
+            },
+            {
+                "label": "位置共享",
+                "count": 4,
+                "icon": "/static/icon/type/Wechat-位置共享.png",
+                "direction": {
+                    "go": 1,
+                    "come": 3,
+                    "goP": "25",
+                    "comeP": "75"
+                },
+                "children": [],
+                "percent": 0.0003867349898482065,
+                "index": 11,
+                "level": "7-12",
+                "id": "id_7-12"
+            },
+            {
+                "label": "小程序",
+                "count": 156,
+                "icon": "/static/icon/type/Wechat-小程序.png",
+                "direction": {
+                    "go": 18,
+                    "come": 138,
+                    "goP": "12",
+                    "comeP": "88"
+                },
+                "children": [],
+                "percent": 0.012841620019756339,
+                "index": 12,
+                "level": "7-13",
+                "id": "id_7-13"
+            },
+            {
+                "label": "名片",
+                "count": 9,
+                "icon": "/static/icon/type/Wechat-名片.png",
+                "direction": {
+                    "go": 5,
+                    "come": 4,
+                    "goP": "56",
+                    "comeP": "44"
+                },
+                "children": [],
+                "percent": 0.0007708119218910585,
+                "index": 13,
+                "level": "7-14",
+                "id": "id_7-14"
+            },
+            {
+                "label": "文件",
+                "count": 10,
+                "icon": "/static/icon/type/Wechat-文件.png",
+                "direction": {
+                    "go": 5,
+                    "come": 5,
+                    "goP": "50",
+                    "comeP": "50"
+                },
+                "children": [],
+                "percent": 0.000917094644167278,
+                "index": 14,
+                "level": "7-15",
+                "id": "id_7-15"
+            },
+            {
+                "label": "微信运动",
+                "count": 1,
+                "icon": "/static/icon/type/Wechat-微信运动.png",
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.0001475143826523086,
+                "index": 15,
+                "level": "7-16",
+                "id": "id_7-16"
+            },
+            {
+                "label": "聊天记录",
+                "count": 1,
+                "icon": "/static/icon/type/Wechat-聊天记录.png",
+                "direction": {
+                    "go": 0,
+                    "come": 1,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.0001391207568169171,
+                "index": 16,
+                "level": "7-17",
+                "id": "id_7-17"
+            }
+        ],
+        "index": 6,
+        "level": 7,
+        "percent": 0.04841890161966175,
+        "id": "id_7"
+    },
+    "maxData": {
+        "year": 2016,
+        "total": 4165,
+        "direction": {
+            "go": 1402,
+            "come": 2763,
+            "goP": "34",
+            "comeP": "66"
+        },
+        "max": 324,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2016-07-31",
+                "count": 324,
+                "direction": {
+                    "go": 110,
+                    "come": 214,
+                    "goP": "34",
+                    "comeP": "66"
+                }
+            }
+        ],
+        "activityDay": 222,
+        "activityDayP": "61",
+        "activityDayDirection": {
+            "go": 177,
+            "come": 217,
+            "goP": "48",
+            "comeP": "59"
+        },
+        "allDay": 366,
+        "avg": "18.8",
+        "avgDirection": {
+            "go": "7.9",
+            "come": "12.7",
+            "goP": "42",
+            "comeP": "68"
+        }
+    },
+    "avgData": {
+        "total": 12179,
+        "avg": "15.1",
+        "avgDirection": {
+            "go": "6.5",
+            "come": "10.3",
+            "goP": "43",
+            "comeP": "68"
+        }
+    },
+    "activityDayData": {
+        "allDay": 1270,
+        "activityDay": 804,
+        "activityDayP": "63",
+        "activityDayDirection": {
+            "go": 646,
+            "come": 771,
+            "goP": "51",
+            "comeP": "61"
+        }
+    }
+}

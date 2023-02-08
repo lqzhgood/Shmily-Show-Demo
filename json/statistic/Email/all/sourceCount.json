@@ -1,0 +1,112 @@
+{
+    "sourceData": {
+        "label": "Email",
+        "count": 82,
+        "icon": "/static/icon/source/Email.png",
+        "direction": {
+            "go": 37,
+            "come": 45,
+            "goP": "45",
+            "comeP": "55"
+        },
+        "children": [
+            {
+                "label": "附件",
+                "count": 42,
+                "icon": "/static/icon/type/Email-附件.png",
+                "direction": {
+                    "go": 26,
+                    "come": 16,
+                    "goP": "62",
+                    "comeP": "38"
+                },
+                "children": [],
+                "percent": 0.5121951219512195,
+                "index": 0,
+                "level": "1-1",
+                "id": "id_1-1"
+            },
+            {
+                "label": "邮件",
+                "count": 40,
+                "icon": "/static/icon/type/Email-邮件.png",
+                "direction": {
+                    "go": 11,
+                    "come": 29,
+                    "goP": "28",
+                    "comeP": "73"
+                },
+                "children": [],
+                "percent": 0.5063291139240507,
+                "index": 1,
+                "level": "1-2",
+                "id": "id_1-2"
+            }
+        ],
+        "index": 0,
+        "level": 1,
+        "percent": 0.0003259996660491226,
+        "id": "id_1"
+    },
+    "maxData": {
+        "year": 2010,
+        "total": 23,
+        "direction": {
+            "go": 6,
+            "come": 17,
+            "goP": "26",
+            "comeP": "74"
+        },
+        "max": 8,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2010-02-22",
+                "count": 8,
+                "direction": {
+                    "go": 0,
+                    "come": 8,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 12,
+        "activityDayP": "17",
+        "activityDayDirection": {
+            "go": 6,
+            "come": 6,
+            "goP": "8",
+            "comeP": "8"
+        },
+        "allDay": 71,
+        "avg": "1.9",
+        "avgDirection": {
+            "go": "1.0",
+            "come": "2.8",
+            "goP": "53",
+            "comeP": "147"
+        }
+    },
+    "avgData": {
+        "total": 82,
+        "avg": "1.6",
+        "avgDirection": {
+            "go": "1.4",
+            "come": "1.7",
+            "goP": "87",
+            "comeP": "106"
+        }
+    },
+    "activityDayData": {
+        "allDay": 256,
+        "activityDay": 51,
+        "activityDayP": "20",
+        "activityDayDirection": {
+            "go": 26,
+            "come": 27,
+            "goP": "10",
+            "comeP": "11"
+        }
+    }
+}

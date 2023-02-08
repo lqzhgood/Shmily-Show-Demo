@@ -1,0 +1,4961 @@
+{
+    "max": 893,
+    "total": 12179,
+    "data": [
+        {
+            "date": "2007-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 1
+        },
+        {
+            "date": "2007-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 2
+        },
+        {
+            "date": "2007-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 3
+        },
+        {
+            "date": "2007-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 4
+        },
+        {
+            "date": "2007-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 5
+        },
+        {
+            "date": "2007-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 6
+        },
+        {
+            "date": "2007-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 7
+        },
+        {
+            "date": "2007-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 8
+        },
+        {
+            "date": "2007-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 9
+        },
+        {
+            "date": "2007-10",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 10
+        },
+        {
+            "date": "2007-11",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 11
+        },
+        {
+            "date": "2007-12",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 12
+        },
+        {
+            "date": "2008-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 1
+        },
+        {
+            "date": "2008-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 2
+        },
+        {
+            "date": "2008-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 3
+        },
+        {
+            "date": "2008-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 4
+        },
+        {
+            "date": "2008-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 5
+        },
+        {
+            "date": "2008-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 6
+        },
+        {
+            "date": "2008-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 7
+        },
+        {
+            "date": "2008-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 8
+        },
+        {
+            "date": "2008-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 9
+        },
+        {
+            "date": "2008-10",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 10
+        },
+        {
+            "date": "2008-11",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 11
+        },
+        {
+            "date": "2008-12",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 12
+        },
+        {
+            "date": "2009-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 1
+        },
+        {
+            "date": "2009-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 2
+        },
+        {
+            "date": "2009-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 3
+        },
+        {
+            "date": "2009-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 4
+        },
+        {
+            "date": "2009-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 5
+        },
+        {
+            "date": "2009-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 6
+        },
+        {
+            "date": "2009-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 7
+        },
+        {
+            "date": "2009-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 8
+        },
+        {
+            "date": "2009-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 9
+        },
+        {
+            "date": "2009-10",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 10
+        },
+        {
+            "date": "2009-11",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 11
+        },
+        {
+            "date": "2009-12",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 12
+        },
+        {
+            "date": "2010-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 1
+        },
+        {
+            "date": "2010-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 2
+        },
+        {
+            "date": "2010-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 3
+        },
+        {
+            "date": "2010-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 4
+        },
+        {
+            "date": "2010-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 5
+        },
+        {
+            "date": "2010-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 6
+        },
+        {
+            "date": "2010-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 7
+        },
+        {
+            "date": "2010-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 8
+        },
+        {
+            "date": "2010-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 9
+        },
+        {
+            "date": "2010-10",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 10
+        },
+        {
+            "date": "2010-11",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 11
+        },
+        {
+            "date": "2010-12",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 12
+        },
+        {
+            "date": "2011-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 1
+        },
+        {
+            "date": "2011-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 2
+        },
+        {
+            "date": "2011-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 3
+        },
+        {
+            "date": "2011-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 4
+        },
+        {
+            "date": "2011-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 5
+        },
+        {
+            "date": "2011-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 6
+        },
+        {
+            "date": "2011-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 7
+        },
+        {
+            "date": "2011-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 8
+        },
+        {
+            "date": "2011-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 9
+        },
+        {
+            "date": "2011-10",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 10
+        },
+        {
+            "date": "2011-11",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 11
+        },
+        {
+            "date": "2011-12",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 12
+        },
+        {
+            "date": "2012-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 1
+        },
+        {
+            "date": "2012-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 2
+        },
+        {
+            "date": "2012-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 3
+        },
+        {
+            "date": "2012-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 4
+        },
+        {
+            "date": "2012-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 5
+        },
+        {
+            "date": "2012-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 6
+        },
+        {
+            "date": "2012-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 7
+        },
+        {
+            "date": "2012-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 8
+        },
+        {
+            "date": "2012-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 9
+        },
+        {
+            "date": "2012-10",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 10
+        },
+        {
+            "date": "2012-11",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 11
+        },
+        {
+            "date": "2012-12",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 12
+        },
+        {
+            "date": "2013-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 1
+        },
+        {
+            "date": "2013-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 2
+        },
+        {
+            "date": "2013-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 3
+        },
+        {
+            "date": "2013-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 4
+        },
+        {
+            "date": "2013-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 5
+        },
+        {
+            "date": "2013-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 6
+        },
+        {
+            "date": "2013-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 7
+        },
+        {
+            "date": "2013-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 8
+        },
+        {
+            "date": "2013-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 9
+        },
+        {
+            "date": "2013-10",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 10
+        },
+        {
+            "date": "2013-11",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 11
+        },
+        {
+            "date": "2013-12",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 12
+        },
+        {
+            "date": "2014-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 1
+        },
+        {
+            "date": "2014-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 2
+        },
+        {
+            "date": "2014-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 3
+        },
+        {
+            "date": "2014-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 4
+        },
+        {
+            "date": "2014-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 5
+        },
+        {
+            "date": "2014-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 6
+        },
+        {
+            "date": "2014-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 7
+        },
+        {
+            "date": "2014-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 8
+        },
+        {
+            "date": "2014-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 9
+        },
+        {
+            "date": "2014-10",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 10
+        },
+        {
+            "date": "2014-11",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 11
+        },
+        {
+            "date": "2014-12",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 12
+        },
+        {
+            "date": "2015-01",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 1
+        },
+        {
+            "date": "2015-02",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 2
+        },
+        {
+            "date": "2015-03",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 3
+        },
+        {
+            "date": "2015-04",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 4
+        },
+        {
+            "date": "2015-05",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 5
+        },
+        {
+            "date": "2015-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 6
+        },
+        {
+            "date": "2015-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 7
+        },
+        {
+            "date": "2015-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 8
+        },
+        {
+            "date": "2015-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 9
+        },
+        {
+            "date": "2015-10",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 29,
+                    "direction": {
+                        "go": 8,
+                        "come": 21,
+                        "goP": "28",
+                        "comeP": "72"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 3,
+                    "direction": {
+                        "go": 1,
+                        "come": 2,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                }
+            ],
+            "count": 34,
+            "direction": {
+                "go": 11,
+                "come": 23,
+                "goP": "32",
+                "comeP": "68"
+            },
+            "year": 2015,
+            "month": 10
+        },
+        {
+            "date": "2015-11",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 5,
+                    "direction": {
+                        "go": 1,
+                        "come": 4,
+                        "goP": "20",
+                        "comeP": "80"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 88,
+                    "direction": {
+                        "go": 32,
+                        "come": 56,
+                        "goP": "36",
+                        "comeP": "64"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 6,
+                    "direction": {
+                        "go": 0,
+                        "come": 6,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 101,
+            "direction": {
+                "go": 35,
+                "come": 66,
+                "goP": "35",
+                "comeP": "65"
+            },
+            "year": 2015,
+            "month": 11
+        },
+        {
+            "date": "2015-12",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 8,
+                    "direction": {
+                        "go": 3,
+                        "come": 5,
+                        "goP": "38",
+                        "comeP": "63"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 19,
+                    "direction": {
+                        "go": 0,
+                        "come": 19,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 611,
+                    "direction": {
+                        "go": 230,
+                        "come": 381,
+                        "goP": "38",
+                        "comeP": "62"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 36,
+                    "direction": {
+                        "go": 9,
+                        "come": 27,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 9,
+                    "direction": {
+                        "go": 0,
+                        "come": 9,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 7,
+                    "direction": {
+                        "go": 0,
+                        "come": 7,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 7,
+                    "direction": {
+                        "go": 7,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 4,
+                    "direction": {
+                        "go": 3,
+                        "come": 1,
+                        "goP": "75",
+                        "comeP": "25"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "转账",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                }
+            ],
+            "count": 707,
+            "direction": {
+                "go": 253,
+                "come": 454,
+                "goP": "36",
+                "comeP": "64"
+            },
+            "year": 2015,
+            "month": 12
+        },
+        {
+            "date": "2016-01",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 615,
+                    "direction": {
+                        "go": 225,
+                        "come": 390,
+                        "goP": "37",
+                        "comeP": "63"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 24,
+                    "direction": {
+                        "go": 8,
+                        "come": 16,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 4,
+                    "direction": {
+                        "go": 1,
+                        "come": 3,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 7,
+                    "direction": {
+                        "go": 3,
+                        "come": 4,
+                        "goP": "43",
+                        "comeP": "57"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 16,
+                    "direction": {
+                        "go": 7,
+                        "come": 9,
+                        "goP": "44",
+                        "comeP": "56"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 41,
+                    "direction": {
+                        "go": 0,
+                        "come": 41,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 710,
+            "direction": {
+                "go": 244,
+                "come": 466,
+                "goP": "34",
+                "comeP": "66"
+            },
+            "year": 2016,
+            "month": 1
+        },
+        {
+            "date": "2016-02",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 683,
+                    "direction": {
+                        "go": 270,
+                        "come": 413,
+                        "goP": "40",
+                        "comeP": "60"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 12,
+                    "direction": {
+                        "go": 2,
+                        "come": 10,
+                        "goP": "17",
+                        "comeP": "83"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 16,
+                    "direction": {
+                        "go": 10,
+                        "come": 6,
+                        "goP": "63",
+                        "comeP": "38"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 51,
+                    "direction": {
+                        "go": 16,
+                        "come": 35,
+                        "goP": "31",
+                        "comeP": "69"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 80,
+                    "direction": {
+                        "go": 0,
+                        "come": 80,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 20,
+                    "direction": {
+                        "go": 0,
+                        "come": 20,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 11,
+                    "direction": {
+                        "go": 8,
+                        "come": 3,
+                        "goP": "73",
+                        "comeP": "27"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 13,
+                    "direction": {
+                        "go": 6,
+                        "come": 7,
+                        "goP": "46",
+                        "comeP": "54"
+                    }
+                },
+                {
+                    "type": "位置共享",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 893,
+            "direction": {
+                "go": 315,
+                "come": 578,
+                "goP": "35",
+                "comeP": "65"
+            },
+            "year": 2016,
+            "month": 2
+        },
+        {
+            "date": "2016-03",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "转账",
+                    "count": 6,
+                    "direction": {
+                        "go": 3,
+                        "come": 3,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 14,
+                    "direction": {
+                        "go": 12,
+                        "come": 2,
+                        "goP": "86",
+                        "comeP": "14"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 567,
+                    "direction": {
+                        "go": 199,
+                        "come": 368,
+                        "goP": "35",
+                        "comeP": "65"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 24,
+                    "direction": {
+                        "go": 10,
+                        "come": 14,
+                        "goP": "42",
+                        "comeP": "58"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 4,
+                    "direction": {
+                        "go": 1,
+                        "come": 3,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 33,
+                    "direction": {
+                        "go": 0,
+                        "come": 33,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 657,
+            "direction": {
+                "go": 229,
+                "come": 428,
+                "goP": "35",
+                "comeP": "65"
+            },
+            "year": 2016,
+            "month": 3
+        },
+        {
+            "date": "2016-04",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 183,
+                    "direction": {
+                        "go": 68,
+                        "come": 115,
+                        "goP": "37",
+                        "comeP": "63"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 12,
+                    "direction": {
+                        "go": 8,
+                        "come": 4,
+                        "goP": "67",
+                        "comeP": "33"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 16,
+                    "direction": {
+                        "go": 0,
+                        "come": 16,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 4,
+                    "direction": {
+                        "go": 3,
+                        "come": 1,
+                        "goP": "75",
+                        "comeP": "25"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "转账",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 224,
+            "direction": {
+                "go": 81,
+                "come": 143,
+                "goP": "36",
+                "comeP": "64"
+            },
+            "year": 2016,
+            "month": 4
+        },
+        {
+            "date": "2016-05",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 135,
+                    "direction": {
+                        "go": 39,
+                        "come": 96,
+                        "goP": "29",
+                        "comeP": "71"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 18,
+                    "direction": {
+                        "go": 0,
+                        "come": 18,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 8,
+                    "direction": {
+                        "go": 1,
+                        "come": 7,
+                        "goP": "13",
+                        "comeP": "88"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 17,
+                    "direction": {
+                        "go": 1,
+                        "come": 16,
+                        "goP": "6",
+                        "comeP": "94"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 4,
+                    "direction": {
+                        "go": 1,
+                        "come": 3,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                }
+            ],
+            "count": 186,
+            "direction": {
+                "go": 45,
+                "come": 141,
+                "goP": "24",
+                "comeP": "76"
+            },
+            "year": 2016,
+            "month": 5
+        },
+        {
+            "date": "2016-06",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 101,
+                    "direction": {
+                        "go": 31,
+                        "come": 70,
+                        "goP": "31",
+                        "comeP": "69"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 24,
+                    "direction": {
+                        "go": 2,
+                        "come": 22,
+                        "goP": "8",
+                        "comeP": "92"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 134,
+            "direction": {
+                "go": 36,
+                "come": 98,
+                "goP": "27",
+                "comeP": "73"
+            },
+            "year": 2016,
+            "month": 6
+        },
+        {
+            "date": "2016-07",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 539,
+                    "direction": {
+                        "go": 183,
+                        "come": 356,
+                        "goP": "34",
+                        "comeP": "66"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 6,
+                    "direction": {
+                        "go": 2,
+                        "come": 4,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 20,
+                    "direction": {
+                        "go": 5,
+                        "come": 15,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 29,
+                    "direction": {
+                        "go": 11,
+                        "come": 18,
+                        "goP": "38",
+                        "comeP": "62"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 29,
+                    "direction": {
+                        "go": 0,
+                        "come": 29,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 9,
+                    "direction": {
+                        "go": 0,
+                        "come": 9,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 634,
+            "direction": {
+                "go": 203,
+                "come": 431,
+                "goP": "32",
+                "comeP": "68"
+            },
+            "year": 2016,
+            "month": 7
+        },
+        {
+            "date": "2016-08",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 364,
+                    "direction": {
+                        "go": 126,
+                        "come": 238,
+                        "goP": "35",
+                        "comeP": "65"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 16,
+                    "direction": {
+                        "go": 9,
+                        "come": 7,
+                        "goP": "56",
+                        "comeP": "44"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 36,
+                    "direction": {
+                        "go": 8,
+                        "come": 28,
+                        "goP": "22",
+                        "comeP": "78"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 17,
+                    "direction": {
+                        "go": 1,
+                        "come": 16,
+                        "goP": "6",
+                        "comeP": "94"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 4,
+                    "direction": {
+                        "go": 1,
+                        "come": 3,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 5,
+                    "direction": {
+                        "go": 0,
+                        "come": 5,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 445,
+            "direction": {
+                "go": 145,
+                "come": 300,
+                "goP": "33",
+                "comeP": "67"
+            },
+            "year": 2016,
+            "month": 8
+        },
+        {
+            "date": "2016-09",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "视频",
+                    "count": 5,
+                    "direction": {
+                        "go": 2,
+                        "come": 3,
+                        "goP": "40",
+                        "comeP": "60"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 80,
+                    "direction": {
+                        "go": 35,
+                        "come": 45,
+                        "goP": "44",
+                        "comeP": "56"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 6,
+                    "direction": {
+                        "go": 2,
+                        "come": 4,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 8,
+                    "direction": {
+                        "go": 0,
+                        "come": 8,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 10,
+                    "direction": {
+                        "go": 4,
+                        "come": 6,
+                        "goP": "40",
+                        "comeP": "60"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 112,
+            "direction": {
+                "go": 43,
+                "come": 69,
+                "goP": "38",
+                "comeP": "62"
+            },
+            "year": 2016,
+            "month": 9
+        },
+        {
+            "date": "2016-10",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 33,
+                    "direction": {
+                        "go": 14,
+                        "come": 19,
+                        "goP": "42",
+                        "comeP": "58"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 8,
+                    "direction": {
+                        "go": 4,
+                        "come": 4,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 45,
+            "direction": {
+                "go": 19,
+                "come": 26,
+                "goP": "42",
+                "comeP": "58"
+            },
+            "year": 2016,
+            "month": 10
+        },
+        {
+            "date": "2016-11",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 35,
+                    "direction": {
+                        "go": 11,
+                        "come": 24,
+                        "goP": "31",
+                        "comeP": "69"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 8,
+                    "direction": {
+                        "go": 3,
+                        "come": 5,
+                        "goP": "38",
+                        "comeP": "63"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 50,
+            "direction": {
+                "go": 16,
+                "come": 34,
+                "goP": "32",
+                "comeP": "68"
+            },
+            "year": 2016,
+            "month": 11
+        },
+        {
+            "date": "2016-12",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "视频",
+                    "count": 9,
+                    "direction": {
+                        "go": 1,
+                        "come": 8,
+                        "goP": "11",
+                        "comeP": "89"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 16,
+                    "direction": {
+                        "go": 13,
+                        "come": 3,
+                        "goP": "81",
+                        "comeP": "19"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 37,
+                    "direction": {
+                        "go": 10,
+                        "come": 27,
+                        "goP": "27",
+                        "comeP": "73"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 0,
+                        "come": 5,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 75,
+            "direction": {
+                "go": 26,
+                "come": 49,
+                "goP": "35",
+                "comeP": "65"
+            },
+            "year": 2016,
+            "month": 12
+        },
+        {
+            "date": "2017-01",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 30,
+                    "direction": {
+                        "go": 19,
+                        "come": 11,
+                        "goP": "63",
+                        "comeP": "37"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 137,
+                    "direction": {
+                        "go": 46,
+                        "come": 91,
+                        "goP": "34",
+                        "comeP": "66"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 8,
+                    "direction": {
+                        "go": 0,
+                        "come": 8,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "位置共享",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 8,
+                    "direction": {
+                        "go": 0,
+                        "come": 8,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 193,
+            "direction": {
+                "go": 68,
+                "come": 125,
+                "goP": "35",
+                "comeP": "65"
+            },
+            "year": 2017,
+            "month": 1
+        },
+        {
+            "date": "2017-02",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 22,
+                    "direction": {
+                        "go": 9,
+                        "come": 13,
+                        "goP": "41",
+                        "comeP": "59"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 80,
+                    "direction": {
+                        "go": 28,
+                        "come": 52,
+                        "goP": "35",
+                        "comeP": "65"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 5,
+                    "direction": {
+                        "go": 0,
+                        "come": 5,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 8,
+                    "direction": {
+                        "go": 1,
+                        "come": 7,
+                        "goP": "13",
+                        "comeP": "88"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 119,
+            "direction": {
+                "go": 39,
+                "come": 80,
+                "goP": "33",
+                "comeP": "67"
+            },
+            "year": 2017,
+            "month": 2
+        },
+        {
+            "date": "2017-03",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 18,
+                    "direction": {
+                        "go": 8,
+                        "come": 10,
+                        "goP": "44",
+                        "comeP": "56"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 135,
+                    "direction": {
+                        "go": 55,
+                        "come": 80,
+                        "goP": "41",
+                        "comeP": "59"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 7,
+                    "direction": {
+                        "go": 2,
+                        "come": 5,
+                        "goP": "29",
+                        "comeP": "71"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 164,
+            "direction": {
+                "go": 66,
+                "come": 98,
+                "goP": "40",
+                "comeP": "60"
+            },
+            "year": 2017,
+            "month": 3
+        },
+        {
+            "date": "2017-04",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 10,
+                    "direction": {
+                        "go": 7,
+                        "come": 3,
+                        "goP": "70",
+                        "comeP": "30"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 64,
+                    "direction": {
+                        "go": 23,
+                        "come": 41,
+                        "goP": "36",
+                        "comeP": "64"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 3,
+                    "direction": {
+                        "go": 1,
+                        "come": 2,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 83,
+            "direction": {
+                "go": 32,
+                "come": 51,
+                "goP": "39",
+                "comeP": "61"
+            },
+            "year": 2017,
+            "month": 4
+        },
+        {
+            "date": "2017-05",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 9,
+                    "direction": {
+                        "go": 3,
+                        "come": 6,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 55,
+                    "direction": {
+                        "go": 17,
+                        "come": 38,
+                        "goP": "31",
+                        "comeP": "69"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 3,
+                    "direction": {
+                        "go": 1,
+                        "come": 2,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 73,
+            "direction": {
+                "go": 21,
+                "come": 52,
+                "goP": "29",
+                "comeP": "71"
+            },
+            "year": 2017,
+            "month": 5
+        },
+        {
+            "date": "2017-06",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 6
+        },
+        {
+            "date": "2017-07",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 7
+        },
+        {
+            "date": "2017-08",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 8
+        },
+        {
+            "date": "2017-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 9
+        },
+        {
+            "date": "2017-10",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 76,
+                    "direction": {
+                        "go": 32,
+                        "come": 44,
+                        "goP": "42",
+                        "comeP": "58"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 8,
+                    "direction": {
+                        "go": 1,
+                        "come": 7,
+                        "goP": "13",
+                        "comeP": "88"
+                    }
+                },
+                {
+                    "type": "转账",
+                    "count": 4,
+                    "direction": {
+                        "go": 2,
+                        "come": 2,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 3,
+                    "direction": {
+                        "go": 2,
+                        "come": 1,
+                        "goP": "67",
+                        "comeP": "33"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 4,
+                    "direction": {
+                        "go": 1,
+                        "come": 3,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 17,
+                    "direction": {
+                        "go": 5,
+                        "come": 12,
+                        "goP": "29",
+                        "comeP": "71"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 119,
+            "direction": {
+                "go": 45,
+                "come": 74,
+                "goP": "38",
+                "comeP": "62"
+            },
+            "year": 2017,
+            "month": 10
+        },
+        {
+            "date": "2017-11",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 9,
+                    "direction": {
+                        "go": 5,
+                        "come": 4,
+                        "goP": "56",
+                        "comeP": "44"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 114,
+                    "direction": {
+                        "go": 42,
+                        "come": 72,
+                        "goP": "37",
+                        "comeP": "63"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 6,
+                    "direction": {
+                        "go": 0,
+                        "come": 6,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 14,
+                    "direction": {
+                        "go": 7,
+                        "come": 7,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 7,
+                    "direction": {
+                        "go": 0,
+                        "come": 7,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 155,
+            "direction": {
+                "go": 56,
+                "come": 99,
+                "goP": "36",
+                "comeP": "64"
+            },
+            "year": 2017,
+            "month": 11
+        },
+        {
+            "date": "2017-12",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 21,
+                    "direction": {
+                        "go": 10,
+                        "come": 11,
+                        "goP": "48",
+                        "comeP": "52"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 4,
+                    "direction": {
+                        "go": 2,
+                        "come": 2,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 13,
+                    "direction": {
+                        "go": 8,
+                        "come": 5,
+                        "goP": "62",
+                        "comeP": "38"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 194,
+                    "direction": {
+                        "go": 72,
+                        "come": 122,
+                        "goP": "37",
+                        "comeP": "63"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 9,
+                    "direction": {
+                        "go": 0,
+                        "come": 9,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 14,
+                    "direction": {
+                        "go": 0,
+                        "come": 14,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 260,
+            "direction": {
+                "go": 95,
+                "come": 165,
+                "goP": "37",
+                "comeP": "63"
+            },
+            "year": 2017,
+            "month": 12
+        },
+        {
+            "date": "2018-01",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 60,
+                    "direction": {
+                        "go": 2,
+                        "come": 58,
+                        "goP": "3",
+                        "comeP": "97"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 37,
+                    "direction": {
+                        "go": 12,
+                        "come": 25,
+                        "goP": "32",
+                        "comeP": "68"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 122,
+                    "direction": {
+                        "go": 45,
+                        "come": 77,
+                        "goP": "37",
+                        "comeP": "63"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 4,
+                    "direction": {
+                        "go": 2,
+                        "come": 2,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 231,
+            "direction": {
+                "go": 65,
+                "come": 166,
+                "goP": "28",
+                "comeP": "72"
+            },
+            "year": 2018,
+            "month": 1
+        },
+        {
+            "date": "2018-02",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 388,
+                    "direction": {
+                        "go": 132,
+                        "come": 256,
+                        "goP": "34",
+                        "comeP": "66"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 9,
+                    "direction": {
+                        "go": 4,
+                        "come": 5,
+                        "goP": "44",
+                        "comeP": "56"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 54,
+                    "direction": {
+                        "go": 11,
+                        "come": 43,
+                        "goP": "20",
+                        "comeP": "80"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 8,
+                    "direction": {
+                        "go": 0,
+                        "come": 8,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 40,
+                    "direction": {
+                        "go": 1,
+                        "come": 39,
+                        "goP": "3",
+                        "comeP": "98"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "微信运动",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 6,
+                    "direction": {
+                        "go": 1,
+                        "come": 5,
+                        "goP": "17",
+                        "comeP": "83"
+                    }
+                }
+            ],
+            "count": 509,
+            "direction": {
+                "go": 151,
+                "come": 358,
+                "goP": "30",
+                "comeP": "70"
+            },
+            "year": 2018,
+            "month": 2
+        },
+        {
+            "date": "2018-03",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 144,
+                    "direction": {
+                        "go": 51,
+                        "come": 93,
+                        "goP": "35",
+                        "comeP": "65"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 13,
+                    "direction": {
+                        "go": 0,
+                        "come": 13,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 21,
+                    "direction": {
+                        "go": 5,
+                        "come": 16,
+                        "goP": "24",
+                        "comeP": "76"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 17,
+                    "direction": {
+                        "go": 7,
+                        "come": 10,
+                        "goP": "41",
+                        "comeP": "59"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 203,
+            "direction": {
+                "go": 64,
+                "come": 139,
+                "goP": "32",
+                "comeP": "68"
+            },
+            "year": 2018,
+            "month": 3
+        },
+        {
+            "date": "2018-04",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "自定义表情",
+                    "count": 14,
+                    "direction": {
+                        "go": 0,
+                        "come": 14,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 38,
+                    "direction": {
+                        "go": 6,
+                        "come": 32,
+                        "goP": "16",
+                        "comeP": "84"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 209,
+                    "direction": {
+                        "go": 72,
+                        "come": 137,
+                        "goP": "34",
+                        "comeP": "66"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 10,
+                    "direction": {
+                        "go": 6,
+                        "come": 4,
+                        "goP": "60",
+                        "comeP": "40"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 18,
+                    "direction": {
+                        "go": 4,
+                        "come": 14,
+                        "goP": "22",
+                        "comeP": "78"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "聊天记录",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 296,
+            "direction": {
+                "go": 90,
+                "come": 206,
+                "goP": "30",
+                "comeP": "70"
+            },
+            "year": 2018,
+            "month": 4
+        },
+        {
+            "date": "2018-05",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 22,
+                    "direction": {
+                        "go": 9,
+                        "come": 13,
+                        "goP": "41",
+                        "comeP": "59"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 174,
+                    "direction": {
+                        "go": 50,
+                        "come": 124,
+                        "goP": "29",
+                        "comeP": "71"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 16,
+                    "direction": {
+                        "go": 10,
+                        "come": 6,
+                        "goP": "63",
+                        "comeP": "38"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 13,
+                    "direction": {
+                        "go": 0,
+                        "come": 13,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 231,
+            "direction": {
+                "go": 69,
+                "come": 162,
+                "goP": "30",
+                "comeP": "70"
+            },
+            "year": 2018,
+            "month": 5
+        },
+        {
+            "date": "2018-06",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 21,
+                    "direction": {
+                        "go": 9,
+                        "come": 12,
+                        "goP": "43",
+                        "comeP": "57"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 43,
+                    "direction": {
+                        "go": 5,
+                        "come": 38,
+                        "goP": "12",
+                        "comeP": "88"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 198,
+                    "direction": {
+                        "go": 65,
+                        "come": 133,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 7,
+                    "direction": {
+                        "go": 1,
+                        "come": 6,
+                        "goP": "14",
+                        "comeP": "86"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 7,
+                    "direction": {
+                        "go": 0,
+                        "come": 7,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 3,
+                    "direction": {
+                        "go": 2,
+                        "come": 1,
+                        "goP": "67",
+                        "comeP": "33"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 281,
+            "direction": {
+                "go": 83,
+                "come": 198,
+                "goP": "30",
+                "comeP": "70"
+            },
+            "year": 2018,
+            "month": 6
+        },
+        {
+            "date": "2018-07",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 46,
+                    "direction": {
+                        "go": 34,
+                        "come": 12,
+                        "goP": "74",
+                        "comeP": "26"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 205,
+                    "direction": {
+                        "go": 68,
+                        "come": 137,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 11,
+                    "direction": {
+                        "go": 6,
+                        "come": 5,
+                        "goP": "55",
+                        "comeP": "45"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 269,
+            "direction": {
+                "go": 112,
+                "come": 157,
+                "goP": "42",
+                "comeP": "58"
+            },
+            "year": 2018,
+            "month": 7
+        },
+        {
+            "date": "2018-08",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 216,
+                    "direction": {
+                        "go": 80,
+                        "come": 136,
+                        "goP": "37",
+                        "comeP": "63"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 8,
+                    "direction": {
+                        "go": 4,
+                        "come": 4,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 42,
+                    "direction": {
+                        "go": 39,
+                        "come": 3,
+                        "goP": "93",
+                        "comeP": "7"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 10,
+                    "direction": {
+                        "go": 0,
+                        "come": 10,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 5,
+                    "direction": {
+                        "go": 0,
+                        "come": 5,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 4,
+                    "direction": {
+                        "go": 1,
+                        "come": 3,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 290,
+            "direction": {
+                "go": 124,
+                "come": 166,
+                "goP": "43",
+                "comeP": "57"
+            },
+            "year": 2018,
+            "month": 8
+        },
+        {
+            "date": "2018-09",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 17,
+                    "direction": {
+                        "go": 9,
+                        "come": 8,
+                        "goP": "53",
+                        "comeP": "47"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 58,
+                    "direction": {
+                        "go": 23,
+                        "come": 35,
+                        "goP": "40",
+                        "comeP": "60"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 291,
+                    "direction": {
+                        "go": 90,
+                        "come": 201,
+                        "goP": "31",
+                        "comeP": "69"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 17,
+                    "direction": {
+                        "go": 0,
+                        "come": 17,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 5,
+                    "direction": {
+                        "go": 1,
+                        "come": 4,
+                        "goP": "20",
+                        "comeP": "80"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 395,
+            "direction": {
+                "go": 123,
+                "come": 272,
+                "goP": "31",
+                "comeP": "69"
+            },
+            "year": 2018,
+            "month": 9
+        },
+        {
+            "date": "2018-10",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 298,
+                    "direction": {
+                        "go": 106,
+                        "come": 192,
+                        "goP": "36",
+                        "comeP": "64"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 22,
+                    "direction": {
+                        "go": 7,
+                        "come": 15,
+                        "goP": "32",
+                        "comeP": "68"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 19,
+                    "direction": {
+                        "go": 0,
+                        "come": 19,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 50,
+                    "direction": {
+                        "go": 17,
+                        "come": 33,
+                        "goP": "34",
+                        "comeP": "66"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 8,
+                    "direction": {
+                        "go": 0,
+                        "come": 8,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 6,
+                    "direction": {
+                        "go": 0,
+                        "come": 6,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 409,
+            "direction": {
+                "go": 132,
+                "come": 277,
+                "goP": "32",
+                "comeP": "68"
+            },
+            "year": 2018,
+            "month": 10
+        },
+        {
+            "date": "2018-11",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 357,
+                    "direction": {
+                        "go": 126,
+                        "come": 231,
+                        "goP": "35",
+                        "comeP": "65"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 10,
+                    "direction": {
+                        "go": 0,
+                        "come": 10,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 18,
+                    "direction": {
+                        "go": 1,
+                        "come": 17,
+                        "goP": "6",
+                        "comeP": "94"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 38,
+                    "direction": {
+                        "go": 17,
+                        "come": 21,
+                        "goP": "45",
+                        "comeP": "55"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 13,
+                    "direction": {
+                        "go": 8,
+                        "come": 5,
+                        "goP": "62",
+                        "comeP": "38"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 24,
+                    "direction": {
+                        "go": 1,
+                        "come": 23,
+                        "goP": "4",
+                        "comeP": "96"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 6,
+                    "direction": {
+                        "go": 0,
+                        "come": 6,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 468,
+            "direction": {
+                "go": 153,
+                "come": 315,
+                "goP": "33",
+                "comeP": "67"
+            },
+            "year": 2018,
+            "month": 11
+        },
+        {
+            "date": "2018-12",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 7,
+                    "direction": {
+                        "go": 4,
+                        "come": 3,
+                        "goP": "57",
+                        "comeP": "43"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 185,
+                    "direction": {
+                        "go": 54,
+                        "come": 131,
+                        "goP": "29",
+                        "comeP": "71"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 6,
+                    "direction": {
+                        "go": 1,
+                        "come": 5,
+                        "goP": "17",
+                        "comeP": "83"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 35,
+                    "direction": {
+                        "go": 18,
+                        "come": 17,
+                        "goP": "51",
+                        "comeP": "49"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 7,
+                    "direction": {
+                        "go": 0,
+                        "come": 7,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 9,
+                    "direction": {
+                        "go": 1,
+                        "come": 8,
+                        "goP": "11",
+                        "comeP": "89"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 7,
+                    "direction": {
+                        "go": 1,
+                        "come": 6,
+                        "goP": "14",
+                        "comeP": "86"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 6,
+                    "direction": {
+                        "go": 2,
+                        "come": 4,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                }
+            ],
+            "count": 263,
+            "direction": {
+                "go": 82,
+                "come": 181,
+                "goP": "31",
+                "comeP": "69"
+            },
+            "year": 2018,
+            "month": 12
+        },
+        {
+            "date": "2019-01",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "小程序",
+                    "count": 16,
+                    "direction": {
+                        "go": 0,
+                        "come": 16,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 161,
+                    "direction": {
+                        "go": 57,
+                        "come": 104,
+                        "goP": "35",
+                        "comeP": "65"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 15,
+                    "direction": {
+                        "go": 6,
+                        "come": 9,
+                        "goP": "40",
+                        "comeP": "60"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 6,
+                    "direction": {
+                        "go": 0,
+                        "come": 6,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 3,
+                    "direction": {
+                        "go": 2,
+                        "come": 1,
+                        "goP": "67",
+                        "comeP": "33"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 9,
+                    "direction": {
+                        "go": 0,
+                        "come": 9,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 212,
+            "direction": {
+                "go": 66,
+                "come": 146,
+                "goP": "31",
+                "comeP": "69"
+            },
+            "year": 2019,
+            "month": 1
+        },
+        {
+            "date": "2019-02",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 29,
+                    "direction": {
+                        "go": 17,
+                        "come": 12,
+                        "goP": "59",
+                        "comeP": "41"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 156,
+                    "direction": {
+                        "go": 53,
+                        "come": 103,
+                        "goP": "34",
+                        "comeP": "66"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 15,
+                    "direction": {
+                        "go": 0,
+                        "come": 15,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 4,
+                    "direction": {
+                        "go": 1,
+                        "come": 3,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 7,
+                    "direction": {
+                        "go": 1,
+                        "come": 6,
+                        "goP": "14",
+                        "comeP": "86"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 11,
+                    "direction": {
+                        "go": 1,
+                        "come": 10,
+                        "goP": "9",
+                        "comeP": "91"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "位置",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "位置共享",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 229,
+            "direction": {
+                "go": 73,
+                "come": 156,
+                "goP": "32",
+                "comeP": "68"
+            },
+            "year": 2019,
+            "month": 2
+        },
+        {
+            "date": "2019-03",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "小程序",
+                    "count": 12,
+                    "direction": {
+                        "go": 1,
+                        "come": 11,
+                        "goP": "8",
+                        "comeP": "92"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 156,
+                    "direction": {
+                        "go": 53,
+                        "come": 103,
+                        "goP": "34",
+                        "comeP": "66"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 10,
+                    "direction": {
+                        "go": 0,
+                        "come": 10,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 8,
+                    "direction": {
+                        "go": 4,
+                        "come": 4,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 27,
+                    "direction": {
+                        "go": 11,
+                        "come": 16,
+                        "goP": "41",
+                        "comeP": "59"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 9,
+                    "direction": {
+                        "go": 0,
+                        "come": 9,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 223,
+            "direction": {
+                "go": 69,
+                "come": 154,
+                "goP": "31",
+                "comeP": "69"
+            },
+            "year": 2019,
+            "month": 3
+        },
+        {
+            "date": "2019-04",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 14,
+                    "direction": {
+                        "go": 11,
+                        "come": 3,
+                        "goP": "79",
+                        "comeP": "21"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 145,
+                    "direction": {
+                        "go": 63,
+                        "come": 82,
+                        "goP": "43",
+                        "comeP": "57"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 27,
+                    "direction": {
+                        "go": 2,
+                        "come": 25,
+                        "goP": "7",
+                        "comeP": "93"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 13,
+                    "direction": {
+                        "go": 1,
+                        "come": 12,
+                        "goP": "8",
+                        "comeP": "92"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 6,
+                    "direction": {
+                        "go": 0,
+                        "come": 6,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 5,
+                    "direction": {
+                        "go": 0,
+                        "come": 5,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 212,
+            "direction": {
+                "go": 79,
+                "come": 133,
+                "goP": "37",
+                "comeP": "63"
+            },
+            "year": 2019,
+            "month": 4
+        },
+        {
+            "date": "2019-05",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 342,
+                    "direction": {
+                        "go": 153,
+                        "come": 189,
+                        "goP": "45",
+                        "comeP": "55"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 55,
+                    "direction": {
+                        "go": 41,
+                        "come": 14,
+                        "goP": "75",
+                        "comeP": "25"
+                    }
+                },
+                {
+                    "type": "文件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 14,
+                    "direction": {
+                        "go": 0,
+                        "come": 14,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 7,
+                    "direction": {
+                        "go": 1,
+                        "come": 6,
+                        "goP": "14",
+                        "comeP": "86"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 9,
+                    "direction": {
+                        "go": 1,
+                        "come": 8,
+                        "goP": "11",
+                        "comeP": "89"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 4,
+                    "direction": {
+                        "go": 1,
+                        "come": 3,
+                        "goP": "25",
+                        "comeP": "75"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 18,
+                    "direction": {
+                        "go": 1,
+                        "come": 17,
+                        "goP": "6",
+                        "comeP": "94"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 5,
+                    "direction": {
+                        "go": 5,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "语音",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频通话",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 457,
+            "direction": {
+                "go": 205,
+                "come": 252,
+                "goP": "45",
+                "comeP": "55"
+            },
+            "year": 2019,
+            "month": 5
+        },
+        {
+            "date": "2019-06",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "消息",
+                    "count": 573,
+                    "direction": {
+                        "go": 280,
+                        "come": 293,
+                        "goP": "49",
+                        "comeP": "51"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 29,
+                    "direction": {
+                        "go": 8,
+                        "come": 21,
+                        "goP": "28",
+                        "comeP": "72"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 150,
+                    "direction": {
+                        "go": 45,
+                        "come": 105,
+                        "goP": "30",
+                        "comeP": "70"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 7,
+                    "direction": {
+                        "go": 0,
+                        "come": 7,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "系统消息",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "名片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "红包",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 768,
+            "direction": {
+                "go": 336,
+                "come": 432,
+                "goP": "44",
+                "comeP": "56"
+            },
+            "year": 2019,
+            "month": 6
+        },
+        {
+            "date": "2019-07",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "图片",
+                    "count": 7,
+                    "direction": {
+                        "go": 3,
+                        "come": 4,
+                        "goP": "43",
+                        "comeP": "57"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 2,
+                        "come": 3,
+                        "goP": "40",
+                        "comeP": "60"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 30,
+                    "direction": {
+                        "go": 15,
+                        "come": 15,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "小程序",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "视频",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "分享",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 49,
+            "direction": {
+                "go": 20,
+                "come": 29,
+                "goP": "41",
+                "comeP": "59"
+            },
+            "year": 2019,
+            "month": 7
+        },
+        {
+            "date": "2019-08",
+            "source": "Wechat",
+            "type": [
+                {
+                    "type": "分享",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "消息",
+                    "count": 4,
+                    "direction": {
+                        "go": 2,
+                        "come": 2,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "自定义表情",
+                    "count": 5,
+                    "direction": {
+                        "go": 4,
+                        "come": 1,
+                        "goP": "80",
+                        "comeP": "20"
+                    }
+                },
+                {
+                    "type": "图片",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 11,
+            "direction": {
+                "go": 8,
+                "come": 3,
+                "goP": "73",
+                "comeP": "27"
+            },
+            "year": 2019,
+            "month": 8
+        },
+        {
+            "date": "2019-09",
+            "source": "Wechat",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 9
+        }
+    ]
+}

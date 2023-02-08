@@ -1,0 +1,97 @@
+{
+    "sourceData": {
+        "label": "全部",
+        "count": 69921,
+        "direction": {
+            "go": 22403,
+            "come": 47518,
+            "goP": "32",
+            "comeP": "68"
+        },
+        "children": [
+            {
+                "label": "go",
+                "count": 22403,
+                "direction": {
+                    "go": 22403,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                },
+                "icon": "/static/avatar/default/go.png"
+            },
+            {
+                "label": "come",
+                "count": 47518,
+                "direction": {
+                    "go": 0,
+                    "come": 47518,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "icon": "/static/avatar/default/come.png"
+            }
+        ]
+    },
+    "maxData": {
+        "year": 2011,
+        "total": 14446,
+        "direction": {
+            "go": 4754,
+            "come": 9692,
+            "goP": "33",
+            "comeP": "67"
+        },
+        "max": 422,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2011-02-16",
+                "count": 422,
+                "direction": {
+                    "go": 31,
+                    "come": 391,
+                    "goP": "7",
+                    "comeP": "93"
+                }
+            }
+        ],
+        "activityDay": 350,
+        "activityDayP": "96",
+        "activityDayDirection": {
+            "go": 331,
+            "come": 345,
+            "goP": "91",
+            "comeP": "95"
+        },
+        "allDay": 365,
+        "avg": "41.3",
+        "avgDirection": {
+            "go": "14.4",
+            "come": "28.1",
+            "goP": "35",
+            "comeP": "68"
+        }
+    },
+    "avgData": {
+        "total": 69921,
+        "avg": "22.5",
+        "avgDirection": {
+            "go": "8.0",
+            "come": "15.7",
+            "goP": "36",
+            "comeP": "70"
+        }
+    },
+    "activityDayData": {
+        "allDay": 3722,
+        "activityDay": 3104,
+        "activityDayP": "83",
+        "activityDayDirection": {
+            "go": 2808,
+            "come": 3029,
+            "goP": "75",
+            "comeP": "81"
+        }
+    }
+}

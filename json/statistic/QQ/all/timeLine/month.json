@@ -1,0 +1,9308 @@
+[
+    {
+        "date": "2007-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2007-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2008-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2009-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-08",
+        "source": "全部",
+        "count": 85,
+        "direction": {
+            "go": 34,
+            "come": 51,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "消息",
+        "count": 79,
+        "direction": {
+            "go": 30,
+            "come": 49,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "图片",
+        "count": 6,
+        "direction": {
+            "go": 4,
+            "come": 2,
+            "goP": "67",
+            "comeP": "33"
+        }
+    },
+    {
+        "date": "2010-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2010-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-08",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "全部",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-09",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "全部",
+        "count": 228,
+        "direction": {
+            "go": 76,
+            "come": 152,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2010-10",
+        "source": "消息",
+        "count": 214,
+        "direction": {
+            "go": 65,
+            "come": 149,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2010-10",
+        "source": "图片",
+        "count": 5,
+        "direction": {
+            "go": 2,
+            "come": 3,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2010-10",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-10",
+        "source": "视频通话",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-10",
+        "source": "忙",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "全部",
+        "count": 1462,
+        "direction": {
+            "go": 524,
+            "come": 938,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2010-11",
+        "source": "消息",
+        "count": 1369,
+        "direction": {
+            "go": 463,
+            "come": 906,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2010-11",
+        "source": "图片",
+        "count": 44,
+        "direction": {
+            "go": 12,
+            "come": 32,
+            "goP": "27",
+            "comeP": "73"
+        }
+    },
+    {
+        "date": "2010-11",
+        "source": "文件",
+        "count": 29,
+        "direction": {
+            "go": 29,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "忙",
+        "count": 20,
+        "direction": {
+            "go": 20,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "全部",
+        "count": 1223,
+        "direction": {
+            "go": 439,
+            "come": 784,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2010-12",
+        "source": "消息",
+        "count": 1159,
+        "direction": {
+            "go": 413,
+            "come": 746,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2010-12",
+        "source": "图片",
+        "count": 49,
+        "direction": {
+            "go": 12,
+            "come": 37,
+            "goP": "24",
+            "comeP": "76"
+        }
+    },
+    {
+        "date": "2010-12",
+        "source": "文件",
+        "count": 11,
+        "direction": {
+            "go": 10,
+            "come": 1,
+            "goP": "91",
+            "comeP": "9"
+        }
+    },
+    {
+        "date": "2010-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2010-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "全部",
+        "count": 782,
+        "direction": {
+            "go": 284,
+            "come": 498,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2011-01",
+        "source": "消息",
+        "count": 747,
+        "direction": {
+            "go": 271,
+            "come": 476,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2011-01",
+        "source": "图片",
+        "count": 26,
+        "direction": {
+            "go": 4,
+            "come": 22,
+            "goP": "15",
+            "comeP": "85"
+        }
+    },
+    {
+        "date": "2011-01",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "忙",
+        "count": 9,
+        "direction": {
+            "go": 9,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "全部",
+        "count": 1237,
+        "direction": {
+            "go": 477,
+            "come": 760,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2011-02",
+        "source": "消息",
+        "count": 1163,
+        "direction": {
+            "go": 438,
+            "come": 725,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2011-02",
+        "source": "图片",
+        "count": 67,
+        "direction": {
+            "go": 32,
+            "come": 35,
+            "goP": "48",
+            "comeP": "52"
+        }
+    },
+    {
+        "date": "2011-02",
+        "source": "文件",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "全部",
+        "count": 969,
+        "direction": {
+            "go": 332,
+            "come": 637,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2011-03",
+        "source": "消息",
+        "count": 917,
+        "direction": {
+            "go": 319,
+            "come": 598,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2011-03",
+        "source": "图片",
+        "count": 47,
+        "direction": {
+            "go": 8,
+            "come": 39,
+            "goP": "17",
+            "comeP": "83"
+        }
+    },
+    {
+        "date": "2011-03",
+        "source": "文件",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "全部",
+        "count": 1606,
+        "direction": {
+            "go": 616,
+            "come": 990,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2011-04",
+        "source": "消息",
+        "count": 1501,
+        "direction": {
+            "go": 543,
+            "come": 958,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2011-04",
+        "source": "图片",
+        "count": 57,
+        "direction": {
+            "go": 27,
+            "come": 30,
+            "goP": "47",
+            "comeP": "53"
+        }
+    },
+    {
+        "date": "2011-04",
+        "source": "文件",
+        "count": 31,
+        "direction": {
+            "go": 29,
+            "come": 2,
+            "goP": "94",
+            "comeP": "6"
+        }
+    },
+    {
+        "date": "2011-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "忙",
+        "count": 17,
+        "direction": {
+            "go": 17,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "全部",
+        "count": 707,
+        "direction": {
+            "go": 219,
+            "come": 488,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2011-05",
+        "source": "消息",
+        "count": 679,
+        "direction": {
+            "go": 200,
+            "come": 479,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2011-05",
+        "source": "图片",
+        "count": 10,
+        "direction": {
+            "go": 1,
+            "come": 9,
+            "goP": "10",
+            "comeP": "90"
+        }
+    },
+    {
+        "date": "2011-05",
+        "source": "文件",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "忙",
+        "count": 13,
+        "direction": {
+            "go": 13,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "全部",
+        "count": 593,
+        "direction": {
+            "go": 214,
+            "come": 379,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2011-06",
+        "source": "消息",
+        "count": 553,
+        "direction": {
+            "go": 189,
+            "come": 364,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2011-06",
+        "source": "图片",
+        "count": 15,
+        "direction": {
+            "go": 4,
+            "come": 11,
+            "goP": "27",
+            "comeP": "73"
+        }
+    },
+    {
+        "date": "2011-06",
+        "source": "文件",
+        "count": 12,
+        "direction": {
+            "go": 9,
+            "come": 3,
+            "goP": "75",
+            "comeP": "25"
+        }
+    },
+    {
+        "date": "2011-06",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2011-06",
+        "source": "忙",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-07",
+        "source": "全部",
+        "count": 1184,
+        "direction": {
+            "go": 447,
+            "come": 737,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2011-07",
+        "source": "消息",
+        "count": 1133,
+        "direction": {
+            "go": 411,
+            "come": 722,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2011-07",
+        "source": "图片",
+        "count": 16,
+        "direction": {
+            "go": 6,
+            "come": 10,
+            "goP": "38",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2011-07",
+        "source": "文件",
+        "count": 22,
+        "direction": {
+            "go": 20,
+            "come": 2,
+            "goP": "91",
+            "comeP": "9"
+        }
+    },
+    {
+        "date": "2011-07",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-07",
+        "source": "忙",
+        "count": 9,
+        "direction": {
+            "go": 9,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-07",
+        "source": "语音",
+        "count": 3,
+        "direction": {
+            "go": 0,
+            "come": 3,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2011-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "全部",
+        "count": 977,
+        "direction": {
+            "go": 476,
+            "come": 501,
+            "goP": "49",
+            "comeP": "51"
+        }
+    },
+    {
+        "date": "2011-08",
+        "source": "消息",
+        "count": 941,
+        "direction": {
+            "go": 451,
+            "come": 490,
+            "goP": "48",
+            "comeP": "52"
+        }
+    },
+    {
+        "date": "2011-08",
+        "source": "图片",
+        "count": 23,
+        "direction": {
+            "go": 13,
+            "come": 10,
+            "goP": "57",
+            "comeP": "43"
+        }
+    },
+    {
+        "date": "2011-08",
+        "source": "文件",
+        "count": 7,
+        "direction": {
+            "go": 7,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011-08",
+        "source": "忙",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-08",
+        "source": "语音",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2011-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "全部",
+        "count": 732,
+        "direction": {
+            "go": 297,
+            "come": 435,
+            "goP": "41",
+            "comeP": "59"
+        }
+    },
+    {
+        "date": "2011-09",
+        "source": "消息",
+        "count": 711,
+        "direction": {
+            "go": 282,
+            "come": 429,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2011-09",
+        "source": "图片",
+        "count": 10,
+        "direction": {
+            "go": 5,
+            "come": 5,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2011-09",
+        "source": "文件",
+        "count": 7,
+        "direction": {
+            "go": 6,
+            "come": 1,
+            "goP": "86",
+            "comeP": "14"
+        }
+    },
+    {
+        "date": "2011-09",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-09",
+        "source": "忙",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "全部",
+        "count": 752,
+        "direction": {
+            "go": 260,
+            "come": 492,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2011-10",
+        "source": "消息",
+        "count": 733,
+        "direction": {
+            "go": 246,
+            "come": 487,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2011-10",
+        "source": "图片",
+        "count": 7,
+        "direction": {
+            "go": 2,
+            "come": 5,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2011-10",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "忙",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "全部",
+        "count": 1170,
+        "direction": {
+            "go": 395,
+            "come": 775,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2011-11",
+        "source": "消息",
+        "count": 1138,
+        "direction": {
+            "go": 377,
+            "come": 761,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2011-11",
+        "source": "图片",
+        "count": 14,
+        "direction": {
+            "go": 1,
+            "come": 13,
+            "goP": "7",
+            "comeP": "93"
+        }
+    },
+    {
+        "date": "2011-11",
+        "source": "文件",
+        "count": 9,
+        "direction": {
+            "go": 8,
+            "come": 1,
+            "goP": "89",
+            "comeP": "11"
+        }
+    },
+    {
+        "date": "2011-11",
+        "source": "视频通话",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-11",
+        "source": "忙",
+        "count": 7,
+        "direction": {
+            "go": 7,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "全部",
+        "count": 974,
+        "direction": {
+            "go": 297,
+            "come": 677,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2011-12",
+        "source": "消息",
+        "count": 958,
+        "direction": {
+            "go": 289,
+            "come": 669,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2011-12",
+        "source": "图片",
+        "count": 13,
+        "direction": {
+            "go": 5,
+            "come": 8,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2011-12",
+        "source": "文件",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2011-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "全部",
+        "count": 1739,
+        "direction": {
+            "go": 567,
+            "come": 1172,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2012-01",
+        "source": "消息",
+        "count": 1709,
+        "direction": {
+            "go": 545,
+            "come": 1164,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2012-01",
+        "source": "图片",
+        "count": 9,
+        "direction": {
+            "go": 2,
+            "come": 7,
+            "goP": "22",
+            "comeP": "78"
+        }
+    },
+    {
+        "date": "2012-01",
+        "source": "文件",
+        "count": 7,
+        "direction": {
+            "go": 6,
+            "come": 1,
+            "goP": "86",
+            "comeP": "14"
+        }
+    },
+    {
+        "date": "2012-01",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-01",
+        "source": "忙",
+        "count": 13,
+        "direction": {
+            "go": 13,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "全部",
+        "count": 959,
+        "direction": {
+            "go": 376,
+            "come": 583,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2012-02",
+        "source": "消息",
+        "count": 934,
+        "direction": {
+            "go": 356,
+            "come": 578,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2012-02",
+        "source": "图片",
+        "count": 11,
+        "direction": {
+            "go": 6,
+            "come": 5,
+            "goP": "55",
+            "comeP": "45"
+        }
+    },
+    {
+        "date": "2012-02",
+        "source": "文件",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "忙",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "全部",
+        "count": 2005,
+        "direction": {
+            "go": 706,
+            "come": 1299,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2012-03",
+        "source": "消息",
+        "count": 1933,
+        "direction": {
+            "go": 675,
+            "come": 1258,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2012-03",
+        "source": "图片",
+        "count": 43,
+        "direction": {
+            "go": 5,
+            "come": 38,
+            "goP": "12",
+            "comeP": "88"
+        }
+    },
+    {
+        "date": "2012-03",
+        "source": "文件",
+        "count": 9,
+        "direction": {
+            "go": 9,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-03",
+        "source": "忙",
+        "count": 17,
+        "direction": {
+            "go": 17,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-03",
+        "source": "语音",
+        "count": 3,
+        "direction": {
+            "go": 0,
+            "come": 3,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2012-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "全部",
+        "count": 2134,
+        "direction": {
+            "go": 676,
+            "come": 1458,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2012-04",
+        "source": "消息",
+        "count": 2084,
+        "direction": {
+            "go": 649,
+            "come": 1435,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2012-04",
+        "source": "图片",
+        "count": 26,
+        "direction": {
+            "go": 4,
+            "come": 22,
+            "goP": "15",
+            "comeP": "85"
+        }
+    },
+    {
+        "date": "2012-04",
+        "source": "文件",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-04",
+        "source": "忙",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-04",
+        "source": "语音",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2012-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "全部",
+        "count": 2403,
+        "direction": {
+            "go": 882,
+            "come": 1521,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2012-05",
+        "source": "消息",
+        "count": 2325,
+        "direction": {
+            "go": 829,
+            "come": 1496,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2012-05",
+        "source": "图片",
+        "count": 37,
+        "direction": {
+            "go": 13,
+            "come": 24,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2012-05",
+        "source": "文件",
+        "count": 10,
+        "direction": {
+            "go": 9,
+            "come": 1,
+            "goP": "90",
+            "comeP": "10"
+        }
+    },
+    {
+        "date": "2012-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "忙",
+        "count": 31,
+        "direction": {
+            "go": 31,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "全部",
+        "count": 1684,
+        "direction": {
+            "go": 699,
+            "come": 985,
+            "goP": "42",
+            "comeP": "58"
+        }
+    },
+    {
+        "date": "2012-06",
+        "source": "消息",
+        "count": 1607,
+        "direction": {
+            "go": 641,
+            "come": 966,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2012-06",
+        "source": "图片",
+        "count": 31,
+        "direction": {
+            "go": 12,
+            "come": 19,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2012-06",
+        "source": "文件",
+        "count": 15,
+        "direction": {
+            "go": 15,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-06",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-06",
+        "source": "忙",
+        "count": 30,
+        "direction": {
+            "go": 30,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "全部",
+        "count": 824,
+        "direction": {
+            "go": 317,
+            "come": 507,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2012-07",
+        "source": "消息",
+        "count": 815,
+        "direction": {
+            "go": 310,
+            "come": 505,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2012-07",
+        "source": "图片",
+        "count": 4,
+        "direction": {
+            "go": 2,
+            "come": 2,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2012-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "忙",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "全部",
+        "count": 418,
+        "direction": {
+            "go": 135,
+            "come": 283,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2012-08",
+        "source": "消息",
+        "count": 401,
+        "direction": {
+            "go": 121,
+            "come": 280,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2012-08",
+        "source": "图片",
+        "count": 4,
+        "direction": {
+            "go": 1,
+            "come": 3,
+            "goP": "25",
+            "comeP": "75"
+        }
+    },
+    {
+        "date": "2012-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "忙",
+        "count": 13,
+        "direction": {
+            "go": 13,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "全部",
+        "count": 407,
+        "direction": {
+            "go": 158,
+            "come": 249,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2012-09",
+        "source": "消息",
+        "count": 400,
+        "direction": {
+            "go": 152,
+            "come": 248,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2012-09",
+        "source": "图片",
+        "count": 4,
+        "direction": {
+            "go": 3,
+            "come": 1,
+            "goP": "75",
+            "comeP": "25"
+        }
+    },
+    {
+        "date": "2012-09",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "忙",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "全部",
+        "count": 150,
+        "direction": {
+            "go": 48,
+            "come": 102,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2012-10",
+        "source": "消息",
+        "count": 146,
+        "direction": {
+            "go": 44,
+            "come": 102,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2012-10",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "全部",
+        "count": 270,
+        "direction": {
+            "go": 80,
+            "come": 190,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2012-11",
+        "source": "消息",
+        "count": 262,
+        "direction": {
+            "go": 77,
+            "come": 185,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2012-11",
+        "source": "图片",
+        "count": 6,
+        "direction": {
+            "go": 1,
+            "come": 5,
+            "goP": "17",
+            "comeP": "83"
+        }
+    },
+    {
+        "date": "2012-11",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "全部",
+        "count": 658,
+        "direction": {
+            "go": 220,
+            "come": 438,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2012-12",
+        "source": "消息",
+        "count": 640,
+        "direction": {
+            "go": 212,
+            "come": 428,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2012-12",
+        "source": "图片",
+        "count": 11,
+        "direction": {
+            "go": 1,
+            "come": 10,
+            "goP": "9",
+            "comeP": "91"
+        }
+    },
+    {
+        "date": "2012-12",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "忙",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2012-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "全部",
+        "count": 1058,
+        "direction": {
+            "go": 342,
+            "come": 716,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2013-01",
+        "source": "消息",
+        "count": 1030,
+        "direction": {
+            "go": 326,
+            "come": 704,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2013-01",
+        "source": "图片",
+        "count": 13,
+        "direction": {
+            "go": 1,
+            "come": 12,
+            "goP": "8",
+            "comeP": "92"
+        }
+    },
+    {
+        "date": "2013-01",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "忙",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "全部",
+        "count": 3026,
+        "direction": {
+            "go": 1076,
+            "come": 1950,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2013-02",
+        "source": "消息",
+        "count": 2368,
+        "direction": {
+            "go": 432,
+            "come": 1936,
+            "goP": "18",
+            "comeP": "82"
+        }
+    },
+    {
+        "date": "2013-02",
+        "source": "图片",
+        "count": 23,
+        "direction": {
+            "go": 9,
+            "come": 14,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2013-02",
+        "source": "文件",
+        "count": 9,
+        "direction": {
+            "go": 9,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "忙",
+        "count": 626,
+        "direction": {
+            "go": 626,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "全部",
+        "count": 836,
+        "direction": {
+            "go": 261,
+            "come": 575,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2013-03",
+        "source": "消息",
+        "count": 815,
+        "direction": {
+            "go": 245,
+            "come": 570,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2013-03",
+        "source": "图片",
+        "count": 6,
+        "direction": {
+            "go": 1,
+            "come": 5,
+            "goP": "17",
+            "comeP": "83"
+        }
+    },
+    {
+        "date": "2013-03",
+        "source": "文件",
+        "count": 13,
+        "direction": {
+            "go": 13,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "全部",
+        "count": 1471,
+        "direction": {
+            "go": 456,
+            "come": 1015,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2013-04",
+        "source": "消息",
+        "count": 1418,
+        "direction": {
+            "go": 444,
+            "come": 974,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2013-04",
+        "source": "图片",
+        "count": 46,
+        "direction": {
+            "go": 6,
+            "come": 40,
+            "goP": "13",
+            "comeP": "87"
+        }
+    },
+    {
+        "date": "2013-04",
+        "source": "文件",
+        "count": 7,
+        "direction": {
+            "go": 6,
+            "come": 1,
+            "goP": "86",
+            "comeP": "14"
+        }
+    },
+    {
+        "date": "2013-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "全部",
+        "count": 815,
+        "direction": {
+            "go": 268,
+            "come": 547,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2013-05",
+        "source": "消息",
+        "count": 777,
+        "direction": {
+            "go": 251,
+            "come": 526,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2013-05",
+        "source": "图片",
+        "count": 24,
+        "direction": {
+            "go": 3,
+            "come": 21,
+            "goP": "13",
+            "comeP": "88"
+        }
+    },
+    {
+        "date": "2013-05",
+        "source": "文件",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "全部",
+        "count": 409,
+        "direction": {
+            "go": 125,
+            "come": 284,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2013-06",
+        "source": "消息",
+        "count": 396,
+        "direction": {
+            "go": 119,
+            "come": 277,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2013-06",
+        "source": "图片",
+        "count": 7,
+        "direction": {
+            "go": 0,
+            "come": 7,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2013-06",
+        "source": "文件",
+        "count": 6,
+        "direction": {
+            "go": 6,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "全部",
+        "count": 1193,
+        "direction": {
+            "go": 319,
+            "come": 874,
+            "goP": "27",
+            "comeP": "73"
+        }
+    },
+    {
+        "date": "2013-07",
+        "source": "消息",
+        "count": 1173,
+        "direction": {
+            "go": 310,
+            "come": 863,
+            "goP": "26",
+            "comeP": "74"
+        }
+    },
+    {
+        "date": "2013-07",
+        "source": "图片",
+        "count": 14,
+        "direction": {
+            "go": 3,
+            "come": 11,
+            "goP": "21",
+            "comeP": "79"
+        }
+    },
+    {
+        "date": "2013-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "忙",
+        "count": 6,
+        "direction": {
+            "go": 6,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "全部",
+        "count": 618,
+        "direction": {
+            "go": 189,
+            "come": 429,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2013-08",
+        "source": "消息",
+        "count": 607,
+        "direction": {
+            "go": 183,
+            "come": 424,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2013-08",
+        "source": "图片",
+        "count": 6,
+        "direction": {
+            "go": 2,
+            "come": 4,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2013-08",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-08",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-08",
+        "source": "语音",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2013-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "全部",
+        "count": 359,
+        "direction": {
+            "go": 132,
+            "come": 227,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2013-09",
+        "source": "消息",
+        "count": 352,
+        "direction": {
+            "go": 126,
+            "come": 226,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2013-09",
+        "source": "图片",
+        "count": 4,
+        "direction": {
+            "go": 3,
+            "come": 1,
+            "goP": "75",
+            "comeP": "25"
+        }
+    },
+    {
+        "date": "2013-09",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "全部",
+        "count": 863,
+        "direction": {
+            "go": 293,
+            "come": 570,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2013-10",
+        "source": "消息",
+        "count": 848,
+        "direction": {
+            "go": 285,
+            "come": 563,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2013-10",
+        "source": "图片",
+        "count": 9,
+        "direction": {
+            "go": 2,
+            "come": 7,
+            "goP": "22",
+            "comeP": "78"
+        }
+    },
+    {
+        "date": "2013-10",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "忙",
+        "count": 6,
+        "direction": {
+            "go": 6,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "全部",
+        "count": 1665,
+        "direction": {
+            "go": 599,
+            "come": 1066,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2013-11",
+        "source": "消息",
+        "count": 1634,
+        "direction": {
+            "go": 577,
+            "come": 1057,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2013-11",
+        "source": "图片",
+        "count": 11,
+        "direction": {
+            "go": 3,
+            "come": 8,
+            "goP": "27",
+            "comeP": "73"
+        }
+    },
+    {
+        "date": "2013-11",
+        "source": "文件",
+        "count": 7,
+        "direction": {
+            "go": 7,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-11",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2013-11",
+        "source": "忙",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "全部",
+        "count": 1001,
+        "direction": {
+            "go": 347,
+            "come": 654,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2013-12",
+        "source": "消息",
+        "count": 981,
+        "direction": {
+            "go": 340,
+            "come": 641,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2013-12",
+        "source": "图片",
+        "count": 12,
+        "direction": {
+            "go": 2,
+            "come": 10,
+            "goP": "17",
+            "comeP": "83"
+        }
+    },
+    {
+        "date": "2013-12",
+        "source": "文件",
+        "count": 4,
+        "direction": {
+            "go": 1,
+            "come": 3,
+            "goP": "25",
+            "comeP": "75"
+        }
+    },
+    {
+        "date": "2013-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2013-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "全部",
+        "count": 1465,
+        "direction": {
+            "go": 549,
+            "come": 916,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2014-01",
+        "source": "消息",
+        "count": 1432,
+        "direction": {
+            "go": 534,
+            "come": 898,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2014-01",
+        "source": "图片",
+        "count": 20,
+        "direction": {
+            "go": 3,
+            "come": 17,
+            "goP": "15",
+            "comeP": "85"
+        }
+    },
+    {
+        "date": "2014-01",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 1,
+            "come": 1,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2014-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "忙",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "全部",
+        "count": 1993,
+        "direction": {
+            "go": 699,
+            "come": 1294,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2014-02",
+        "source": "消息",
+        "count": 1966,
+        "direction": {
+            "go": 687,
+            "come": 1279,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2014-02",
+        "source": "图片",
+        "count": 16,
+        "direction": {
+            "go": 1,
+            "come": 15,
+            "goP": "6",
+            "comeP": "94"
+        }
+    },
+    {
+        "date": "2014-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "忙",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "全部",
+        "count": 1393,
+        "direction": {
+            "go": 439,
+            "come": 954,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2014-03",
+        "source": "消息",
+        "count": 1347,
+        "direction": {
+            "go": 418,
+            "come": 929,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2014-03",
+        "source": "图片",
+        "count": 24,
+        "direction": {
+            "go": 0,
+            "come": 24,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-03",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 1,
+            "come": 1,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2014-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "忙",
+        "count": 20,
+        "direction": {
+            "go": 20,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "全部",
+        "count": 572,
+        "direction": {
+            "go": 196,
+            "come": 376,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2014-04",
+        "source": "消息",
+        "count": 554,
+        "direction": {
+            "go": 185,
+            "come": 369,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2014-04",
+        "source": "图片",
+        "count": 8,
+        "direction": {
+            "go": 1,
+            "come": 7,
+            "goP": "13",
+            "comeP": "88"
+        }
+    },
+    {
+        "date": "2014-04",
+        "source": "文件",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "忙",
+        "count": 7,
+        "direction": {
+            "go": 7,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "全部",
+        "count": 569,
+        "direction": {
+            "go": 221,
+            "come": 348,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2014-05",
+        "source": "消息",
+        "count": 547,
+        "direction": {
+            "go": 214,
+            "come": 333,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2014-05",
+        "source": "图片",
+        "count": 19,
+        "direction": {
+            "go": 4,
+            "come": 15,
+            "goP": "21",
+            "comeP": "79"
+        }
+    },
+    {
+        "date": "2014-05",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "忙",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "全部",
+        "count": 802,
+        "direction": {
+            "go": 284,
+            "come": 518,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2014-06",
+        "source": "消息",
+        "count": 790,
+        "direction": {
+            "go": 277,
+            "come": 513,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2014-06",
+        "source": "图片",
+        "count": 9,
+        "direction": {
+            "go": 4,
+            "come": 5,
+            "goP": "44",
+            "comeP": "56"
+        }
+    },
+    {
+        "date": "2014-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "忙",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-07",
+        "source": "全部",
+        "count": 1347,
+        "direction": {
+            "go": 474,
+            "come": 873,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "消息",
+        "count": 1311,
+        "direction": {
+            "go": 469,
+            "come": 842,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "图片",
+        "count": 33,
+        "direction": {
+            "go": 2,
+            "come": 31,
+            "goP": "6",
+            "comeP": "94"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2014-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-07",
+        "source": "忙",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-08",
+        "source": "全部",
+        "count": 1731,
+        "direction": {
+            "go": 646,
+            "come": 1085,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "消息",
+        "count": 1688,
+        "direction": {
+            "go": 635,
+            "come": 1053,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "图片",
+        "count": 37,
+        "direction": {
+            "go": 6,
+            "come": 31,
+            "goP": "16",
+            "comeP": "84"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-08",
+        "source": "忙",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-09",
+        "source": "全部",
+        "count": 2001,
+        "direction": {
+            "go": 544,
+            "come": 1457,
+            "goP": "27",
+            "comeP": "73"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "消息",
+        "count": 1932,
+        "direction": {
+            "go": 536,
+            "come": 1396,
+            "goP": "28",
+            "comeP": "72"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "图片",
+        "count": 61,
+        "direction": {
+            "go": 2,
+            "come": 59,
+            "goP": "3",
+            "comeP": "97"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 0,
+            "come": 2,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-09",
+        "source": "忙",
+        "count": 6,
+        "direction": {
+            "go": 6,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-10",
+        "source": "全部",
+        "count": 1181,
+        "direction": {
+            "go": 407,
+            "come": 774,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "消息",
+        "count": 1129,
+        "direction": {
+            "go": 387,
+            "come": 742,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "图片",
+        "count": 33,
+        "direction": {
+            "go": 3,
+            "come": 30,
+            "goP": "9",
+            "comeP": "91"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "文件",
+        "count": 3,
+        "direction": {
+            "go": 1,
+            "come": 2,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "忙",
+        "count": 15,
+        "direction": {
+            "go": 15,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-11",
+        "source": "全部",
+        "count": 2081,
+        "direction": {
+            "go": 649,
+            "come": 1432,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "消息",
+        "count": 1985,
+        "direction": {
+            "go": 636,
+            "come": 1349,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "图片",
+        "count": 88,
+        "direction": {
+            "go": 5,
+            "come": 83,
+            "goP": "6",
+            "comeP": "94"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2014-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-11",
+        "source": "忙",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2014-12",
+        "source": "全部",
+        "count": 2279,
+        "direction": {
+            "go": 806,
+            "come": 1473,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "消息",
+        "count": 2194,
+        "direction": {
+            "go": 792,
+            "come": 1402,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "图片",
+        "count": 72,
+        "direction": {
+            "go": 2,
+            "come": 70,
+            "goP": "3",
+            "comeP": "97"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014-12",
+        "source": "忙",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2014-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "全部",
+        "count": 2277,
+        "direction": {
+            "go": 744,
+            "come": 1533,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2015-01",
+        "source": "消息",
+        "count": 2156,
+        "direction": {
+            "go": 722,
+            "come": 1434,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2015-01",
+        "source": "图片",
+        "count": 99,
+        "direction": {
+            "go": 6,
+            "come": 93,
+            "goP": "6",
+            "comeP": "94"
+        }
+    },
+    {
+        "date": "2015-01",
+        "source": "文件",
+        "count": 6,
+        "direction": {
+            "go": 0,
+            "come": 6,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "忙",
+        "count": 16,
+        "direction": {
+            "go": 16,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "全部",
+        "count": 771,
+        "direction": {
+            "go": 270,
+            "come": 501,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2015-02",
+        "source": "消息",
+        "count": 746,
+        "direction": {
+            "go": 257,
+            "come": 489,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2015-02",
+        "source": "图片",
+        "count": 12,
+        "direction": {
+            "go": 0,
+            "come": 12,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "视频通话",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-02",
+        "source": "忙",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-03",
+        "source": "全部",
+        "count": 756,
+        "direction": {
+            "go": 224,
+            "come": 532,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "消息",
+        "count": 709,
+        "direction": {
+            "go": 218,
+            "come": 491,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "图片",
+        "count": 42,
+        "direction": {
+            "go": 2,
+            "come": 40,
+            "goP": "5",
+            "comeP": "95"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2015-03",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-04",
+        "source": "全部",
+        "count": 1602,
+        "direction": {
+            "go": 479,
+            "come": 1123,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "消息",
+        "count": 1543,
+        "direction": {
+            "go": 461,
+            "come": 1082,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "图片",
+        "count": 43,
+        "direction": {
+            "go": 2,
+            "come": 41,
+            "goP": "5",
+            "comeP": "95"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2015-04",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "忙",
+        "count": 15,
+        "direction": {
+            "go": 15,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-05",
+        "source": "全部",
+        "count": 1808,
+        "direction": {
+            "go": 575,
+            "come": 1233,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "消息",
+        "count": 1736,
+        "direction": {
+            "go": 558,
+            "come": 1178,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "图片",
+        "count": 50,
+        "direction": {
+            "go": 0,
+            "come": 50,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "文件",
+        "count": 7,
+        "direction": {
+            "go": 2,
+            "come": 5,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "忙",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-06",
+        "source": "全部",
+        "count": 1300,
+        "direction": {
+            "go": 363,
+            "come": 937,
+            "goP": "28",
+            "comeP": "72"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "消息",
+        "count": 1246,
+        "direction": {
+            "go": 351,
+            "come": 895,
+            "goP": "28",
+            "comeP": "72"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "图片",
+        "count": 44,
+        "direction": {
+            "go": 2,
+            "come": 42,
+            "goP": "5",
+            "comeP": "95"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2015-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2015-06",
+        "source": "忙",
+        "count": 10,
+        "direction": {
+            "go": 10,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-07",
+        "source": "全部",
+        "count": 2793,
+        "direction": {
+            "go": 838,
+            "come": 1955,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "消息",
+        "count": 2711,
+        "direction": {
+            "go": 814,
+            "come": 1897,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "图片",
+        "count": 59,
+        "direction": {
+            "go": 4,
+            "come": 55,
+            "goP": "7",
+            "comeP": "93"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "文件",
+        "count": 5,
+        "direction": {
+            "go": 3,
+            "come": 2,
+            "goP": "60",
+            "comeP": "40"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "视频通话",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "忙",
+        "count": 15,
+        "direction": {
+            "go": 15,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "语音",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-08",
+        "source": "全部",
+        "count": 1542,
+        "direction": {
+            "go": 476,
+            "come": 1066,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "消息",
+        "count": 1439,
+        "direction": {
+            "go": 461,
+            "come": 978,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "图片",
+        "count": 97,
+        "direction": {
+            "go": 9,
+            "come": 88,
+            "goP": "9",
+            "comeP": "91"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2015-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2015-08",
+        "source": "忙",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "语音",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "全部",
+        "count": 1300,
+        "direction": {
+            "go": 406,
+            "come": 894,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2015-09",
+        "source": "消息",
+        "count": 1255,
+        "direction": {
+            "go": 402,
+            "come": 853,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2015-09",
+        "source": "图片",
+        "count": 40,
+        "direction": {
+            "go": 0,
+            "come": 40,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-09",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-10",
+        "source": "全部",
+        "count": 1559,
+        "direction": {
+            "go": 503,
+            "come": 1056,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "消息",
+        "count": 1482,
+        "direction": {
+            "go": 487,
+            "come": 995,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "图片",
+        "count": 59,
+        "direction": {
+            "go": 1,
+            "come": 58,
+            "goP": "2",
+            "comeP": "98"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2015-10",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "忙",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "语音",
+        "count": 3,
+        "direction": {
+            "go": 0,
+            "come": 3,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-11",
+        "source": "全部",
+        "count": 1881,
+        "direction": {
+            "go": 614,
+            "come": 1267,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "消息",
+        "count": 1831,
+        "direction": {
+            "go": 602,
+            "come": 1229,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "图片",
+        "count": 40,
+        "direction": {
+            "go": 2,
+            "come": 38,
+            "goP": "5",
+            "comeP": "95"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2015-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2015-11",
+        "source": "忙",
+        "count": 10,
+        "direction": {
+            "go": 10,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2015-12",
+        "source": "全部",
+        "count": 1515,
+        "direction": {
+            "go": 475,
+            "come": 1040,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "消息",
+        "count": 1473,
+        "direction": {
+            "go": 463,
+            "come": 1010,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "图片",
+        "count": 30,
+        "direction": {
+            "go": 0,
+            "come": 30,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2015-12",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "忙",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2015-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-01",
+        "source": "全部",
+        "count": 1807,
+        "direction": {
+            "go": 589,
+            "come": 1218,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "消息",
+        "count": 1714,
+        "direction": {
+            "go": 561,
+            "come": 1153,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "图片",
+        "count": 67,
+        "direction": {
+            "go": 2,
+            "come": 65,
+            "goP": "3",
+            "comeP": "97"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "文件",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2016-01",
+        "source": "忙",
+        "count": 22,
+        "direction": {
+            "go": 22,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-02",
+        "source": "全部",
+        "count": 1467,
+        "direction": {
+            "go": 487,
+            "come": 980,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "消息",
+        "count": 1378,
+        "direction": {
+            "go": 475,
+            "come": 903,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "图片",
+        "count": 71,
+        "direction": {
+            "go": 1,
+            "come": 70,
+            "goP": "1",
+            "comeP": "99"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2016-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2016-02",
+        "source": "忙",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "语音",
+        "count": 7,
+        "direction": {
+            "go": 0,
+            "come": 7,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-03",
+        "source": "全部",
+        "count": 1692,
+        "direction": {
+            "go": 572,
+            "come": 1120,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "消息",
+        "count": 1650,
+        "direction": {
+            "go": 555,
+            "come": 1095,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "图片",
+        "count": 26,
+        "direction": {
+            "go": 1,
+            "come": 25,
+            "goP": "4",
+            "comeP": "96"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "视频通话",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "忙",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-04",
+        "source": "全部",
+        "count": 1452,
+        "direction": {
+            "go": 448,
+            "come": 1004,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "消息",
+        "count": 1385,
+        "direction": {
+            "go": 426,
+            "come": 959,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "图片",
+        "count": 47,
+        "direction": {
+            "go": 2,
+            "come": 45,
+            "goP": "4",
+            "comeP": "96"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2016-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2016-04",
+        "source": "忙",
+        "count": 20,
+        "direction": {
+            "go": 20,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-05",
+        "source": "全部",
+        "count": 993,
+        "direction": {
+            "go": 307,
+            "come": 686,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "消息",
+        "count": 941,
+        "direction": {
+            "go": 292,
+            "come": 649,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "图片",
+        "count": 39,
+        "direction": {
+            "go": 2,
+            "come": 37,
+            "goP": "5",
+            "comeP": "95"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "文件",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2016-05",
+        "source": "忙",
+        "count": 9,
+        "direction": {
+            "go": 9,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-06",
+        "source": "全部",
+        "count": 1460,
+        "direction": {
+            "go": 478,
+            "come": 982,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "消息",
+        "count": 1397,
+        "direction": {
+            "go": 455,
+            "come": 942,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "图片",
+        "count": 49,
+        "direction": {
+            "go": 11,
+            "come": 38,
+            "goP": "22",
+            "comeP": "78"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2016-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2016-06",
+        "source": "忙",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "语音",
+        "count": 2,
+        "direction": {
+            "go": 0,
+            "come": 2,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-07",
+        "source": "全部",
+        "count": 1710,
+        "direction": {
+            "go": 595,
+            "come": 1115,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "消息",
+        "count": 1677,
+        "direction": {
+            "go": 579,
+            "come": 1098,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "图片",
+        "count": 20,
+        "direction": {
+            "go": 3,
+            "come": 17,
+            "goP": "15",
+            "comeP": "85"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2016-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2016-07",
+        "source": "忙",
+        "count": 13,
+        "direction": {
+            "go": 13,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-08",
+        "source": "全部",
+        "count": 3219,
+        "direction": {
+            "go": 1223,
+            "come": 1996,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "消息",
+        "count": 3091,
+        "direction": {
+            "go": 1201,
+            "come": 1890,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "图片",
+        "count": 111,
+        "direction": {
+            "go": 8,
+            "come": 103,
+            "goP": "7",
+            "comeP": "93"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "文件",
+        "count": 4,
+        "direction": {
+            "go": 3,
+            "come": 1,
+            "goP": "75",
+            "comeP": "25"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2016-08",
+        "source": "忙",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "语音",
+        "count": 2,
+        "direction": {
+            "go": 0,
+            "come": 2,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "全部",
+        "count": 6231,
+        "direction": {
+            "go": 2329,
+            "come": 3902,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2016-09",
+        "source": "消息",
+        "count": 5943,
+        "direction": {
+            "go": 2268,
+            "come": 3675,
+            "goP": "38",
+            "comeP": "62"
+        }
+    },
+    {
+        "date": "2016-09",
+        "source": "图片",
+        "count": 229,
+        "direction": {
+            "go": 7,
+            "come": 222,
+            "goP": "3",
+            "comeP": "97"
+        }
+    },
+    {
+        "date": "2016-09",
+        "source": "文件",
+        "count": 11,
+        "direction": {
+            "go": 7,
+            "come": 4,
+            "goP": "64",
+            "comeP": "36"
+        }
+    },
+    {
+        "date": "2016-09",
+        "source": "视频通话",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-09",
+        "source": "忙",
+        "count": 45,
+        "direction": {
+            "go": 45,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-09",
+        "source": "视频",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016-10",
+        "source": "全部",
+        "count": 3844,
+        "direction": {
+            "go": 1283,
+            "come": 2561,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2016-10",
+        "source": "消息",
+        "count": 3656,
+        "direction": {
+            "go": 1226,
+            "come": 2430,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2016-10",
+        "source": "图片",
+        "count": 141,
+        "direction": {
+            "go": 10,
+            "come": 131,
+            "goP": "7",
+            "comeP": "93"
+        }
+    },
+    {
+        "date": "2016-10",
+        "source": "文件",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-10",
+        "source": "视频通话",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-10",
+        "source": "忙",
+        "count": 43,
+        "direction": {
+            "go": 43,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "全部",
+        "count": 2175,
+        "direction": {
+            "go": 693,
+            "come": 1482,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2016-11",
+        "source": "消息",
+        "count": 2016,
+        "direction": {
+            "go": 638,
+            "come": 1378,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2016-11",
+        "source": "图片",
+        "count": 110,
+        "direction": {
+            "go": 6,
+            "come": 104,
+            "goP": "5",
+            "comeP": "95"
+        }
+    },
+    {
+        "date": "2016-11",
+        "source": "文件",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-11",
+        "source": "视频通话",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-11",
+        "source": "忙",
+        "count": 32,
+        "direction": {
+            "go": 32,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2016-12",
+        "source": "全部",
+        "count": 1317,
+        "direction": {
+            "go": 374,
+            "come": 943,
+            "goP": "28",
+            "comeP": "72"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "消息",
+        "count": 1089,
+        "direction": {
+            "go": 331,
+            "come": 758,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "图片",
+        "count": 191,
+        "direction": {
+            "go": 7,
+            "come": 184,
+            "goP": "4",
+            "comeP": "96"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "文件",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "视频通话",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "忙",
+        "count": 27,
+        "direction": {
+            "go": 27,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2016-12",
+        "source": "视频",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-01",
+        "source": "全部",
+        "count": 2013,
+        "direction": {
+            "go": 579,
+            "come": 1434,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2017-01",
+        "source": "消息",
+        "count": 1838,
+        "direction": {
+            "go": 536,
+            "come": 1302,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2017-01",
+        "source": "图片",
+        "count": 135,
+        "direction": {
+            "go": 3,
+            "come": 132,
+            "goP": "2",
+            "comeP": "98"
+        }
+    },
+    {
+        "date": "2017-01",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "视频通话",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-01",
+        "source": "忙",
+        "count": 37,
+        "direction": {
+            "go": 37,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2017-02",
+        "source": "全部",
+        "count": 1959,
+        "direction": {
+            "go": 533,
+            "come": 1426,
+            "goP": "27",
+            "comeP": "73"
+        }
+    },
+    {
+        "date": "2017-02",
+        "source": "消息",
+        "count": 1860,
+        "direction": {
+            "go": 502,
+            "come": 1358,
+            "goP": "27",
+            "comeP": "73"
+        }
+    },
+    {
+        "date": "2017-02",
+        "source": "图片",
+        "count": 72,
+        "direction": {
+            "go": 4,
+            "come": 68,
+            "goP": "6",
+            "comeP": "94"
+        }
+    },
+    {
+        "date": "2017-02",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-02",
+        "source": "视频通话",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-02",
+        "source": "忙",
+        "count": 13,
+        "direction": {
+            "go": 13,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-02",
+        "source": "语音",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "全部",
+        "count": 1449,
+        "direction": {
+            "go": 455,
+            "come": 994,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2017-03",
+        "source": "消息",
+        "count": 1360,
+        "direction": {
+            "go": 432,
+            "come": 928,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2017-03",
+        "source": "图片",
+        "count": 65,
+        "direction": {
+            "go": 1,
+            "come": 64,
+            "goP": "2",
+            "comeP": "98"
+        }
+    },
+    {
+        "date": "2017-03",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "视频通话",
+        "count": 6,
+        "direction": {
+            "go": 5,
+            "come": 1,
+            "goP": "83",
+            "comeP": "17"
+        }
+    },
+    {
+        "date": "2017-03",
+        "source": "忙",
+        "count": 16,
+        "direction": {
+            "go": 16,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-03",
+        "source": "视频",
+        "count": 2,
+        "direction": {
+            "go": 1,
+            "come": 1,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2017-04",
+        "source": "全部",
+        "count": 1241,
+        "direction": {
+            "go": 410,
+            "come": 831,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2017-04",
+        "source": "消息",
+        "count": 1123,
+        "direction": {
+            "go": 397,
+            "come": 726,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2017-04",
+        "source": "图片",
+        "count": 101,
+        "direction": {
+            "go": 3,
+            "come": 98,
+            "goP": "3",
+            "comeP": "97"
+        }
+    },
+    {
+        "date": "2017-04",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-04",
+        "source": "视频通话",
+        "count": 8,
+        "direction": {
+            "go": 1,
+            "come": 7,
+            "goP": "13",
+            "comeP": "88"
+        }
+    },
+    {
+        "date": "2017-04",
+        "source": "忙",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "全部",
+        "count": 985,
+        "direction": {
+            "go": 286,
+            "come": 699,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2017-05",
+        "source": "消息",
+        "count": 916,
+        "direction": {
+            "go": 269,
+            "come": 647,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2017-05",
+        "source": "图片",
+        "count": 57,
+        "direction": {
+            "go": 10,
+            "come": 47,
+            "goP": "18",
+            "comeP": "82"
+        }
+    },
+    {
+        "date": "2017-05",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2017-05",
+        "source": "视频通话",
+        "count": 4,
+        "direction": {
+            "go": 0,
+            "come": 4,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-05",
+        "source": "忙",
+        "count": 7,
+        "direction": {
+            "go": 7,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-05",
+        "source": "语音",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "全部",
+        "count": 973,
+        "direction": {
+            "go": 278,
+            "come": 695,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2017-06",
+        "source": "消息",
+        "count": 923,
+        "direction": {
+            "go": 274,
+            "come": 649,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2017-06",
+        "source": "图片",
+        "count": 39,
+        "direction": {
+            "go": 0,
+            "come": 39,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "视频通话",
+        "count": 6,
+        "direction": {
+            "go": 0,
+            "come": 6,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-06",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-06",
+        "source": "视频",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-07",
+        "source": "全部",
+        "count": 1295,
+        "direction": {
+            "go": 357,
+            "come": 938,
+            "goP": "28",
+            "comeP": "72"
+        }
+    },
+    {
+        "date": "2017-07",
+        "source": "消息",
+        "count": 1182,
+        "direction": {
+            "go": 348,
+            "come": 834,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2017-07",
+        "source": "图片",
+        "count": 104,
+        "direction": {
+            "go": 1,
+            "come": 103,
+            "goP": "1",
+            "comeP": "99"
+        }
+    },
+    {
+        "date": "2017-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-07",
+        "source": "忙",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "全部",
+        "count": 866,
+        "direction": {
+            "go": 242,
+            "come": 624,
+            "goP": "28",
+            "comeP": "72"
+        }
+    },
+    {
+        "date": "2017-08",
+        "source": "消息",
+        "count": 838,
+        "direction": {
+            "go": 240,
+            "come": 598,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2017-08",
+        "source": "图片",
+        "count": 26,
+        "direction": {
+            "go": 0,
+            "come": 26,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "全部",
+        "count": 2689,
+        "direction": {
+            "go": 814,
+            "come": 1875,
+            "goP": "30",
+            "comeP": "70"
+        }
+    },
+    {
+        "date": "2017-09",
+        "source": "消息",
+        "count": 2494,
+        "direction": {
+            "go": 804,
+            "come": 1690,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2017-09",
+        "source": "图片",
+        "count": 176,
+        "direction": {
+            "go": 5,
+            "come": 171,
+            "goP": "3",
+            "comeP": "97"
+        }
+    },
+    {
+        "date": "2017-09",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-09",
+        "source": "视频通话",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-09",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-09",
+        "source": "视频",
+        "count": 13,
+        "direction": {
+            "go": 0,
+            "come": 13,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-10",
+        "source": "全部",
+        "count": 2155,
+        "direction": {
+            "go": 685,
+            "come": 1470,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2017-10",
+        "source": "消息",
+        "count": 2064,
+        "direction": {
+            "go": 669,
+            "come": 1395,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2017-10",
+        "source": "图片",
+        "count": 79,
+        "direction": {
+            "go": 5,
+            "come": 74,
+            "goP": "6",
+            "comeP": "94"
+        }
+    },
+    {
+        "date": "2017-10",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-10",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "忙",
+        "count": 10,
+        "direction": {
+            "go": 10,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-10",
+        "source": "视频",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017-11",
+        "source": "全部",
+        "count": 1634,
+        "direction": {
+            "go": 508,
+            "come": 1126,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2017-11",
+        "source": "消息",
+        "count": 1558,
+        "direction": {
+            "go": 500,
+            "come": 1058,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2017-11",
+        "source": "图片",
+        "count": 72,
+        "direction": {
+            "go": 4,
+            "come": 68,
+            "goP": "6",
+            "comeP": "94"
+        }
+    },
+    {
+        "date": "2017-11",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "忙",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "全部",
+        "count": 1394,
+        "direction": {
+            "go": 453,
+            "come": 941,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2017-12",
+        "source": "消息",
+        "count": 1296,
+        "direction": {
+            "go": 436,
+            "come": 860,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2017-12",
+        "source": "图片",
+        "count": 90,
+        "direction": {
+            "go": 9,
+            "come": 81,
+            "goP": "10",
+            "comeP": "90"
+        }
+    },
+    {
+        "date": "2017-12",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "忙",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2017-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "全部",
+        "count": 263,
+        "direction": {
+            "go": 84,
+            "come": 179,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2018-01",
+        "source": "消息",
+        "count": 242,
+        "direction": {
+            "go": 74,
+            "come": 168,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2018-01",
+        "source": "图片",
+        "count": 11,
+        "direction": {
+            "go": 0,
+            "come": 11,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-01",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "视频通话",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-01",
+        "source": "忙",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "全部",
+        "count": 226,
+        "direction": {
+            "go": 81,
+            "come": 145,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2018-02",
+        "source": "消息",
+        "count": 208,
+        "direction": {
+            "go": 72,
+            "come": 136,
+            "goP": "35",
+            "comeP": "65"
+        }
+    },
+    {
+        "date": "2018-02",
+        "source": "图片",
+        "count": 10,
+        "direction": {
+            "go": 1,
+            "come": 9,
+            "goP": "10",
+            "comeP": "90"
+        }
+    },
+    {
+        "date": "2018-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "忙",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "全部",
+        "count": 128,
+        "direction": {
+            "go": 42,
+            "come": 86,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2018-03",
+        "source": "消息",
+        "count": 117,
+        "direction": {
+            "go": 40,
+            "come": 77,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2018-03",
+        "source": "图片",
+        "count": 9,
+        "direction": {
+            "go": 0,
+            "come": 9,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-03",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "全部",
+        "count": 123,
+        "direction": {
+            "go": 31,
+            "come": 92,
+            "goP": "25",
+            "comeP": "75"
+        }
+    },
+    {
+        "date": "2018-04",
+        "source": "消息",
+        "count": 114,
+        "direction": {
+            "go": 30,
+            "come": 84,
+            "goP": "26",
+            "comeP": "74"
+        }
+    },
+    {
+        "date": "2018-04",
+        "source": "图片",
+        "count": 8,
+        "direction": {
+            "go": 0,
+            "come": 8,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-04",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "忙",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "全部",
+        "count": 219,
+        "direction": {
+            "go": 71,
+            "come": 148,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2018-05",
+        "source": "消息",
+        "count": 200,
+        "direction": {
+            "go": 69,
+            "come": 131,
+            "goP": "35",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2018-05",
+        "source": "图片",
+        "count": 9,
+        "direction": {
+            "go": 0,
+            "come": 9,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-05",
+        "source": "文件",
+        "count": 9,
+        "direction": {
+            "go": 1,
+            "come": 8,
+            "goP": "11",
+            "comeP": "89"
+        }
+    },
+    {
+        "date": "2018-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "忙",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-05",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "全部",
+        "count": 466,
+        "direction": {
+            "go": 188,
+            "come": 278,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2018-06",
+        "source": "消息",
+        "count": 430,
+        "direction": {
+            "go": 176,
+            "come": 254,
+            "goP": "41",
+            "comeP": "59"
+        }
+    },
+    {
+        "date": "2018-06",
+        "source": "图片",
+        "count": 31,
+        "direction": {
+            "go": 7,
+            "come": 24,
+            "goP": "23",
+            "comeP": "77"
+        }
+    },
+    {
+        "date": "2018-06",
+        "source": "文件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-07",
+        "source": "全部",
+        "count": 304,
+        "direction": {
+            "go": 127,
+            "come": 177,
+            "goP": "42",
+            "comeP": "58"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "消息",
+        "count": 283,
+        "direction": {
+            "go": 111,
+            "come": 172,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "图片",
+        "count": 9,
+        "direction": {
+            "go": 4,
+            "come": 5,
+            "goP": "44",
+            "comeP": "56"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "文件",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-07",
+        "source": "忙",
+        "count": 7,
+        "direction": {
+            "go": 7,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-08",
+        "source": "全部",
+        "count": 120,
+        "direction": {
+            "go": 45,
+            "come": 75,
+            "goP": "38",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "消息",
+        "count": 112,
+        "direction": {
+            "go": 42,
+            "come": 70,
+            "goP": "38",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "图片",
+        "count": 6,
+        "direction": {
+            "go": 1,
+            "come": 5,
+            "goP": "17",
+            "comeP": "83"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-08",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-09",
+        "source": "全部",
+        "count": 245,
+        "direction": {
+            "go": 87,
+            "come": 158,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "消息",
+        "count": 225,
+        "direction": {
+            "go": 82,
+            "come": 143,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "图片",
+        "count": 16,
+        "direction": {
+            "go": 1,
+            "come": 15,
+            "goP": "6",
+            "comeP": "94"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-09",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-09",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-10",
+        "source": "全部",
+        "count": 172,
+        "direction": {
+            "go": 73,
+            "come": 99,
+            "goP": "42",
+            "comeP": "58"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "消息",
+        "count": 155,
+        "direction": {
+            "go": 66,
+            "come": 89,
+            "goP": "43",
+            "comeP": "57"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "图片",
+        "count": 14,
+        "direction": {
+            "go": 4,
+            "come": 10,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-10",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-10",
+        "source": "忙",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-10",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-10",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-11",
+        "source": "全部",
+        "count": 279,
+        "direction": {
+            "go": 92,
+            "come": 187,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "消息",
+        "count": 239,
+        "direction": {
+            "go": 77,
+            "come": 162,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "图片",
+        "count": 26,
+        "direction": {
+            "go": 1,
+            "come": 25,
+            "goP": "4",
+            "comeP": "96"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-11",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-11",
+        "source": "忙",
+        "count": 14,
+        "direction": {
+            "go": 14,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-11",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-11",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2018-12",
+        "source": "全部",
+        "count": 336,
+        "direction": {
+            "go": 131,
+            "come": 205,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "消息",
+        "count": 306,
+        "direction": {
+            "go": 120,
+            "come": 186,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "图片",
+        "count": 19,
+        "direction": {
+            "go": 0,
+            "come": 19,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2018-12",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2018-12",
+        "source": "忙",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018-12",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2018-12",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2019-01",
+        "source": "全部",
+        "count": 163,
+        "direction": {
+            "go": 50,
+            "come": 113,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "消息",
+        "count": 146,
+        "direction": {
+            "go": 42,
+            "come": 104,
+            "goP": "29",
+            "comeP": "71"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "图片",
+        "count": 9,
+        "direction": {
+            "go": 0,
+            "come": 9,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-01",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-01",
+        "source": "忙",
+        "count": 8,
+        "direction": {
+            "go": 8,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-01",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-01",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2019-02",
+        "source": "全部",
+        "count": 134,
+        "direction": {
+            "go": 43,
+            "come": 91,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "消息",
+        "count": 128,
+        "direction": {
+            "go": 42,
+            "come": 86,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "图片",
+        "count": 5,
+        "direction": {
+            "go": 0,
+            "come": 5,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-02",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-02",
+        "source": "忙",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-02",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-02",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2019-03",
+        "source": "全部",
+        "count": 207,
+        "direction": {
+            "go": 69,
+            "come": 138,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "消息",
+        "count": 178,
+        "direction": {
+            "go": 64,
+            "come": 114,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "图片",
+        "count": 25,
+        "direction": {
+            "go": 1,
+            "come": 24,
+            "goP": "4",
+            "comeP": "96"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-03",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-03",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-03",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-03",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2019-04",
+        "source": "全部",
+        "count": 301,
+        "direction": {
+            "go": 95,
+            "come": 206,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "消息",
+        "count": 290,
+        "direction": {
+            "go": 90,
+            "come": 200,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "图片",
+        "count": 7,
+        "direction": {
+            "go": 1,
+            "come": 6,
+            "goP": "14",
+            "comeP": "86"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-04",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-04",
+        "source": "忙",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-04",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-04",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2019-05",
+        "source": "全部",
+        "count": 257,
+        "direction": {
+            "go": 95,
+            "come": 162,
+            "goP": "37",
+            "comeP": "63"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "消息",
+        "count": 237,
+        "direction": {
+            "go": 93,
+            "come": 144,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "图片",
+        "count": 17,
+        "direction": {
+            "go": 0,
+            "come": 17,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-05",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-05",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-05",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-05",
+        "source": "视频",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "全部",
+        "count": 284,
+        "direction": {
+            "go": 121,
+            "come": 163,
+            "goP": "43",
+            "comeP": "57"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "消息",
+        "count": 279,
+        "direction": {
+            "go": 119,
+            "come": 160,
+            "goP": "43",
+            "comeP": "57"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "图片",
+        "count": 3,
+        "direction": {
+            "go": 0,
+            "come": 3,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-06",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-06",
+        "source": "忙",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019-06",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-06",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2019-07",
+        "source": "全部",
+        "count": 10,
+        "direction": {
+            "go": 4,
+            "come": 6,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "消息",
+        "count": 10,
+        "direction": {
+            "go": 4,
+            "come": 6,
+            "goP": "40",
+            "comeP": "60"
+        }
+    },
+    {
+        "date": "2019-07",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2019-07",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-07",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-07",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2019-07",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-07",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "全部",
+        "count": 67,
+        "direction": {
+            "go": 31,
+            "come": 36,
+            "goP": "46",
+            "comeP": "54"
+        }
+    },
+    {
+        "date": "2019-08",
+        "source": "消息",
+        "count": 67,
+        "direction": {
+            "go": 31,
+            "come": 36,
+            "goP": "46",
+            "comeP": "54"
+        }
+    },
+    {
+        "date": "2019-08",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-08",
+        "source": "视频",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "语音",
+        "count": 0
+    },
+    {
+        "date": "2019-09",
+        "source": "视频",
+        "count": 0
+    }
+]

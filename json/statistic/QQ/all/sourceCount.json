@@ -1,0 +1,192 @@
+{
+    "sourceData": {
+        "label": "QQ",
+        "count": 128489,
+        "icon": "/static/icon/source/QQ.png",
+        "direction": {
+            "go": 43078,
+            "come": 85411,
+            "goP": "34",
+            "comeP": "66"
+        },
+        "children": [
+            {
+                "label": "消息",
+                "count": 122207,
+                "icon": "/static/icon/type/QQ-消息.png",
+                "direction": {
+                    "go": 40660,
+                    "come": 81547,
+                    "goP": "33",
+                    "comeP": "67"
+                },
+                "children": [],
+                "percent": 0.9511086552156216,
+                "index": 0,
+                "level": "6-1",
+                "id": "id_6-1"
+            },
+            {
+                "label": "图片",
+                "count": 4156,
+                "icon": "/static/icon/type/QQ-图片.png",
+                "direction": {
+                    "go": 410,
+                    "come": 3746,
+                    "goP": "10",
+                    "comeP": "90"
+                },
+                "children": [],
+                "percent": 0.03240545808966862,
+                "index": 1,
+                "level": "6-2",
+                "id": "id_6-2"
+            },
+            {
+                "label": "文件",
+                "count": 376,
+                "icon": "/static/icon/type/QQ-文件.png",
+                "direction": {
+                    "go": 324,
+                    "come": 52,
+                    "goP": "86",
+                    "comeP": "14"
+                },
+                "children": [],
+                "percent": 0.002987588793363739,
+                "index": 2,
+                "level": "6-3",
+                "id": "id_6-3"
+            },
+            {
+                "label": "视频通话",
+                "count": 78,
+                "icon": "/static/icon/type/QQ-视频通话.png",
+                "direction": {
+                    "go": 56,
+                    "come": 22,
+                    "goP": "72",
+                    "comeP": "28"
+                },
+                "children": [],
+                "percent": 0.0006279637069180669,
+                "index": 3,
+                "level": "6-4",
+                "id": "id_6-4"
+            },
+            {
+                "label": "忙",
+                "count": 1625,
+                "icon": "/static/icon/type/QQ-忙.png",
+                "direction": {
+                    "go": 1625,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                },
+                "children": [],
+                "percent": 0.01267540814814237,
+                "index": 4,
+                "level": "6-5",
+                "id": "id_6-5"
+            },
+            {
+                "label": "语音",
+                "count": 27,
+                "icon": "/static/icon/type/QQ-语音.png",
+                "direction": {
+                    "go": 2,
+                    "come": 25,
+                    "goP": "7",
+                    "comeP": "93"
+                },
+                "children": [],
+                "percent": 0.00023989338071968015,
+                "index": 5,
+                "level": "6-6",
+                "id": "id_6-6"
+            },
+            {
+                "label": "视频",
+                "count": 20,
+                "icon": "/static/icon/type/QQ-视频.png",
+                "direction": {
+                    "go": 1,
+                    "come": 19,
+                    "goP": "5",
+                    "comeP": "95"
+                },
+                "children": [],
+                "percent": 0.00015614509001764438,
+                "index": 6,
+                "level": "6-7",
+                "id": "id_6-7"
+            }
+        ],
+        "index": 5,
+        "level": 6,
+        "percent": 0.5108215986705574,
+        "id": "id_6"
+    },
+    "maxData": {
+        "year": 2013,
+        "total": 13314,
+        "direction": {
+            "go": 4407,
+            "come": 8907,
+            "goP": "33",
+            "comeP": "67"
+        },
+        "max": 1479,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2013-02-10",
+                "count": 1479,
+                "direction": {
+                    "go": 605,
+                    "come": 874,
+                    "goP": "41",
+                    "comeP": "59"
+                }
+            }
+        ],
+        "activityDay": 270,
+        "activityDayP": "74",
+        "activityDayDirection": {
+            "go": 250,
+            "come": 267,
+            "goP": "68",
+            "comeP": "73"
+        },
+        "allDay": 365,
+        "avg": "49.3",
+        "avgDirection": {
+            "go": "17.6",
+            "come": "33.4",
+            "goP": "36",
+            "comeP": "68"
+        }
+    },
+    "avgData": {
+        "total": 128489,
+        "avg": "51.7",
+        "avgDirection": {
+            "go": "18.3",
+            "come": "35.7",
+            "goP": "35",
+            "comeP": "69"
+        }
+    },
+    "activityDayData": {
+        "allDay": 3241,
+        "activityDay": 2485,
+        "activityDayP": "77",
+        "activityDayDirection": {
+            "go": 2353,
+            "come": 2395,
+            "goP": "73",
+            "comeP": "74"
+        }
+    }
+}

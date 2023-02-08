@@ -1,0 +1,160 @@
+{
+    "sourceData": {
+        "label": "CallLog",
+        "count": 5485,
+        "icon": "/static/icon/source/CallLog.png",
+        "direction": {
+            "go": 2432,
+            "come": 3053,
+            "goP": "44",
+            "comeP": "56"
+        },
+        "children": [
+            {
+                "label": "呼入已接",
+                "count": 2604,
+                "icon": "/static/icon/type/CallLog-呼入已接.png",
+                "direction": {
+                    "go": 0,
+                    "come": 2604,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.47474931631722883,
+                "index": 0,
+                "level": "3-1",
+                "id": "id_3-1"
+            },
+            {
+                "label": "呼出已接",
+                "count": 1966,
+                "icon": "/static/icon/type/CallLog-呼出已接.png",
+                "direction": {
+                    "go": 1966,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                },
+                "children": [],
+                "percent": 0.3584974471188913,
+                "index": 1,
+                "level": "3-2",
+                "id": "id_3-2"
+            },
+            {
+                "label": "呼出未接",
+                "count": 466,
+                "icon": "/static/icon/type/CallLog-呼出未接.png",
+                "direction": {
+                    "go": 466,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                },
+                "children": [],
+                "percent": 0.08637627432808155,
+                "index": 2,
+                "level": "3-3",
+                "id": "id_3-3"
+            },
+            {
+                "label": "呼入未接",
+                "count": 432,
+                "icon": "/static/icon/type/CallLog-呼入未接.png",
+                "direction": {
+                    "go": 0,
+                    "come": 432,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.07881773399014778,
+                "index": 3,
+                "level": "3-4",
+                "id": "id_3-4"
+            },
+            {
+                "label": "呼入挂断",
+                "count": 17,
+                "icon": "/static/icon/type/CallLog-呼入挂断.png",
+                "direction": {
+                    "go": 0,
+                    "come": 17,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.00325234360053568,
+                "index": 4,
+                "level": "3-5",
+                "id": "id_3-5"
+            }
+        ],
+        "index": 2,
+        "level": 3,
+        "percent": 0.02180619717413948,
+        "id": "id_3"
+    },
+    "maxData": {
+        "year": 2019,
+        "total": 771,
+        "direction": {
+            "go": 344,
+            "come": 427,
+            "goP": "45",
+            "comeP": "55"
+        },
+        "max": 55,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2019-02-09",
+                "count": 55,
+                "direction": {
+                    "go": 1,
+                    "come": 54,
+                    "goP": "2",
+                    "comeP": "98"
+                }
+            }
+        ],
+        "activityDay": 157,
+        "activityDayP": "74",
+        "activityDayDirection": {
+            "go": 140,
+            "come": 122,
+            "goP": "66",
+            "comeP": "58"
+        },
+        "allDay": 211,
+        "avg": "4.9",
+        "avgDirection": {
+            "go": "2.5",
+            "come": "3.5",
+            "goP": "51",
+            "comeP": "71"
+        }
+    },
+    "avgData": {
+        "total": 5485,
+        "avg": "7.4",
+        "avgDirection": {
+            "go": "3.6",
+            "come": "4.5",
+            "goP": "49",
+            "comeP": "61"
+        }
+    },
+    "activityDayData": {
+        "allDay": 868,
+        "activityDay": 744,
+        "activityDayP": "86",
+        "activityDayDirection": {
+            "go": 674,
+            "come": 678,
+            "goP": "78",
+            "comeP": "78"
+        }
+    }
+}

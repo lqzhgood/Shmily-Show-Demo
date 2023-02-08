@@ -1,0 +1,874 @@
+[
+    {
+        "date": "2007",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2007",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2008",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "全部",
+        "count": 1031,
+        "direction": {
+            "go": 1031,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "消息",
+        "count": 978,
+        "direction": {
+            "go": 978,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "忙",
+        "count": 19,
+        "direction": {
+            "go": 19,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "文件",
+        "count": 34,
+        "direction": {
+            "go": 34,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2009",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2010",
+        "source": "全部",
+        "count": 15999,
+        "direction": {
+            "go": 15999,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "消息",
+        "count": 15662,
+        "direction": {
+            "go": 15662,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "忙",
+        "count": 146,
+        "direction": {
+            "go": 146,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "文件",
+        "count": 191,
+        "direction": {
+            "go": 191,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2010",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2010",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2010",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2010",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2010",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2011",
+        "source": "全部",
+        "count": 7116,
+        "direction": {
+            "go": 7116,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "消息",
+        "count": 6929,
+        "direction": {
+            "go": 6929,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "忙",
+        "count": 148,
+        "direction": {
+            "go": 148,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "文件",
+        "count": 39,
+        "direction": {
+            "go": 39,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2011",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2011",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2011",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2011",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2011",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2012",
+        "source": "全部",
+        "count": 1961,
+        "direction": {
+            "go": 1961,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "消息",
+        "count": 1899,
+        "direction": {
+            "go": 1899,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "忙",
+        "count": 51,
+        "direction": {
+            "go": 51,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "文件",
+        "count": 11,
+        "direction": {
+            "go": 11,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2012",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2012",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2012",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2012",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2012",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "全部",
+        "count": 129,
+        "direction": {
+            "go": 129,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "消息",
+        "count": 129,
+        "direction": {
+            "go": 129,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2013",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "消息",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "图片",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "自定义表情",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2016",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "全部",
+        "count": 305,
+        "direction": {
+            "go": 305,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "消息",
+        "count": 296,
+        "direction": {
+            "go": 296,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "图片",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "自定义表情",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "视频通话",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "撤回",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2018",
+        "source": "全部",
+        "count": 5080,
+        "direction": {
+            "go": 5080,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "消息",
+        "count": 4891,
+        "direction": {
+            "go": 4891,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2018",
+        "source": "文件",
+        "count": 21,
+        "direction": {
+            "go": 21,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "图片",
+        "count": 104,
+        "direction": {
+            "go": 104,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "自定义表情",
+        "count": 48,
+        "direction": {
+            "go": 48,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "视频通话",
+        "count": 12,
+        "direction": {
+            "go": 12,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "撤回",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "分享",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "系统消息",
+        "count": 0
+    },
+    {
+        "date": "2019",
+        "source": "全部",
+        "count": 2968,
+        "direction": {
+            "go": 2968,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "消息",
+        "count": 2888,
+        "direction": {
+            "go": 2888,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "忙",
+        "count": 0
+    },
+    {
+        "date": "2019",
+        "source": "文件",
+        "count": 0
+    },
+    {
+        "date": "2019",
+        "source": "图片",
+        "count": 36,
+        "direction": {
+            "go": 36,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "自定义表情",
+        "count": 33,
+        "direction": {
+            "go": 33,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "视频通话",
+        "count": 3,
+        "direction": {
+            "go": 3,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "撤回",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "分享",
+        "count": 0
+    },
+    {
+        "date": "2019",
+        "source": "系统消息",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    }
+]

@@ -1,0 +1,353 @@
+[
+    {
+        "date": "2007",
+        "source": "全部",
+        "count": 10,
+        "direction": {
+            "go": 7,
+            "come": 3,
+            "goP": "70",
+            "comeP": "30"
+        }
+    },
+    {
+        "date": "2007",
+        "source": "附件",
+        "count": 6,
+        "direction": {
+            "go": 3,
+            "come": 3,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2007",
+        "source": "邮件",
+        "count": 4,
+        "direction": {
+            "go": 4,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2008",
+        "source": "全部",
+        "count": 4,
+        "direction": {
+            "go": 2,
+            "come": 2,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2008",
+        "source": "附件",
+        "count": 3,
+        "direction": {
+            "go": 1,
+            "come": 2,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2008",
+        "source": "邮件",
+        "count": 1,
+        "direction": {
+            "go": 1,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "全部",
+        "count": 6,
+        "direction": {
+            "go": 2,
+            "come": 4,
+            "goP": "33",
+            "comeP": "67"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "附件",
+        "count": 4,
+        "direction": {
+            "go": 1,
+            "come": 3,
+            "goP": "25",
+            "comeP": "75"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "邮件",
+        "count": 2,
+        "direction": {
+            "go": 1,
+            "come": 1,
+            "goP": "50",
+            "comeP": "50"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "全部",
+        "count": 23,
+        "direction": {
+            "go": 6,
+            "come": 17,
+            "goP": "26",
+            "comeP": "74"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "附件",
+        "count": 4,
+        "direction": {
+            "go": 3,
+            "come": 1,
+            "goP": "75",
+            "comeP": "25"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "邮件",
+        "count": 19,
+        "direction": {
+            "go": 3,
+            "come": 16,
+            "goP": "16",
+            "comeP": "84"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "全部",
+        "count": 17,
+        "direction": {
+            "go": 8,
+            "come": 9,
+            "goP": "47",
+            "comeP": "53"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "附件",
+        "count": 9,
+        "direction": {
+            "go": 6,
+            "come": 3,
+            "goP": "67",
+            "comeP": "33"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "邮件",
+        "count": 8,
+        "direction": {
+            "go": 2,
+            "come": 6,
+            "goP": "25",
+            "comeP": "75"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "全部",
+        "count": 9,
+        "direction": {
+            "go": 5,
+            "come": 4,
+            "goP": "56",
+            "comeP": "44"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "附件",
+        "count": 8,
+        "direction": {
+            "go": 5,
+            "come": 3,
+            "goP": "63",
+            "comeP": "38"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "邮件",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "全部",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "附件",
+        "count": 5,
+        "direction": {
+            "go": 5,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "邮件",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "附件",
+        "count": 0
+    },
+    {
+        "date": "2014",
+        "source": "邮件",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "全部",
+        "count": 5,
+        "direction": {
+            "go": 0,
+            "come": 5,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "附件",
+        "count": 0
+    },
+    {
+        "date": "2015",
+        "source": "邮件",
+        "count": 5,
+        "direction": {
+            "go": 0,
+            "come": 5,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "全部",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "附件",
+        "count": 2,
+        "direction": {
+            "go": 2,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "邮件",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "附件",
+        "count": 0
+    },
+    {
+        "date": "2017",
+        "source": "邮件",
+        "count": 0
+    },
+    {
+        "date": "2018",
+        "source": "全部",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "附件",
+        "count": 1,
+        "direction": {
+            "go": 0,
+            "come": 1,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "邮件",
+        "count": 0
+    },
+    {
+        "date": "2019",
+        "source": "全部",
+        "count": 0
+    },
+    {
+        "date": "2019",
+        "source": "附件",
+        "count": 0
+    },
+    {
+        "date": "2019",
+        "source": "邮件",
+        "count": 0
+    }
+]

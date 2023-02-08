@@ -1,0 +1,470 @@
+[
+    {
+        "date": "2007",
+        "source": "全部",
+        "type": [],
+        "count": 1186,
+        "direction": {
+            "go": 1054,
+            "come": 132,
+            "goP": "89",
+            "comeP": "11"
+        }
+    },
+    {
+        "date": "2007",
+        "source": "come",
+        "type": [],
+        "count": 132,
+        "direction": {
+            "go": 0,
+            "come": 132,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2007",
+        "source": "go",
+        "type": [],
+        "count": 1054,
+        "direction": {
+            "go": 1054,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2008",
+        "source": "全部",
+        "type": [],
+        "count": 262,
+        "direction": {
+            "go": 245,
+            "come": 17,
+            "goP": "94",
+            "comeP": "6"
+        }
+    },
+    {
+        "date": "2008",
+        "source": "come",
+        "type": [],
+        "count": 17,
+        "direction": {
+            "go": 0,
+            "come": 17,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2008",
+        "source": "go",
+        "type": [],
+        "count": 245,
+        "direction": {
+            "go": 245,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "全部",
+        "type": [],
+        "count": 53401,
+        "direction": {
+            "go": 10860,
+            "come": 42541,
+            "goP": "20",
+            "comeP": "80"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "come",
+        "type": [],
+        "count": 42541,
+        "direction": {
+            "go": 0,
+            "come": 42541,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2009",
+        "source": "go",
+        "type": [],
+        "count": 10860,
+        "direction": {
+            "go": 10860,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "全部",
+        "type": [],
+        "count": 274384,
+        "direction": {
+            "go": 71182,
+            "come": 203202,
+            "goP": "26",
+            "comeP": "74"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "come",
+        "type": [],
+        "count": 203202,
+        "direction": {
+            "go": 0,
+            "come": 203202,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2010",
+        "source": "go",
+        "type": [],
+        "count": 71182,
+        "direction": {
+            "go": 71182,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "全部",
+        "type": [],
+        "count": 200229,
+        "direction": {
+            "go": 72041,
+            "come": 128188,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "come",
+        "type": [],
+        "count": 128188,
+        "direction": {
+            "go": 0,
+            "come": 128188,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2011",
+        "source": "go",
+        "type": [],
+        "count": 72041,
+        "direction": {
+            "go": 72041,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "全部",
+        "type": [],
+        "count": 157543,
+        "direction": {
+            "go": 49914,
+            "come": 107629,
+            "goP": "32",
+            "comeP": "68"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "come",
+        "type": [],
+        "count": 107629,
+        "direction": {
+            "go": 0,
+            "come": 107629,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2012",
+        "source": "go",
+        "type": [],
+        "count": 49914,
+        "direction": {
+            "go": 49914,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "全部",
+        "type": [],
+        "count": 109389,
+        "direction": {
+            "go": 33660,
+            "come": 75729,
+            "goP": "31",
+            "comeP": "69"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "come",
+        "type": [],
+        "count": 75729,
+        "direction": {
+            "go": 0,
+            "come": 75729,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2013",
+        "source": "go",
+        "type": [],
+        "count": 33660,
+        "direction": {
+            "go": 33660,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2014",
+        "source": "全部",
+        "type": [],
+        "count": 137875,
+        "direction": {
+            "go": 47540,
+            "come": 90335,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2014",
+        "source": "come",
+        "type": [],
+        "count": 90335,
+        "direction": {
+            "go": 0,
+            "come": 90335,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2014",
+        "source": "go",
+        "type": [],
+        "count": 47540,
+        "direction": {
+            "go": 47540,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "全部",
+        "type": [],
+        "count": 132011,
+        "direction": {
+            "go": 44851,
+            "come": 87160,
+            "goP": "34",
+            "comeP": "66"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "come",
+        "type": [],
+        "count": 87160,
+        "direction": {
+            "go": 0,
+            "come": 87160,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2015",
+        "source": "go",
+        "type": [],
+        "count": 44851,
+        "direction": {
+            "go": 44851,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "全部",
+        "type": [],
+        "count": 232352,
+        "direction": {
+            "go": 91552,
+            "come": 140800,
+            "goP": "39",
+            "comeP": "61"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "come",
+        "type": [],
+        "count": 140800,
+        "direction": {
+            "go": 0,
+            "come": 140800,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2016",
+        "source": "go",
+        "type": [],
+        "count": 91552,
+        "direction": {
+            "go": 91552,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "全部",
+        "type": [],
+        "count": 135490,
+        "direction": {
+            "go": 49273,
+            "come": 86217,
+            "goP": "36",
+            "comeP": "64"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "come",
+        "type": [],
+        "count": 86217,
+        "direction": {
+            "go": 0,
+            "come": 86217,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2017",
+        "source": "go",
+        "type": [],
+        "count": 49273,
+        "direction": {
+            "go": 49273,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "全部",
+        "type": [],
+        "count": 166213,
+        "direction": {
+            "go": 70677,
+            "come": 95536,
+            "goP": "43",
+            "comeP": "57"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "come",
+        "type": [],
+        "count": 95536,
+        "direction": {
+            "go": 0,
+            "come": 95536,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2018",
+        "source": "go",
+        "type": [],
+        "count": 70677,
+        "direction": {
+            "go": 70677,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "全部",
+        "type": [],
+        "count": 88437,
+        "direction": {
+            "go": 36579,
+            "come": 51858,
+            "goP": "41",
+            "comeP": "59"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "come",
+        "type": [],
+        "count": 51858,
+        "direction": {
+            "go": 0,
+            "come": 51858,
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    {
+        "date": "2019",
+        "source": "go",
+        "type": [],
+        "count": 36579,
+        "direction": {
+            "go": 36579,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    }
+]

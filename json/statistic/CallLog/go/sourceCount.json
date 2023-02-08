@@ -1,0 +1,112 @@
+{
+    "sourceData": {
+        "label": "CallLog",
+        "count": 2432,
+        "icon": "/static/icon/source/CallLog.png",
+        "direction": {
+            "go": 2432,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        },
+        "children": [
+            {
+                "label": "呼出已接",
+                "count": 1966,
+                "icon": "/static/icon/type/CallLog-呼出已接.png",
+                "direction": {
+                    "go": 1966,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                },
+                "children": [],
+                "percent": 0.8083881578947368,
+                "index": 0,
+                "level": "5-1",
+                "id": "id_5-1"
+            },
+            {
+                "label": "呼出未接",
+                "count": 466,
+                "icon": "/static/icon/type/CallLog-呼出未接.png",
+                "direction": {
+                    "go": 466,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                },
+                "children": [],
+                "percent": 0.19473464270789803,
+                "index": 1,
+                "level": "5-2",
+                "id": "id_5-2"
+            }
+        ],
+        "index": 4,
+        "level": 5,
+        "percent": 0.027716679013049177,
+        "id": "id_5"
+    },
+    "maxData": {
+        "year": 2014,
+        "total": 610,
+        "direction": {
+            "go": 610,
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        },
+        "max": 22,
+        "maxDirection": "go",
+        "maxDay": [
+            {
+                "date": "2014-10-23",
+                "count": 22,
+                "direction": {
+                    "go": 22,
+                    "come": 0,
+                    "goP": "100",
+                    "comeP": "0"
+                }
+            }
+        ],
+        "activityDay": 104,
+        "activityDayP": "96",
+        "activityDayDirection": {
+            "go": 104,
+            "come": 0,
+            "goP": "96",
+            "comeP": "0"
+        },
+        "allDay": 108,
+        "avg": "5.9",
+        "avgDirection": {
+            "go": "5.9",
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    "avgData": {
+        "total": 2432,
+        "avg": "3.6",
+        "avgDirection": {
+            "go": "3.6",
+            "come": 0,
+            "goP": "100",
+            "comeP": "0"
+        }
+    },
+    "activityDayData": {
+        "allDay": 868,
+        "activityDay": 674,
+        "activityDayP": "78",
+        "activityDayDirection": {
+            "go": 674,
+            "come": 0,
+            "goP": "78",
+            "comeP": "0"
+        }
+    }
+}

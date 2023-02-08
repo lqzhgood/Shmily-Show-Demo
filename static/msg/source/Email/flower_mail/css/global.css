@@ -1,0 +1,57 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    text-align: left
+}
+
+body {
+    margin: 0 auto;
+    text-align: left;
+    font: normal normal normal 12px/1.5em tahoma, Simsun, Arial Unicode MS, Mingliu, Arial, Helvetica;
+    background: #fff url(./bg_main.jpg) repeat-y -794px top;
+    color: #888
+}
+
+a, span, strong, li {
+    font: normal normal normal 1em/1.5em tahoma, Simsun, Arial Unicode MS, Mingliu, Arial, Helvetica
+}
+
+p {
+    line-height: 1em
+}
+
+a {
+    font-family: Simsun, Arial Unicode MS, Mingliu, Arial, Helvetica
+}
+
+a {
+    color: #888;
+    text-decoration: none;
+    cursor: pointer
+}
+
+a:hover {
+    color: #888;
+    text-decoration: underline
+}
+
+li {
+    list-style-type: none
+}
+
+.em {
+    color: #f60
+}
+
+a.em {
+    color: #f60
+}
+
+a.em:hover {
+    color: #f60
+}
+
+/*  |xGv00|c3874c6141ab044bb0b7ae9078b8a642 */

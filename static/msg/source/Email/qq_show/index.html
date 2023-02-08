@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <link rel="stylesheet" rev="stylesheet" href="./css/mail_send.css" type="text/css" media="screen" />
+    <!-- <script type="text/javascript" src="https://imgcache.qq.com/ac/qqshow/v5/version_2/qslib.js" charset="utf-8"></script> -->
+    <script type="text/javascript" src="./core.js"></script>
+</head>
+
+<body class="mail_send" id="bodyid">
+    <p class="mail_description">Hi~送你QQ秀！ </p>
+    <div class="wrap">
+        <div id="single" class="send_item" style="">
+            <h2>获赠物品</h2>
+            <div class="item">
+                <p class="itemPic"><img img id="ID_item_image" width="84" height="84" /></p>
+                <p>
+                    名称：<span id="ID_item_name"></span><br />
+                    价&nbsp;&nbsp;&nbsp;格：<span id="ID_item_QBprice"></span> 币<br />
+                    红钻价：<span class="em" id="ID_item_HZprice"></span> Q币
+                </p>
+            </div>
+            <h2>搭配后的形象</h2>
+            <div class="global_show" id="ID_flash"></div>
+        </div>
+
+        <div class="send_set_item" id="multi" style="display:none">
+            <div class="global_show_img">
+                <p id="ID_flash_2"></p>
+            </div>
+            <p class="note">
+                物品数：<b id="sum"></b><br />
+                价&nbsp;&nbsp;&nbsp;格：<b id="sum_price"></b>Q币<br />
+                红钻价：<b id="vip_sum_price"> </b>币
+            </p>
+        </div>
+
+        <div class="content">
+            <p class="from" id="toname"></p>
+            <p class="reply_content" id="ID_message"></p>
+            <p class="to" id="sender"></p>
+            <p class="more"><a href="" target="_blank" id="tomall" class="em">穿上或者回复好友</a>&nbsp;&nbsp;</p>
+            <p class="tips">请勿轻信汇款、中奖消息，勿轻易拨打陌生人电话。</p>
+        </div>
+    </div>
+</body>
+<script language="javascript">
+    let turl = decodeURI(location.search);
+
+    document.getElementById("toname").innerHTML = "To: " + QSFL.excore.getURLParam("to", turl).escHtml();
+    document.getElementById("ID_message").innerHTML = QSFL.excore.getURLParam("msg", turl).escHtmlEp();
+    document.getElementById("sender").innerHTML = "From: " + QSFL.excore.getURLParam("from", turl).escHtml();
+    document.getElementById("tomall").href = "https://show.qq.com/inc/qqshow_msginfo.html?type=1001&mid=" + parseInt(QSFL.excore.getURLParam("msgid", turl));
+</script>
+
+</html>
+<!--[if !IE]>|xGv00|410084676eee10737173d4c34427608c<![endif]-->

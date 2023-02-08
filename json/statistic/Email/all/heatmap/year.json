@@ -1,0 +1,1878 @@
+{
+    "max": 9,
+    "total": 82,
+    "data": [
+        {
+            "date": "2007-01",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 2,
+            "direction": {
+                "go": 0,
+                "come": 2,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2007,
+            "month": 1
+        },
+        {
+            "date": "2007-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 2
+        },
+        {
+            "date": "2007-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 3
+        },
+        {
+            "date": "2007-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 4
+        },
+        {
+            "date": "2007-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 5
+        },
+        {
+            "date": "2007-06",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2007,
+            "month": 6
+        },
+        {
+            "date": "2007-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 7
+        },
+        {
+            "date": "2007-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 8
+        },
+        {
+            "date": "2007-09",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 9
+        },
+        {
+            "date": "2007-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 10
+        },
+        {
+            "date": "2007-11",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "附件",
+                    "count": 3,
+                    "direction": {
+                        "go": 2,
+                        "come": 1,
+                        "goP": "67",
+                        "comeP": "33"
+                    }
+                }
+            ],
+            "count": 7,
+            "direction": {
+                "go": 6,
+                "come": 1,
+                "goP": "86",
+                "comeP": "14"
+            },
+            "year": 2007,
+            "month": 11
+        },
+        {
+            "date": "2007-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2007,
+            "month": 12
+        },
+        {
+            "date": "2008-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 1
+        },
+        {
+            "date": "2008-02",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2008,
+            "month": 2
+        },
+        {
+            "date": "2008-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 3
+        },
+        {
+            "date": "2008-04",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 2,
+            "direction": {
+                "go": 1,
+                "come": 1,
+                "goP": "50",
+                "comeP": "50"
+            },
+            "year": 2008,
+            "month": 4
+        },
+        {
+            "date": "2008-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 5
+        },
+        {
+            "date": "2008-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 6
+        },
+        {
+            "date": "2008-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 7
+        },
+        {
+            "date": "2008-08",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2008,
+            "month": 8
+        },
+        {
+            "date": "2008-09",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 9
+        },
+        {
+            "date": "2008-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 10
+        },
+        {
+            "date": "2008-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 11
+        },
+        {
+            "date": "2008-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2008,
+            "month": 12
+        },
+        {
+            "date": "2009-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 1
+        },
+        {
+            "date": "2009-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 2
+        },
+        {
+            "date": "2009-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 3
+        },
+        {
+            "date": "2009-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 4
+        },
+        {
+            "date": "2009-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 5
+        },
+        {
+            "date": "2009-06",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 2,
+                    "direction": {
+                        "go": 1,
+                        "come": 1,
+                        "goP": "50",
+                        "comeP": "50"
+                    }
+                },
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 3,
+            "direction": {
+                "go": 2,
+                "come": 1,
+                "goP": "67",
+                "comeP": "33"
+            },
+            "year": 2009,
+            "month": 6
+        },
+        {
+            "date": "2009-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 7
+        },
+        {
+            "date": "2009-08",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 2,
+                    "direction": {
+                        "go": 0,
+                        "come": 2,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 2,
+            "direction": {
+                "go": 0,
+                "come": 2,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2009,
+            "month": 8
+        },
+        {
+            "date": "2009-09",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2009,
+            "month": 9
+        },
+        {
+            "date": "2009-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 10
+        },
+        {
+            "date": "2009-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 11
+        },
+        {
+            "date": "2009-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2009,
+            "month": 12
+        },
+        {
+            "date": "2010-01",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 3,
+                    "direction": {
+                        "go": 2,
+                        "come": 1,
+                        "goP": "67",
+                        "comeP": "33"
+                    }
+                }
+            ],
+            "count": 3,
+            "direction": {
+                "go": 2,
+                "come": 1,
+                "goP": "67",
+                "comeP": "33"
+            },
+            "year": 2010,
+            "month": 1
+        },
+        {
+            "date": "2010-02",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 9,
+                    "direction": {
+                        "go": 0,
+                        "come": 9,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 9,
+            "direction": {
+                "go": 0,
+                "come": 9,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2010,
+            "month": 2
+        },
+        {
+            "date": "2010-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 3
+        },
+        {
+            "date": "2010-04",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 3,
+                    "direction": {
+                        "go": 1,
+                        "come": 2,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                }
+            ],
+            "count": 3,
+            "direction": {
+                "go": 1,
+                "come": 2,
+                "goP": "33",
+                "comeP": "67"
+            },
+            "year": 2010,
+            "month": 4
+        },
+        {
+            "date": "2010-05",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 5
+        },
+        {
+            "date": "2010-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 6
+        },
+        {
+            "date": "2010-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 7
+        },
+        {
+            "date": "2010-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 8
+        },
+        {
+            "date": "2010-09",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 9
+        },
+        {
+            "date": "2010-10",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2010,
+            "month": 10
+        },
+        {
+            "date": "2010-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2010,
+            "month": 11
+        },
+        {
+            "date": "2010-12",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 5,
+                    "direction": {
+                        "go": 0,
+                        "come": 5,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 6,
+            "direction": {
+                "go": 1,
+                "come": 5,
+                "goP": "17",
+                "comeP": "83"
+            },
+            "year": 2010,
+            "month": 12
+        },
+        {
+            "date": "2011-01",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2011,
+            "month": 1
+        },
+        {
+            "date": "2011-02",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 3,
+                    "direction": {
+                        "go": 1,
+                        "come": 2,
+                        "goP": "33",
+                        "comeP": "67"
+                    }
+                },
+                {
+                    "type": "邮件",
+                    "count": 4,
+                    "direction": {
+                        "go": 0,
+                        "come": 4,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 7,
+            "direction": {
+                "go": 1,
+                "come": 6,
+                "goP": "14",
+                "comeP": "86"
+            },
+            "year": 2011,
+            "month": 2
+        },
+        {
+            "date": "2011-03",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 4,
+                    "direction": {
+                        "go": 4,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                },
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 5,
+            "direction": {
+                "go": 5,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 3
+        },
+        {
+            "date": "2011-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 4
+        },
+        {
+            "date": "2011-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 5
+        },
+        {
+            "date": "2011-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 6
+        },
+        {
+            "date": "2011-07",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2011,
+            "month": 7
+        },
+        {
+            "date": "2011-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 8
+        },
+        {
+            "date": "2011-09",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 9
+        },
+        {
+            "date": "2011-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2011,
+            "month": 10
+        },
+        {
+            "date": "2011-11",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2011,
+            "month": 11
+        },
+        {
+            "date": "2011-12",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2011,
+            "month": 12
+        },
+        {
+            "date": "2012-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 1
+        },
+        {
+            "date": "2012-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 2
+        },
+        {
+            "date": "2012-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 3
+        },
+        {
+            "date": "2012-04",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2012,
+            "month": 4
+        },
+        {
+            "date": "2012-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 5
+        },
+        {
+            "date": "2012-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 6
+        },
+        {
+            "date": "2012-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 7
+        },
+        {
+            "date": "2012-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 8
+        },
+        {
+            "date": "2012-09",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 3,
+            "direction": {
+                "go": 3,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2012,
+            "month": 9
+        },
+        {
+            "date": "2012-10",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                },
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 2,
+            "direction": {
+                "go": 0,
+                "come": 2,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2012,
+            "month": 10
+        },
+        {
+            "date": "2012-11",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 3,
+                    "direction": {
+                        "go": 2,
+                        "come": 1,
+                        "goP": "67",
+                        "comeP": "33"
+                    }
+                }
+            ],
+            "count": 3,
+            "direction": {
+                "go": 2,
+                "come": 1,
+                "goP": "67",
+                "comeP": "33"
+            },
+            "year": 2012,
+            "month": 11
+        },
+        {
+            "date": "2012-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2012,
+            "month": 12
+        },
+        {
+            "date": "2013-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 1
+        },
+        {
+            "date": "2013-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 2
+        },
+        {
+            "date": "2013-03",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 3,
+                    "direction": {
+                        "go": 3,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 3,
+            "direction": {
+                "go": 3,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 3
+        },
+        {
+            "date": "2013-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 4
+        },
+        {
+            "date": "2013-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 5
+        },
+        {
+            "date": "2013-06",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 2,
+                    "direction": {
+                        "go": 2,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 2,
+            "direction": {
+                "go": 2,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2013,
+            "month": 6
+        },
+        {
+            "date": "2013-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 7
+        },
+        {
+            "date": "2013-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 8
+        },
+        {
+            "date": "2013-09",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 9
+        },
+        {
+            "date": "2013-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 10
+        },
+        {
+            "date": "2013-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 11
+        },
+        {
+            "date": "2013-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2013,
+            "month": 12
+        },
+        {
+            "date": "2014-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 1
+        },
+        {
+            "date": "2014-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 2
+        },
+        {
+            "date": "2014-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 3
+        },
+        {
+            "date": "2014-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 4
+        },
+        {
+            "date": "2014-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 5
+        },
+        {
+            "date": "2014-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 6
+        },
+        {
+            "date": "2014-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 7
+        },
+        {
+            "date": "2014-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 8
+        },
+        {
+            "date": "2014-09",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 9
+        },
+        {
+            "date": "2014-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 10
+        },
+        {
+            "date": "2014-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 11
+        },
+        {
+            "date": "2014-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2014,
+            "month": 12
+        },
+        {
+            "date": "2015-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 1
+        },
+        {
+            "date": "2015-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 2
+        },
+        {
+            "date": "2015-03",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2015,
+            "month": 3
+        },
+        {
+            "date": "2015-04",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2015,
+            "month": 4
+        },
+        {
+            "date": "2015-05",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "邮件",
+                    "count": 3,
+                    "direction": {
+                        "go": 0,
+                        "come": 3,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 3,
+            "direction": {
+                "go": 0,
+                "come": 3,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2015,
+            "month": 5
+        },
+        {
+            "date": "2015-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 6
+        },
+        {
+            "date": "2015-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 7
+        },
+        {
+            "date": "2015-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 8
+        },
+        {
+            "date": "2015-09",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 9
+        },
+        {
+            "date": "2015-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 10
+        },
+        {
+            "date": "2015-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 11
+        },
+        {
+            "date": "2015-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2015,
+            "month": 12
+        },
+        {
+            "date": "2016-01",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2016,
+            "month": 1
+        },
+        {
+            "date": "2016-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 2
+        },
+        {
+            "date": "2016-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 3
+        },
+        {
+            "date": "2016-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 4
+        },
+        {
+            "date": "2016-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 5
+        },
+        {
+            "date": "2016-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 6
+        },
+        {
+            "date": "2016-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 7
+        },
+        {
+            "date": "2016-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 8
+        },
+        {
+            "date": "2016-09",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 1,
+                        "come": 0,
+                        "goP": "100",
+                        "comeP": "0"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 1,
+                "come": 0,
+                "goP": "100",
+                "comeP": "0"
+            },
+            "year": 2016,
+            "month": 9
+        },
+        {
+            "date": "2016-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 10
+        },
+        {
+            "date": "2016-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 11
+        },
+        {
+            "date": "2016-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2016,
+            "month": 12
+        },
+        {
+            "date": "2017-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 1
+        },
+        {
+            "date": "2017-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 2
+        },
+        {
+            "date": "2017-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 3
+        },
+        {
+            "date": "2017-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 4
+        },
+        {
+            "date": "2017-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 5
+        },
+        {
+            "date": "2017-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 6
+        },
+        {
+            "date": "2017-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 7
+        },
+        {
+            "date": "2017-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 8
+        },
+        {
+            "date": "2017-09",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 9
+        },
+        {
+            "date": "2017-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 10
+        },
+        {
+            "date": "2017-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 11
+        },
+        {
+            "date": "2017-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2017,
+            "month": 12
+        },
+        {
+            "date": "2018-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 1
+        },
+        {
+            "date": "2018-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 2
+        },
+        {
+            "date": "2018-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 3
+        },
+        {
+            "date": "2018-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 4
+        },
+        {
+            "date": "2018-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 5
+        },
+        {
+            "date": "2018-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 6
+        },
+        {
+            "date": "2018-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 7
+        },
+        {
+            "date": "2018-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 8
+        },
+        {
+            "date": "2018-09",
+            "source": "Email",
+            "type": [
+                {
+                    "type": "附件",
+                    "count": 1,
+                    "direction": {
+                        "go": 0,
+                        "come": 1,
+                        "goP": "0",
+                        "comeP": "100"
+                    }
+                }
+            ],
+            "count": 1,
+            "direction": {
+                "go": 0,
+                "come": 1,
+                "goP": "0",
+                "comeP": "100"
+            },
+            "year": 2018,
+            "month": 9
+        },
+        {
+            "date": "2018-10",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 10
+        },
+        {
+            "date": "2018-11",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 11
+        },
+        {
+            "date": "2018-12",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2018,
+            "month": 12
+        },
+        {
+            "date": "2019-01",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 1
+        },
+        {
+            "date": "2019-02",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 2
+        },
+        {
+            "date": "2019-03",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 3
+        },
+        {
+            "date": "2019-04",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 4
+        },
+        {
+            "date": "2019-05",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 5
+        },
+        {
+            "date": "2019-06",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 6
+        },
+        {
+            "date": "2019-07",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 7
+        },
+        {
+            "date": "2019-08",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 8
+        },
+        {
+            "date": "2019-09",
+            "source": "Email",
+            "type": [],
+            "count": 0,
+            "year": 2019,
+            "month": 9
+        }
+    ]
+}

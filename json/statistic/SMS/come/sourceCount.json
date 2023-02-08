@@ -1,0 +1,128 @@
+{
+    "sourceData": {
+        "label": "SMS",
+        "count": 2332,
+        "icon": "/static/icon/source/SMS.png",
+        "direction": {
+            "go": 0,
+            "come": 2332,
+            "goP": "0",
+            "comeP": "100"
+        },
+        "children": [
+            {
+                "label": "短信",
+                "count": 1599,
+                "icon": "/static/icon/type/SMS-短信.png",
+                "direction": {
+                    "go": 0,
+                    "come": 1599,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.685971685971686,
+                "index": 0,
+                "level": "2-1",
+                "id": "id_2-1"
+            },
+            {
+                "label": "彩信",
+                "count": 53,
+                "icon": "/static/icon/type/SMS-彩信.png",
+                "direction": {
+                    "go": 0,
+                    "come": 53,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.022727272727272728,
+                "index": 1,
+                "level": "2-2",
+                "id": "id_2-2"
+            },
+            {
+                "label": "飞信",
+                "count": 680,
+                "icon": "/static/icon/type/SMS-飞信.png",
+                "direction": {
+                    "go": 0,
+                    "come": 680,
+                    "goP": "0",
+                    "comeP": "100"
+                },
+                "children": [],
+                "percent": 0.31805425631431244,
+                "index": 2,
+                "level": "2-3",
+                "id": "id_2-3"
+            }
+        ],
+        "index": 1,
+        "level": 2,
+        "percent": 0.014237830379329504,
+        "id": "id_2"
+    },
+    "maxData": {
+        "year": 2014,
+        "total": 90,
+        "direction": {
+            "go": 0,
+            "come": 90,
+            "goP": "0",
+            "comeP": "100"
+        },
+        "max": 70,
+        "maxDirection": "come",
+        "maxDay": [
+            {
+                "date": "2014-09-14",
+                "count": 70,
+                "direction": {
+                    "go": 0,
+                    "come": 70,
+                    "goP": "0",
+                    "comeP": "100"
+                }
+            }
+        ],
+        "activityDay": 8,
+        "activityDayP": "8",
+        "activityDayDirection": {
+            "go": 0,
+            "come": 8,
+            "goP": "0",
+            "comeP": "8"
+        },
+        "allDay": 106,
+        "avg": "11.3",
+        "avgDirection": {
+            "go": 0,
+            "come": "11.3",
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    "avgData": {
+        "total": 2332,
+        "avg": "4.8",
+        "avgDirection": {
+            "go": 0,
+            "come": "4.8",
+            "goP": "0",
+            "comeP": "100"
+        }
+    },
+    "activityDayData": {
+        "allDay": 1374,
+        "activityDay": 490,
+        "activityDayP": "36",
+        "activityDayDirection": {
+            "go": 0,
+            "come": 490,
+            "goP": "0",
+            "comeP": "36"
+        }
+    }
+}
