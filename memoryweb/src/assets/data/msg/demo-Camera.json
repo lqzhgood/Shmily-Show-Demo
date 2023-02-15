@@ -1,0 +1,113 @@
+[
+    {
+        "source": "Camera",
+        "device": "Phone",
+        "type": "图",
+        "direction": "go",
+        "day": "2020-01-01",
+        "time": "05:00:00",
+        "ms": 1577826000000,
+        "content": "[图]",
+        "html": "<img src=\"/data/Camera/2012-06-28 12-59-04 Camera 2012-06-28 12-59-04 8a1d3f.jpg\" />",
+        "$Camera": {
+            "data": {
+                "exif": {
+                    "GPSPosition": "39 deg 54' 28.30\" N, 116 deg 23' 53.10\" E",
+                    "GPSLatitude": "39 deg 54' 28.30\" N",
+                    "GPSLongitude": "116 deg 23' 53.10\" E",
+                    "SourceFile": "input/Merge/2009-10-02 11-38-56 b6723f & 20091002(007).jpg",
+                    "ExifToolVersion": 11.87,
+                    "JFIFVersion": 1.01,
+                    "ResolutionUnit": "None",
+                    "XResolution": 1,
+                    "YResolution": 1,
+                    "ImageSize": "1349x197",
+                    "Megapixels": 0.266
+                }
+            }
+        },
+        "senderName": "Fish",
+        "receiverName": "果果",
+        "id": "demo-Camera.json_2020-01-01_05-00-00_g_27a6bd_1"
+    },
+    {
+        "source": "Camera",
+        "device": "Phone",
+        "type": "视频",
+        "direction": "go",
+        "day": "2020-01-01",
+        "time": "06:00:00",
+        "ms": 1577829600000,
+        "content": "[视频]",
+        "html": "<video src=\"/data/Camera/2017-02-25 23-19-43 Wechat 23194625021705dc65d62576.mp4\" controls></video>",
+        "$Camera": {
+            "data": {
+                "exif": {
+                    "SourceFile": "input/Merge/2009-10-07 16-46-59 385ed9 & 20091007.mp4",
+                    "ExifToolVersion": 11.87,
+                    "MajorBrand": "MP4 v2 [ISO 14496-14]",
+                    "MinorVersion": "0.0.0",
+                    "CompatibleBrands": [
+                        "mp42",
+                        "3gp4",
+                        "isom"
+                    ],
+                    "MediaDataSize": 2738936,
+                    "MediaDataOffset": 36,
+                    "MovieHeaderVersion": 0,
+                    "CreateDate": "2009:10:07 08:46:59",
+                    "ModifyDate": "2009:10:07 08:46:59",
+                    "TimeScale": 10000,
+                    "Duration": "0:00:49",
+                    "PreferredRate": 1,
+                    "PreferredVolume": "100.00%",
+                    "PreviewTime": "0 s",
+                    "PreviewDuration": "0 s",
+                    "PosterTime": "0 s",
+                    "SelectionTime": "0 s",
+                    "SelectionDuration": "0 s",
+                    "CurrentTime": "0 s",
+                    "NextTrackID": 65536,
+                    "TrackHeaderVersion": 0,
+                    "TrackCreateDate": "2009:10:07 08:46:59",
+                    "TrackModifyDate": "2009:10:07 08:46:59",
+                    "TrackID": 1,
+                    "TrackDuration": "0:00:49",
+                    "TrackLayer": 0,
+                    "TrackVolume": "0.00%",
+                    "ImageWidth": 320,
+                    "ImageHeight": 240,
+                    "GraphicsMode": "srcCopy",
+                    "OpColor": "0 0 0",
+                    "CompressorID": "mp4v",
+                    "SourceImageWidth": 320,
+                    "SourceImageHeight": 240,
+                    "XResolution": 72,
+                    "YResolution": 72,
+                    "BitDepth": 24,
+                    "VideoFrameRate": 9.449,
+                    "MatrixStructure": "1 0 0 0 1 0 0 0 1",
+                    "MediaHeaderVersion": 0,
+                    "MediaCreateDate": "2009:10:07 08:46:59",
+                    "MediaModifyDate": "2009:10:07 08:46:59",
+                    "MediaTimeScale": 48000,
+                    "MediaDuration": "0:00:49",
+                    "MediaLanguageCode": "und",
+                    "HandlerType": "Audio Track",
+                    "Balance": 0,
+                    "AudioFormat": "mp4a",
+                    "AudioChannels": 2,
+                    "AudioBitsPerSample": 16,
+                    "AudioSampleRate": 48000,
+                    "ImageSize": "320x240",
+                    "Megapixels": 0.077,
+                    "AvgBitrate": "447 kbps",
+                    "Rotation": 0
+                }
+            }
+        },
+        "senderName": "Fish",
+        "receiverName": "果果",
+        "id": "demo-Camera.json_2020-01-01_06-00-00_g_0e2af6_1"
+    }
+]

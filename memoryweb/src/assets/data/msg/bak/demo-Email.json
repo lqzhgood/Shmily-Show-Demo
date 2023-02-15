@@ -1,0 +1,255 @@
+[
+    {
+        "source": "Email",
+        "device": "PC",
+        "type": "邮件",
+        "direction": "come",
+        "sender": "south@qq.com",
+        "senderName": "果果",
+        "receiver": "north@qq.com",
+        "receiverName": "Fish",
+        "day": "2020-01-01",
+        "time": "07:00:00",
+        "ms": 1577833200000,
+        "content": "o",
+        "html": "<h3 class=\"email-title\">o</h3>",
+        "$Email": {
+            "raw": {
+                "attachments": [
+                    {
+                        "name": "Cursors.rar",
+                        "originName": "Cursors.rar",
+                        "url": "./data/Email/20090626_115500 o/Cursors.rar",
+                        "ext": ".rar",
+                        "size": "5.33M"
+                    }
+                ],
+                "headers": {
+                    "X-Originating-IP": "",
+                    "X-QQ-STYLE": "",
+                    "From": "",
+                    "To": "",
+                    "Sender": "",
+                    "Subject": "o",
+                    "Mime-Version": "",
+                    "Content-Type": "",
+                    "Content-Transfer-Encoding": "",
+                    "Date": "",
+                    "X-Priority": "",
+                    "Message-ID": "",
+                    "X-QQ-MIME": "",
+                    "X-Mailer": "",
+                    "X-QQ-Mailer": ""
+                }
+            },
+            "data": {
+                "attachments": [
+                    {
+                        "name": "Cursors.rar",
+                        "originName": "Cursors.rar",
+                        "url": "./data/Email/20090626_115500 o/Cursors.rar",
+                        "ext": ".rar",
+                        "size": "5.33M"
+                    }
+                ]
+            }
+        },
+        "id": "demo-Email.json_2020-01-01_07-00-00_c_f2f23f_1"
+    },
+    {
+        "source": "Email",
+        "device": "PC",
+        "type": "邮件",
+        "direction": "go",
+        "sender": "north@qq.cn",
+        "senderName": "Fish",
+        "receiver": "south@qq.com",
+        "receiverName": "果果",
+        "day": "2020-01-01",
+        "time": "08:00:00",
+        "ms": 1577836800000,
+        "content": "生日快乐！",
+        "html": "<h3 class=\"email-title\">生日礼物</h3><div>x：</div>  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 生日快乐！</div>  <div>&nbsp;&nbsp; 这个 5x5 的因该不是特别难吧~~&nbsp;</div>  <div>&nbsp; &nbsp;玩完后记得到处点点哦！</div>",
+        "$Email": {
+            "raw": {
+                "attachments": [],
+                "headers": {
+                    "X-Apparently-To": "",
+                    "X-Originating-IP": "",
+                    "Authentication-Results": "",
+                    "Received": [],
+                    "DomainKey-Signature": "",
+                    "X-YMail-OSG": "",
+                    "Date": "",
+                    "From": "",
+                    "Subject": "",
+                    "To": "",
+                    "MIME-Version": "",
+                    "Content-Type": "",
+                    "Content-Transfer-Encoding": "",
+                    "Message-ID": "",
+                    "X-QQ-Popagent-Recv": "",
+                    "X-QQ-mid": "",
+                    "X-QQ-SSF": ""
+                }
+            },
+            "data": {
+                "attachments": []
+            }
+        },
+        "id": "demo-Email.json_2020-01-01_08-00-00_g_12b8b7_1"
+    },
+    {
+        "source": "Email",
+        "device": "PC",
+        "type": "附件",
+        "direction": "come",
+        "sender": "south@qq.com",
+        "senderName": "果果",
+        "receiver": "north@qq.com",
+        "receiverName": "Fish",
+        "day": "2020-01-01",
+        "time": "09:00:00",
+        "ms": 1577840400000,
+        "content": "字体\n\n\n \n\n\n\n\n\n\n\n\n:　　\n     考试加油哦.!\n \n \n       \n\n\n\n \n\n 网易邮箱精准过滤超过 96%的垃圾邮件 www.126.com \n\n 附件: 正谦樱桃小丸子字  .TTF | 华康童童体.ttf | 方正胖头鱼简体.TTF",
+        "html": "<h3 class=\"email-title\">字体</h3><TABLE style=\"BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #f3f7f7\" height=90 cellSpacing=0 cellPadding=0 width=\"99%\" background=./data/Email/20070128_145138%20%E5%AD%97%E4%BD%93/web_b74dddfac3b4d8fb7eedc8fa1e06ad73.jpg>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"BACKGROUND-POSITION: 50% 0px; BACKGROUND-REPEAT: no-repeat\" background=./data/Email/20070128_145138%20%E5%AD%97%E4%BD%93/web_9458d75a71d48c23d63f042a19da7d28.gif>&nbsp;</TD></TR></TBODY></TABLE>\r\n<TABLE style=\"BACKGROUND-COLOR: #ffffff\" cellSpacing=0 cellPadding=0 width=\"99%\">\r\n<TBODY>\r\n<TR>\r\n<TD style=\"PADDING-RIGHT: 15px; BACKGROUND-POSITION: 50% 100%; PADDING-LEFT: 15px; PADDING-BOTTOM: 50px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat\"><BR>\r\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\">\r\n<TBODY>\r\n<TR>\r\n<TD style=\"TABLE-LAYOUT: fixed; PADDING-RIGHT: 10px; PADDING-LEFT: 12px; PADDING-BOTTOM: 15px; COLOR: #d94164; WORD-BREAK: break-all; LINE-HEIGHT: 34px; PADDING-TOP: 7px\" background=./data/Email/20070128_145138%20%E5%AD%97%E4%BD%93/web_ea74b4b4b6ba5cd47ff293006fdf485a.gif>\r\n<DIV><STATIONERY>:　　<BR>\r\n<DIV>&nbsp;&nbsp;&nbsp; <IMG src=\"./data/Email/20070128_145138%20%E5%AD%97%E4%BD%93/web_31541c3f4d129947399f555c70236d2b.gif\">&nbsp;考试加油哦.!</DIV>\r\n<DIV>&nbsp;</DIV>\r\n<DIV>&nbsp;</DIV>\r\n<DIV>&nbsp;</DIV><BR><BR><BR><BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR><STATIONERY></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>\r\n<TABLE style=\"BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #f3f7f7\" height=89 cellSpacing=0 cellPadding=0 width=\"99%\" background=./data/Email/20070128_145138%20%E5%AD%97%E4%BD%93/web_60eb0b184655258d89ce91542c6e7bf4.jpg>\r\n<TBODY>\r\n<TR>\r\n<TD style=\"BACKGROUND-POSITION: 50% 0px; BACKGROUND-REPEAT: no-repeat\" background=./data/Email/20070128_145138%20%E5%AD%97%E4%BD%93/web_075886f55b77bf016413a0b37261d2f4.jpg>&nbsp;</TD></TR></TBODY></TABLE><br><!-- footer --><br>\r\n<hr>\r\n<a style=\"font-size:12px;line-height:15px; color:#000; text-decoration:none\" href=\"http://www.126.com/index.htm\" target=\"_blank\">网易邮箱精准过滤超过 96%的垃圾邮件 <span style=\"font-family:Tahoma; text-decoration:underline; color:blue\">www.126.com</span> </a>\r\n",
+        "$Email": {
+            "raw": {
+                "attachments": [
+                    {
+                        "name": "正谦樱桃小丸子字  .TTF",
+                        "originName": "正谦樱桃小丸子字  .TTF",
+                        "url": "./data/Email/20070128_145138 字体/正谦樱桃小丸子字  .TTF",
+                        "ext": ".TTF",
+                        "size": "3.98 MB"
+                    },
+                    {
+                        "name": "华康童童体.ttf",
+                        "originName": "华康童童体.ttf",
+                        "url": "./data/Email/20070128_145138 字体/华康童童体.ttf",
+                        "ext": ".ttf",
+                        "size": "9.01 MB"
+                    },
+                    {
+                        "name": "方正胖头鱼简体.TTF",
+                        "originName": "方正胖头鱼简体.TTF",
+                        "url": "./data/Email/20070128_145138 字体/方正胖头鱼简体.TTF",
+                        "ext": ".TTF",
+                        "size": "3.03 MB"
+                    }
+                ],
+                "headers": {
+                    "X-RocketMail": "",
+                    "X-RocketUID": "",
+                    "X-RocketMIF": "",
+                    "X-RocketYMUMID": "",
+                    "X-Apparently-To": "",
+                    "X-RocketRCL": "",
+                    "X-Rocket-Track": "",
+                    "X-Originating-IP": [
+                        "",
+                        ""
+                    ],
+                    "Return-Path": "",
+                    "Authentication-Results": "",
+                    "Received": [
+                        "",
+                        ""
+                    ],
+                    "Date": "",
+                    "From": "",
+                    "To": "",
+                    "Message-ID": "",
+                    "Subject": "",
+                    "MIME-Version": "",
+                    "Content-Type": "",
+                    "X-Priority": "",
+                    "X-Mailer": "",
+                    "Content-Length": "",
+                    "X-QQ-Popagent-Recv": "",
+                    "X-QQ-mid": "",
+                    "X-QQ-SSF": ""
+                }
+            },
+            "data": {
+                "attachments": [
+                    {
+                        "name": "正谦樱桃小丸子字  .TTF",
+                        "originName": "正谦樱桃小丸子字  .TTF",
+                        "url": "./data/Email/20070128_145138 字体/正谦樱桃小丸子字  .TTF",
+                        "ext": ".TTF",
+                        "size": "3.98 MB"
+                    },
+                    {
+                        "name": "华康童童体.ttf",
+                        "originName": "华康童童体.ttf",
+                        "url": "./data/Email/20070128_145138 字体/华康童童体.ttf",
+                        "ext": ".ttf",
+                        "size": "9.01 MB"
+                    },
+                    {
+                        "name": "方正胖头鱼简体.TTF",
+                        "originName": "方正胖头鱼简体.TTF",
+                        "url": "./data/Email/20070128_145138 字体/方正胖头鱼简体.TTF",
+                        "ext": ".TTF",
+                        "size": "3.03 MB"
+                    }
+                ]
+            }
+        },
+        "id": "demo-Email.json_2020-01-01_09-00-00_c_b09c43_1"
+    },
+    {
+        "source": "Email",
+        "device": "PC",
+        "type": "附件",
+        "direction": "go",
+        "sender": "north@qq.com",
+        "senderName": "Fish",
+        "receiver": "south@qq.com",
+        "receiverName": "果果",
+        "day": "2020-01-01",
+        "time": "10:00:00",
+        "ms": 1577844000000,
+        "content": " 邮件主题~~注：已附加转发邮件。 \n\n\n\n      抢注雅虎免费邮箱 3.5G 容量，20M 附件！ \n\n 附件: My Pictures.rar",
+        "html": "<h3 class=\"email-title\"> 邮件主题~~</h3><BR><BR>注：已附加转发邮件。<p>&#32;\r\n\r\n\r\n\r\n      <hr size=1><a href=\"http://cn.mail.yahoo.com\" target=blank>抢注雅虎免费邮箱 3.5G 容量，20M 附件！</a> \r\n",
+        "$Email": {
+            "raw": {
+                "attachments": [
+                    {
+                        "name": "My Pictures.rar",
+                        "originName": "My Pictures.rar",
+                        "url": "./data/Email/20070621_132444/My Pictures.rar",
+                        "ext": ".rar",
+                        "size": "125 kB"
+                    }
+                ],
+                "headers": {
+                    "Received": "",
+                    "Date": "",
+                    "From": "",
+                    "Subject": "",
+                    "To": "",
+                    "MIME-Version": "",
+                    "Content-Type": "",
+                    "Content-Transfer-Encoding": "",
+                    "X-QQ-Popagent-Recv": "",
+                    "X-QQ-mid": "",
+                    "X-QQ-SSF": ""
+                }
+            },
+            "data": {
+                "attachments": [
+                    {
+                        "name": "My Pictures.rar",
+                        "originName": "My Pictures.rar",
+                        "url": "./data/Email/20070621_132444/My Pictures.rar",
+                        "ext": ".rar",
+                        "size": "125 kB"
+                    }
+                ]
+            }
+        },
+        "id": "demo-Email.json_2020-01-01_10-00-00_g_ba0d36_1"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "source": "CallLog",
+        "device": "Phone",
+        "type": "呼入已接",
+        "direction": "come",
+        "sender": "19999999999",
+        "senderName": "果果",
+        "receiver": "13000000000",
+        "receiverName": "Fish",
+        "day": "2020-01-01",
+        "time": "00:00:00",
+        "ms": 1577808000000,
+        "id": "demo-CallLog.json_2020-01-01_00-00-00_c_5e5432_1",
+        "$CallLog": {
+            "data": {
+                "duration": 18,
+                "location": "南极",
+                "price": 0.4
+            }
+        }
+    },
+    {
+        "source": "CallLog",
+        "device": "Phone",
+        "type": "呼入挂断",
+        "direction": "come",
+        "sender": "19999999999",
+        "senderName": "果果",
+        "receiver": "13000000000",
+        "receiverName": "Fish",
+        "day": "2020-01-01",
+        "time": "01:00:00",
+        "ms": 1577811600000,
+        "id": "demo-CallLog.json_2020-01-01_01-00-00_c_5e5432_1",
+        "$CallLog": {
+            "data": {
+                "duration": 0
+            }
+        }
+    },
+    {
+        "source": "CallLog",
+        "device": "Phone",
+        "type": "呼入未接",
+        "direction": "come",
+        "sender": "19999999999",
+        "senderName": "果果",
+        "receiver": "13000000000",
+        "receiverName": "Fish",
+        "day": "2020-01-01",
+        "time": "02:00:00",
+        "ms": 1577815200000,
+        "id": "demo-CallLog.json_2020-01-01_02-00-00_c_5e5432_1",
+        "$CallLog": {
+            "data": {
+                "duration": 0
+            }
+        }
+    },
+    {
+        "source": "CallLog",
+        "device": "Phone",
+        "type": "呼出已接",
+        "direction": "go",
+        "sender": "13000000000",
+        "senderName": "Fish",
+        "receiver": "19999999999",
+        "receiverName": "果果",
+        "day": "2020-01-01",
+        "time": "03:00:00",
+        "ms": 1577818800000,
+        "id": "demo-CallLog.json_2020-01-01_03-00-00_g_5e5432_1",
+        "$CallLog": {
+            "data": {
+                "duration": 1564,
+                "location": "北极",
+                "price": 0
+            }
+        }
+    },
+    {
+        "source": "CallLog",
+        "device": "Phone",
+        "type": "呼出未接",
+        "direction": "go",
+        "sender": "13000000000",
+        "senderName": "Fish",
+        "receiver": "19999999999",
+        "receiverName": "果果",
+        "day": "2020-01-01",
+        "time": "04:00:00",
+        "ms": 1577822400000,
+        "id": "demo-CallLog.json_2020-01-01_04-00-00_g_5e5432_1",
+        "$CallLog": {
+            "data": {
+                "duration": 0
+            }
+        }
+    }
+]

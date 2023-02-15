@@ -1,0 +1,166 @@
+[
+    {
+        "source": "MobileQQ",
+        "device": "Nokia 6220c",
+        "type": "文件",
+        "direction": "come",
+        "sender": "12345678",
+        "senderName": "果果",
+        "receiver": "0000000",
+        "receiverName": "Fish",
+        "day": "2020-01-01",
+        "time": "21:00:00",
+        "ms": 1577883600000,
+        "content": "取消发送  E:\\QQDownload\\Audio\\QQ1419113632.amr",
+        "html": "取消发送  E:\\QQDownload\\Audio\\QQ1419113632.amr<div><a href=\"./data/qq-s60/file/E/QQDownload/Audio/QQ1419113632.amr\" download>QQ1419113632.amr</a></div>",
+        "isFromOtherAccount": true,
+        "$MobileQQ": {
+            "key": {
+                "s60type": "消息 a8",
+                "s60direction": 144
+            },
+            "data": {
+                "fileParse": {
+                    "root": "",
+                    "dir": "E/QQDownload/Audio",
+                    "base": "QQ1419113632.amr",
+                    "ext": ".amr",
+                    "name": "QQ1419113632",
+                    "url": "./data/qq-s60/file/E/QQDownload/Audio/QQ1419113632.amr"
+                }
+            },
+            "os": "s60v3"
+        },
+        "id": "demo-MobieQQ-S60v3.json_2020-01-01_21-00-00_c_1f6a47_1"
+    },
+    {
+        "source": "MobileQQ",
+        "device": "Nokia 6220c",
+        "type": "文件",
+        "direction": "go",
+        "sender": "0000000",
+        "senderName": "Fish",
+        "receiver": "12345678",
+        "receiverName": "果果",
+        "day": "2020-01-01",
+        "time": "22:00:00",
+        "ms": 1577887200000,
+        "content": "接收成功  ActiveLock_v1.0.S60v3.SymbianOS9.1.Unsign.CHS-OPDA.sis",
+        "html": "接收成功  ActiveLock_v1.0.S60v3.SymbianOS9.1.Unsign.CHS-OPDA.sis<div><a href=\"./data/qq-s60/file/ActiveLock_v1.0.S60v3.SymbianOS9.1.Unsign.CHS-OPDA.sis\" download>ActiveLock_v1.0.S60v3.SymbianOS9.1.Unsign.CHS-OPDA.sis</a></div>",
+        "isFromOtherAccount": true,
+        "$MobileQQ": {
+            "key": {
+                "s60type": "消息 a8",
+                "s60direction": 16
+            },
+            "data": {
+                "s60RealTime": "2009-10-05 11:55:24",
+                "fileParse": {
+                    "root": "",
+                    "dir": "",
+                    "base": "ActiveLock_v1.0.S60v3.SymbianOS9.1.Unsign.CHS-OPDA.sis",
+                    "ext": ".sis",
+                    "name": "ActiveLock_v1.0.S60v3.SymbianOS9.1.Unsign.CHS-OPDA",
+                    "url": "./data/qq-s60/file/ActiveLock_v1.0.S60v3.SymbianOS9.1.Unsign.CHS-OPDA.sis"
+                }
+            },
+            "os": "s60v3"
+        },
+        "id": "demo-MobieQQ-S60v3.json_2020-01-01_22-00-00_g_4cb853_1"
+    },
+    {
+        "source": "MobileQQ",
+        "device": "Nokia 6220c",
+        "type": "消息",
+        "direction": "come",
+        "sender": "12345678",
+        "senderName": "果果",
+        "receiver": "0000000",
+        "receiverName": "Fish",
+        "day": "2020-01-01",
+        "time": "23:00:00",
+        "ms": 1577890800000,
+        "content": "我下了新版的。安了两个在卡里…",
+        "html": "我下了新版的。安了两个在卡里…",
+        "isFromOtherAccount": true,
+        "$MobileQQ": {
+            "key": {
+                "s60type": "消息 a8",
+                "s60direction": 128
+            },
+            "os": "s60v3"
+        },
+        "id": "demo-MobieQQ-S60v3.json_2020-01-01_23-00-00_c_0af688_1"
+    },
+    {
+        "source": "MobileQQ",
+        "device": "Nokia 6220c",
+        "type": "消息",
+        "direction": "go",
+        "sender": "0000000",
+        "senderName": "Fish",
+        "receiver": "12345678",
+        "receiverName": "果果",
+        "day": "2020-01-02",
+        "time": "00:00:00",
+        "ms": 1577894400000,
+        "content": "会冲突的  安装的时候说了 ",
+        "html": "会冲突的  安装的时候说了 ",
+        "isFromOtherAccount": true,
+        "$MobileQQ": {
+            "key": {
+                "s60type": "消息 a8",
+                "s60direction": 0
+            },
+            "os": "s60v3"
+        },
+        "id": "demo-MobieQQ-S60v3.json_2020-01-02_00-00-00_g_927f78_1"
+    },
+    {
+        "source": "MobileQQ",
+        "device": "Nokia 6120c",
+        "type": "忙",
+        "direction": "come",
+        "sender": "12345678",
+        "senderName": "果果",
+        "receiver": "0000000",
+        "receiverName": "Fish",
+        "day": "2020-01-01",
+        "time": "17:00:00",
+        "ms": 1577869200000,
+        "content": "MobileQQ S60v3...\r\n 我是多行文本。~~ ",
+        "html": "MobileQQ S60v3...\r<br/>我是多行文本。~~ ",
+        "$MobileQQ": {
+            "key": {
+                "s60type": "消息 a8",
+                "s60direction": 80
+            },
+            "os": "s60v3"
+        },
+        "id": "demo-MobieQQ-S60v3.json_2020-01-01_17-00-00_c_d61096_1"
+    },
+    {
+        "source": "MobileQQ",
+        "device": "Nokia 6220c",
+        "type": "忙",
+        "direction": "go",
+        "sender": "0000000",
+        "senderName": "Fish",
+        "receiver": "12345678",
+        "receiverName": "果果",
+        "day": "2020-01-01",
+        "time": "18:00:00",
+        "ms": 1577872800000,
+        "content": "您好，我现在有事不在，一会再和您联系。 ",
+        "html": "您好，我现在有事不在，一会再和您联系。 ",
+        "isFromOtherAccount": true,
+        "$MobileQQ": {
+            "key": {
+                "s60type": "消息 a8",
+                "s60direction": 80
+            },
+            "os": "s60v3"
+        },
+        "id": "demo-MobieQQ-S60v3.json_2020-01-01_18-00-00_g_d18084_1"
+    }
+]
