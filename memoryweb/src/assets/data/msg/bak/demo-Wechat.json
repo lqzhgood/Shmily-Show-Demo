@@ -2,6 +2,31 @@
     {
         "source": "Wechat",
         "device": "Phone",
+        "type": "撤回",
+        "direction": "come",
+        "sender": "",
+        "senderName": "果果",
+        "receiver": "",
+        "receiverName": "Fish",
+        "day": "2020-01-03",
+        "time": "02:00:00",
+        "ms": 1577988000000,
+        "content": "没有撤回的样本",
+        "html": "没有撤回的样本",
+        "$Wechat": {
+            "data": {},
+            "res": {},
+            "raw": {},
+            "os": "Android",
+            "rootPath": "wechat/android"
+        },
+        "_isDev": {
+            "isFromOtherAccount": true
+        }
+    },
+    {
+        "source": "Wechat",
+        "device": "Phone",
         "type": "位置",
         "direction": "come",
         "sender": "",
@@ -421,9 +446,7 @@
                 },
                 "createTime": "",
                 "flag": "0",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "1",
                 "isShowTimer": null,
@@ -468,9 +491,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
@@ -1035,9 +1056,7 @@
                 },
                 "createTime": "1456750924266",
                 "flag": "0",
-                "hasXml": [
-                    "reserved"
-                ],
+                "hasXml": ["reserved"],
                 "imgPath": "THUMBNAIL_DIRPATH://th_cfa72bdf5175827ee2dce18f6b218185",
                 "isSend": "1",
                 "isShowTimer": null,
@@ -1094,9 +1113,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
@@ -1373,9 +1390,7 @@
                 },
                 "createTime": "",
                 "flag": "0",
-                "hasXml": [
-                    "reserved"
-                ],
+                "hasXml": ["reserved"],
                 "imgPath": "",
                 "isSend": "0",
                 "isShowTimer": null,
@@ -1459,9 +1474,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
@@ -1740,9 +1753,7 @@
                 },
                 "createTime": "",
                 "flag": "0",
-                "hasXml": [
-                    "reserved"
-                ],
+                "hasXml": ["reserved"],
                 "imgPath": null,
                 "isSend": "0",
                 "isShowTimer": null,
@@ -1843,9 +1854,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
@@ -1999,9 +2008,7 @@
                 },
                 "createTime": "",
                 "flag": "0",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": null,
                 "isSend": "0",
                 "isShowTimer": null,
@@ -2066,9 +2073,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
@@ -2469,9 +2474,7 @@
                 },
                 "createTime": "",
                 "flag": "0",
-                "hasXml": [
-                    "reserved"
-                ],
+                "hasXml": ["reserved"],
                 "imgPath": null,
                 "isSend": "1",
                 "isShowTimer": null,
@@ -2521,9 +2524,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
@@ -2604,10 +2605,7 @@
                         "iconurl": "http://wx.gtimg.com/hongbao/img/hongbao.png",
                         "receivertitle": "恭喜发财，大吉大利！",
                         "sendertitle": "恭喜发财，大吉大利！",
-                        "scenetext": [
-                            "微信红包",
-                            "微信红包"
-                        ],
+                        "scenetext": ["微信红包", "微信红包"],
                         "senderdes": "查看红包",
                         "receiverdes": "领取红包",
                         "nativeurl": "",
@@ -2636,10 +2634,7 @@
                                 "iconurl": "http://wx.gtimg.com/hongbao/img/hongbao.png",
                                 "receivertitle": "恭喜发财，大吉大利！",
                                 "sendertitle": "恭喜发财，大吉大利！",
-                                "scenetext": [
-                                    "微信红包",
-                                    "微信红包"
-                                ],
+                                "scenetext": ["微信红包", "微信红包"],
                                 "senderdes": "查看红包",
                                 "receiverdes": "领取红包",
                                 "nativeurl": "",
@@ -2652,9 +2647,7 @@
                 },
                 "createTime": "1453799801000",
                 "flag": "0",
-                "hasXml": [
-                    "reserved"
-                ],
+                "hasXml": ["reserved"],
                 "imgPath": "THUMBNAIL_DIRPATH://th_c7298c01b7af37663a2da22c188576f1",
                 "isSend": "0",
                 "isShowTimer": null,
@@ -2705,9 +2698,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
@@ -3806,9 +3797,7 @@
                 },
                 "createTime": "1523415361000",
                 "flag": "0",
-                "hasXml": [
-                    "reserved"
-                ],
+                "hasXml": ["reserved"],
                 "imgPath": "THUMBNAIL_DIRPATH://th_4e49f9274035d6ff89e1197252f04fa0",
                 "isSend": "0",
                 "isShowTimer": null,
@@ -4580,9 +4569,7 @@
                 },
                 "createTime": "1451279327000",
                 "flag": "0",
-                "hasXml": [
-                    "reserved"
-                ],
+                "hasXml": ["reserved"],
                 "imgPath": null,
                 "isSend": "1",
                 "isShowTimer": null,
@@ -4621,9 +4608,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
@@ -4736,9 +4721,7 @@
                 },
                 "createTime": "1451279359000",
                 "flag": "0",
-                "hasXml": [
-                    "reserved"
-                ],
+                "hasXml": ["reserved"],
                 "imgPath": null,
                 "isSend": "0",
                 "isShowTimer": null,
@@ -4781,9 +4764,7 @@
                 "content": "",
                 "createTime": "",
                 "flag": "",
-                "hasXml": [
-                    ""
-                ],
+                "hasXml": [""],
                 "imgPath": "",
                 "isSend": "",
                 "isShowTimer": "",
