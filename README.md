@@ -4,11 +4,13 @@ Shmily 前端 Demo
 Demo 地址 http://demo.shmily.lqzh.me/
 
 浏览 [/query](http://demo.shmily.lqzh.me/)
+搜索 [/query](http://demo.shmily.lqzh.me/#/query?searchType=消息&searchKey=-Reg:/*/gim)
 统计 [/statistic](http://demo.shmily.lqzh.me/#/statistic)
 
 
 
 <a target="_blank" href="http://demo.shmily.lqzh.me/">![query](./screenshots/query.png)</a>
+<a target="_blank" href="http://demo.shmily.lqzh.me/#/query?searchType=消息&searchKey=-Reg:/*/gim">![query](./screenshots/search.png)</a>
 <a target="_blank" href="http://demo.shmily.lqzh.me/#/statistic">![statistic](./screenshots/statistic.png)</a>
 
 
