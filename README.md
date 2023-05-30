@@ -8,8 +8,8 @@ Demo 地址 http://demo.shmily.lqzh.me/
 
 
 
-![query](./screenshots/query.png)
-![statistic](./screenshots/statistic.png)
+<a target="_blank" href="http://demo.shmily.lqzh.me/">![query](./screenshots/query.png)</a>
+<a target="_blank" href="http://demo.shmily.lqzh.me/#/statistic">![statistic](./screenshots/statistic.png)</a>
 
 
 
